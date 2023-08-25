@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.xaoxuu.com/api?username=Fgaoxing&count_private=true&show_icons=true" />
 </a>
 ### 👦About me
-My Bolg: https://www.yt-blog.top
+My Blog: https://www.yt-blog.top
 
 My Bilibili: https://space.bilibili.com/1838629590
 
