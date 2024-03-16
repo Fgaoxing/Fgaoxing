@@ -1,4 +1,9 @@
 ![Frame 1 (1)](https://github.com/Fgaoxing/Fgaoxing/assets/92655031/1cba8644-c53c-44b7-a7f1-7bd72cfd0e16)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
+  <img src="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
+</picture>
 <a href="#">
   <br /><br /><br />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&exclude_repo=Fgaoxing/fgaoxing.github.io,Fgaoxing/hexo" />
