@@ -1,7 +1,7 @@
 ![Frame 1 (1)](https://github.com/Fgaoxing/Fgaoxing/assets/92655031/1cba8644-c53c-44b7-a7f1-7bd72cfd0e16)
 <a href="#">
   <br /><br /><br />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&exclude_repo=Fgaoxing/fgaoxing.github.io" />
 </a>
 ### 👦About me
 My Blog: https://www.yt-blog.top
