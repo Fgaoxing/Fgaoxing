@@ -1,0 +1,61 @@
+name: Profile
+
+on:
+  schedule: [{ cron: '0 */0 * * *' }]
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          committer_token: ${{ secrets.token }}
+          token: ${{ secrets.token }}
+          base: header, repositories
+          plugin_lines: yes
+  snk:
+    needs: [metrics]
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.token }}
+    steps:
+      - name: Setup Information
+        run: |
+          git config --global user.email Fgaoxing0206@163.com
+          git config --global user.name Fgaoxing
+      - name: Checkout
+        uses: actions/checkout@v3.6.0
+        with:
+          token: ${{ secrets.token }}
+      - name: Update SNK
+        uses: Platane/snk@v3
+        with:
+          # github user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
+          github_user_name: ${{ github.repository_owner }}
+
+          # list of files to generate.
+          # one file per line. Each output can be customized with options as query string.
+          #
+          #  supported options:
+          #  - palette:     A preset of color, one of [github, github-dark, github-light]
+          #  - color_snake: Color of the snake
+          #  - color_dots:  Coma separated list of dots color.
+          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+          #                 Exactly 5 colors are expected.
+          outputs: |
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
+            ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: Push to master
+        run: |
+          if [[ -n $(git status -s) ]]; then
+          git add .
+          git commit -m "Update SNK"
+          git push origin main --force
+          else
+          echo "No Change, Bye bye!"
+          fi
