@@ -8,6 +8,7 @@
   <br /><br /><br />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&exclude_repo=Fgaoxing/fgaoxing.github.io,Fgaoxing/hexo" />
 </a>
+
 ### 👦About me
 My Blog: https://www.yt-blog.top
 
