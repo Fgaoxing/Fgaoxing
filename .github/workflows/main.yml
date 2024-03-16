@@ -47,9 +47,8 @@ jobs:
           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
           #                 Exactly 5 colors are expected.
           outputs: |
-            github-snake.svg
-            github-snake-dark.svg?palette=github-dark
-            ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            github-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            github-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       - name: Push to master
         run: |
           if [[ -n $(git status -s) ]]; then
