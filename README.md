@@ -34,5 +34,5 @@ My city: Harbin, China
 
 Please refer to my code repository list for other details
 
-### catgirl picture
+### 🐱Catgirl picture
 ![pic](https://api.suyanw.cn/api/mao/)
