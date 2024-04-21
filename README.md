@@ -23,7 +23,7 @@ My city: Harbin, China
 ### 🎚️Programming language used
 [![icon](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/) [![icon](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)](https://go.dev/)  [![icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/)
 
-![img](https://github-readme-stats.xaoxuu.com/api/top-langs/?username=Fgaoxing&layout=compact)
+![img](https://github-readme-stats.yt-blog.top/api/top-langs/?username=Fgaoxing&layout=compact)
 
 ### 📦Project
 | [![icon](https://avatars.githubusercontent.com/u/134116865?s=20&v=4) Hexo-theme-Jian](https://github.com/Hexo-theme-Jian/Hexo-theme-Jian) | [![icon](https://avatars.githubusercontent.com/u/119643577?s=20&v=4) Simplest-Server](https://github.com/simplest-server/simplest-server) | [![icon](https://avatars.githubusercontent.com/u/142860593?s=20&v=4) FastResponse](https://github.com/fast-response/fast-response) |
