@@ -6,7 +6,7 @@
 </picture>
 <a href="#">
   <br /><br /><br />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" />
+  <img align="right" src="https://github-readme-stats.yt-blog.top/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" />
 </a>
 
 ### 👦About me
@@ -30,7 +30,7 @@ My city: Harbin, China
 | --- | --- | ---|
 | 一个简洁小巧的Hexo主题 | 一个快速开发的基于http模块的，路由式无服务器框架 | 一个基于“gnet”的小巧，快速，高性能的Web框架。 |
 | A concise and compact Hexo theme. | A rapidly developed HTTP module based, routing serverless framework. | A small, fast, high-performance web framework based on "gnet". |
-| ![card](https://github-readme-stats.xaoxuu.com/api/pin/?username=Hexo-theme-Jian&repo=Hexo-theme-Jian&show_owner=true) | ![card](https://github-readme-stats.xaoxuu.com/api/pin/?username=simplest-server&repo=simplest-server&show_owner=true) | ![card](https://github-readme-stats.xaoxuu.com/api/pin/?username=fast-response&repo=fast-response&show_owner=true) |
+| ![card](https://github-readme-stats.yt-blog.top/api/pin/?username=Hexo-theme-Jian&repo=Hexo-theme-Jian&show_owner=true) | ![card](https://github-readme-stats.yt-blog.top/api/pin/?username=simplest-server&repo=simplest-server&show_owner=true) | ![card](https://github-readme-stats.yt-blog.top/api/pin/?username=fast-response&repo=fast-response&show_owner=true) |
 
 Please refer to my code repository list for other details
 
