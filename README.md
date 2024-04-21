@@ -6,7 +6,7 @@
 </picture>
 <a href="#">
   <br/><br/><br/>
-  <img align="right" src="https://github-readme-stats.yt-blog.top/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" />
+  <img align="right" src="https://github-readme-stats.yt-blog.top/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" />
 </a>
 
 ### 👦About me
