@@ -9,16 +9,17 @@
   <img align="right" src="https://github-readme-stats.yt-blog.top/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" />
 </a>
 
-### 👦About me
-My Blog: https://www.yt-blog.top
+ 
+### About Me
+Blog: https://www.yt-blog.top
 
-My Bilibili: https://space.bilibili.com/1838629590
+Bilibili: https://space.bilibili.com/1838629590
 
-My email: admin@yt-blog.top or Fgaoxing0206@outlook.com
+Email: admin@yt-blog.top or Fgaoxing0206@outlook.com
 
-My age: 14 years old
+Age: 14
 
-My city: Harbin, China
+Location: Harbin, China
 
 ### 🎚️Programming language used
 [![icon](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/) [![icon](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)](https://go.dev/)  [![icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/)
