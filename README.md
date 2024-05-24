@@ -12,19 +12,18 @@
 Hello 你好 こんにちは Bonjour Halo
 
 ### 👦About me
-My Blog: https://www.yt-blog.top
+Blog: https://www.yt-blog.top
 
-My Bilibili: https://space.bilibili.com/1838629590
+Bilibili: https://space.bilibili.com/1838629590
 
-My email: admin@yt-blog.top or Fgaoxing0206@outlook.com
+Email: admin@yt-blog.top or Fgaoxing0206@outlook.com
 
-My age: 14 years old
+Age: 14
 
-My city: Harbin, China
+Location: Harbin, China
 
 ### 🎚️Programming language used
-[![icon](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/) [![icon](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)](https://go.dev/)  [![icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/)
-![icon](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000)
+[![icon](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/) [![icon](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)](https://go.dev/)  [![icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/)![icon](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000)
 
 ![img](https://github-readme-stats.yt-blog.top/api/top-langs/?username=Fgaoxing&layout=compact)
 
