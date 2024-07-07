@@ -9,7 +9,7 @@
   <img align="right" src="https://github-readme-stats.yt-blog.top/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" />
 </a>
 
-[English](https://github.com/Fgaoxing) [繁体中文](https://github.com/Fgaoxing/Fgaoxing/blob/README_zh-Hant.md)
+[English](https://github.com/Fgaoxing) [繁体中文](https://github.com/Fgaoxing/Fgaoxing/blob/main/README_zh-Hant.md)
 
 Hello 你好 こんにちは Bonjour Halo
 
@@ -36,7 +36,7 @@ Hello 你好 こんにちは Bonjour Halo
 | A concise and compact Hexo theme. | A rapidly developed HTTP module based, routing serverless framework. | A small, fast, high-performance web framework based on "gnet". |
 | ![card](https://github-readme-stats.yt-blog.top/api/pin/?username=Hexo-theme-Jian&repo=Hexo-theme-Jian&show_owner=true) | ![card](https://github-readme-stats.yt-blog.top/api/pin/?username=simplest-server&repo=simplest-server&show_owner=true) | ![card](https://github-readme-stats.yt-blog.top/api/pin/?username=fast-response&repo=fast-response&show_owner=true) |
 
-Please refer to my code repository list for other details
+有关其他详细信息，请参阅我的代码存储库列表
 
-### 🐱Catgirl picture
+### 🐱猫娘
 ![pic](https://api.suyanw.cn/api/mao/)
