@@ -9,7 +9,7 @@
   <img align="right" src="https://github-readme-stats.yt-blog.top/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" />
 </a>
 
-[English](https://github.com/Fgaoxing) [繁體中文](https://github.com/Fgaoxing/Fgaoxing/blob/main/README_zh-Hant.md)
+[English](https://github.com/Fgaoxing) [繁體中文](https://github.com/Fgaoxing/Fgaoxing/blob/main/README_zh-Hant.md) [日本語](https://github.com/Fgaoxing/Fgaoxing/blob/main/README_jp.md)
 
 Hello 你好 こんにちは Bonjour Halo
 
@@ -22,7 +22,7 @@ Hello 你好 こんにちは Bonjour Halo
 
 年龄: 14
 
-所在地: Harbin, China
+所在地: 中国哈尔滨
 
 ### 🎚️使用的编程语言
 [![icon](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/) [![icon](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)](https://go.dev/)  [![icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/) ![icon](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000)
