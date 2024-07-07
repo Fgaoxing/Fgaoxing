@@ -9,6 +9,8 @@
   <img align="right" src="https://github-readme-stats.yt-blog.top/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" />
 </a>
 
+[简体中文](https://github.com/Fgaoxing/Fgaoxing/blob/README_zh-Hans.md) [繁体中文](https://github.com/Fgaoxing/Fgaoxing/blob/README_zh-Hant.md)
+
 Hello 你好 こんにちは Bonjour Halo
 
 ### 👦About me
