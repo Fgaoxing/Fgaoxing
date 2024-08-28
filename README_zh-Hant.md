@@ -29,6 +29,10 @@ Hello 你好 こんにちは Bonjour Halo
 
 ![img](https://github-readme-stats.yt-blog.top/api/top-langs/?username=Fgaoxing&layout=compact)
 
+
+![Wakatime](https://wakatime.com/share/@51f74740-ae2e-406a-bc2c-97b993e020bd/ef3cb984-9601-4ac4-a327-f0a84d32a562.svg)
+![Wakatime](https://wakatime.com/share/@51f74740-ae2e-406a-bc2c-97b993e020bd/20c01fbf-b79f-4ab1-b053-5dce8365d17b.svg)
+
 ### 📦項目
 | [![icon](https://avatars.githubusercontent.com/u/134116865?s=20&v=4) Hexo-theme-Jian](https://github.com/Hexo-theme-Jian/Hexo-theme-Jian) | [![icon](https://avatars.githubusercontent.com/u/119643577?s=20&v=4) Simplest-Server](https://github.com/simplest-server/simplest-server) | [![icon](https://avatars.githubusercontent.com/u/142860593?s=20&v=4) FastResponse](https://github.com/fast-response/fast-response) |
 | --- | --- | ---|
