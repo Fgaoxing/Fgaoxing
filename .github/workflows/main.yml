@@ -58,3 +58,4 @@ jobs:
           else
           echo "No Change, Bye bye!"
           fi
+          curl -X PURGE https://camo.githubusercontent.com/3593672362203f7801d4b453d35f30d60a0c653d57edfd9190301e78d570cdfd/68747470733a2f2f6170692e737579616e772e636e2f6170692f6d616f2f -k
