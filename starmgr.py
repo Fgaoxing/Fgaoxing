@@ -1,209 +1,237 @@
 import os
+import json
 import requests
 import time
 from datetime import datetime
 from collections import defaultdict
-from typing import Dict, List
+from typing import Dict, List, Tuple
 
-# Configuration
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+# 配置项
+GITHUB_TOKEN = os.getenv("GH_TOKEN")
 OUTPUT_FILE = "STARS.md"
 CACHE_FILE = "stars_cache.json"
-MAX_RETRIES = 3
-REQUEST_INTERVAL = 1  # Seconds between requests
+REQUEST_INTERVAL = 1  # API请求间隔
 
-class StarOrganizer:
+class GitHubStarOrganizer:
     def __init__(self):
-        self.headers = {
+        self.session = requests.Session()
+        self.session.headers.update({
             "Authorization": f"token {GITHUB_TOKEN}",
             "Accept": "application/vnd.github.v3+json"
-        }
-        self.session = requests.Session()
-        self.session.headers.update(self.headers)
-        self.cache = self._load_cache()
+        })
+        self.cache = self.load_cache()
+        self.stats = defaultdict(int)
+        self.repo_count = 0
 
-    def _load_cache(self) -> Dict:
+    def load_cache(self) -> Dict:
         try:
             with open(CACHE_FILE, "r") as f:
                 return json.load(f)
         except (FileNotFoundError, json.JSONDecodeError):
-            return {"repos": {}, "etag": {}}
+            return {
+                "languages": {},
+                "categories": {},
+                "etags": {},
+                "last_updated": None
+            }
 
-    def _save_cache(self):
+    def save_cache(self):
+        self.cache["last_updated"] = datetime.now().isoformat()
         with open(CACHE_FILE, "w") as f:
-            json.dump(self.cache, f)
+            json.dump(self.cache, f, indent=2)
 
-    def _get_primary_language(self, owner: str, repo: str) -> str:
-        """Get the most used language for a repository"""
-        url = f"https://api.github.com/repos/{owner}/{repo}/languages"
+    def get_github_category(self, repo: dict) -> Tuple[str, str]:
+        """获取GitHub官方分类信息"""
+        # 官方分类规则
+        if repo["archived"]:
+            return "Archived", "🚧 Archived repositories"
+        if repo["fork"]:
+            return "Forks", "🍴 Forked repositories"
+        if "template" in repo["topics"]:
+            return "Templates", "📋 Repository templates"
         
-        # ETag check for cache validation
-        etag = self.cache["etag"].get(url)
-        headers = self.headers.copy()
-        if etag:
-            headers["If-None-Match"] = etag
-
-        for _ in range(MAX_RETRIES):
-            try:
-                response = self.session.get(url, headers=headers)
-                if response.status_code == 304:
-                    return self.cache["repos"][f"{owner}/{repo}"]["primary_lang"]
-                
-                if response.status_code == 200:
-                    languages = response.json()
-                    if not languages:
-                        return "Others"
-                    
-                    primary_lang = max(languages, key=languages.get)
-                    
-                    # Update cache
-                    self.cache["etag"][url] = response.headers.get("ETag", "")
-                    self.cache["repos"][f"{owner}/{repo}"] = {
-                        "primary_lang": primary_lang,
-                        "timestamp": datetime.now().isoformat()
-                    }
-                    return primary_lang
-                
-                elif response.status_code == 404:
-                    return "Archived/Deleted"
-                
-            except requests.exceptions.RequestException as e:
-                print(f"Error getting languages for {owner}/{repo}: {e}")
-                time.sleep(REQUEST_INTERVAL * 2)
+        # 检测官方主题分类
+        official_topics = {
+            "android": "📱 Android",
+            "ios": " iOS",
+            "react": "⚛️ React",
+            "vue": "🖖 Vue.js",
+            "machine-learning": "🤖 ML/AI"
+        }
+        for topic in repo["topics"]:
+            if topic in official_topics:
+                return official_topics[topic], "GitHub官方主题分类"
         
-        return "Unknown"
+        # 使用GitHub检测的主要语言
+        lang_data = self.get_primary_language(repo["owner"]["login"], repo["name"])
+        return lang_data
 
-    def get_all_starred_repos(self) -> List[dict]:
-        """Get all starred repositories with pagination"""
-        url = "https://api.github.com/user/starred?per_page=100"
+    def get_primary_language(self, owner: str, repo: str) -> Tuple[str, str]:
+        """获取仓库主要语言及分类"""
+        cache_key = f"{owner}/{repo}"
+        if cache_key in self.cache["languages"]:
+            return self.cache["languages"][cache_key]["category"], "自动语言分类"
+
+        try:
+            response = self.session.get(f"https://api.github.com/repos/{owner}/{repo}/languages")
+            if response.status_code == 200:
+                languages = response.json()
+                if not languages:
+                    return "Others", "🗂️ Other languages"
+                
+                primary_lang = max(languages.keys(), key=lambda k: languages[k])
+                lang_category = self.map_language_category(primary_lang)
+                
+                # 缓存结果
+                self.cache["languages"][cache_key] = {
+                    "primary_lang": primary_lang,
+                    "category": lang_category,
+                    "timestamp": datetime.now().isoformat()
+                }
+                return lang_category, "GitHub官方语言分类"
+            
+            return "Unknown", "❓ Unknown category"
+        except Exception as e:
+            print(f"Error getting language: {str(e)}")
+            return "Unknown", "❓ Unknown category"
+
+    def map_language_category(self, lang: str) -> str:
+        """映射到GitHub官方语言分类"""
+        categories = {
+            "Python": "🐍 Python",
+            "JavaScript": "🌐 JavaScript",
+            "TypeScript": "📘 TypeScript",
+            "Java": "☕ Java",
+            "C++": "🖥️ C/C++",
+            "C": "🖥️ C/C++",
+            "Go": "🐹 Go",
+            "Rust": "🦀 Rust",
+            "Ruby": "💎 Ruby",
+            "PHP": "🐘 PHP",
+            "Swift": "🍎 Swift",
+            "Kotlin": "🅚 Kotlin"
+        }
+        return categories.get(lang, f"📚 {lang}")
+
+    def fetch_all_starred(self) -> List[dict]:
+        """获取所有star的仓库"""
         repos = []
-        
-        while url:
+        page = 1
+        while True:
+            url = f"https://api.github.com/user/starred?per_page=100&page={page}"
             try:
                 response = self.session.get(url)
                 response.raise_for_status()
-                repos.extend(response.json())
+                batch = response.json()
+                if not batch:
+                    break
                 
-                # Check for rate limits
-                remaining = int(response.headers.get("X-RateLimit-Remaining", 0))
-                if remaining < 10:
-                    reset_time = int(response.headers.get("X-RateLimit-Reset", 0))
-                    sleep_time = max(reset_time - time.time(), 0) + 10
-                    print(f"Rate limit approaching. Sleeping for {sleep_time} seconds")
+                repos.extend(batch)
+                page += 1
+                self.repo_count += len(batch)
+
+                # 处理速率限制
+                remaining = int(response.headers.get("X-RateLimit-Remaining", 1))
+                if remaining < 5:
+                    reset_time = int(response.headers.get("X-RateLimit-Reset", time.time() + 3600))
+                    sleep_time = max(reset_time - time.time() + 10, 0)
+                    print(f"Rate limit reached. Sleeping {sleep_time} seconds")
                     time.sleep(sleep_time)
                 
-                url = response.links.get("next", {}).get("url")
                 time.sleep(REQUEST_INTERVAL)
-                
-            except requests.exceptions.RequestException as e:
-                print(f"Error fetching starred repos: {e}")
+
+            except Exception as e:
+                print(f"Error fetching stars: {str(e)}")
                 break
-        
         return repos
 
-    def process_repos(self, repos: List[dict]) -> Dict[str, List[dict]]:
-        """Process repositories and categorize by primary language"""
-        categorized = defaultdict(list)
-        
+    def process_repos(self, repos: List[dict]) -> Dict[str, List]:
+        """处理仓库数据"""
+        categorized = defaultdict(lambda: defaultdict(list))
         for repo in repos:
-            owner_login = repo["owner"]["login"]
-            repo_name = repo["name"]
-            repo_info = {
-                "name": repo_name,
-                "owner": owner_login,
+            # 获取分类信息
+            category, reason = self.get_github_category(repo)
+            sub_category = reason  # 使用分类原因作为子类
+            
+            repo_data = {
+                "name": repo["name"],
+                "owner": repo["owner"]["login"],
                 "url": repo["html_url"],
-                "description": repo["description"] or "No description",
+                "desc": repo["description"] or "No description",
                 "stars": repo["stargazers_count"],
-                "archived": repo["archived"],
                 "topics": repo.get("topics", []),
-                "updated_at": repo["updated_at"]
+                "updated": repo["pushed_at"][:10],
+                "created": repo["created_at"][:10],
+                "archived": repo["archived"],
+                "fork": repo["fork"],
+                "license": repo["license"]["key"] if repo["license"] else None,
+                "category_reason": reason
             }
-            
-            # Get primary language
-            cache_key = f"{owner_login}/{repo_name}"
-            if cache_key in self.cache["repos"]:
-                primary_lang = self.cache["repos"][cache_key]["primary_lang"]
-            else:
-                primary_lang = self._get_primary_language(owner_login, repo_name)
-            
-            # Handle special cases
-            if repo["archived"]:
-                category = "Archived"
-            elif primary_lang == "Others":
-                category = "Others"
-            else:
-                category = primary_lang
-            
-            repo_info["primary_lang"] = primary_lang
-            categorized[category].append(repo_info)
-            time.sleep(REQUEST_INTERVAL)
+
+            categorized[category][sub_category].append(repo_data)
+            self.stats[category] += 1
         
         return categorized
 
-    def generate_report(self, categorized: Dict[str, List[dict]]) -> str:
-        """Generate markdown report"""
+    def generate_markdown(self, categories: Dict) -> str:
+        """生成Markdown报告"""
         content = [
             "# GitHub Star Catalog\n",
-            f"*Automatically generated at {datetime.now().strftime('%Y-%m-%d %H:%M')}*\n",
-            "## Statistics\n",
-            f"Total starred repositories: {sum(len(v) for v in categorized.values())}\n",
-            f"Unique categories: {len(categorized)}\n\n",
-            "## Categories\n"
+            f"*Last Updated: {datetime.now().strftime('%Y-%m-%d %H:%M')}*\n\n",
+            "## 🌟 Statistics\n",
+            f"Total Starred Repositories: {self.repo_count}\n",
+            "### Category Distribution\n",
+            "| Category | Count |\n|----------|------:|\n"
         ]
-        
-        # Generate statistics
-        lang_stats = sorted(
-            [(lang, len(repos)) for lang, repos in categorized.items()],
-            key=lambda x: (-x[1], x[0])
-        )
-        content.append("### Language Distribution\n")
-        content.append("| Language | Count |\n|----------|-------|\n")
-        for lang, count in lang_stats:
-            content.append(f"| {lang} | {count} |\n")
+
+        # 生成统计
+        for cat, count in sorted(self.stats.items(), key=lambda x: (-x[1], x[0])):
+            content.append(f"| {cat} | {count} |\n")
         content.append("\n")
-        
-        # Generate sections
-        for lang in sorted(categorized.keys(), key=lambda x: (-len(categorized[x]), x)):
-            content.append(f"## {lang}\n")
-            repos = sorted(categorized[lang], 
-                         key=lambda x: (-x["stars"], x["name"]))
+
+        # 生成分类内容
+        for main_cat in sorted(categories.keys(), key=lambda x: (-self.stats[x], x)):
+            content.append(f"## {main_cat}\n")
             
-            for repo in repos:
-                badges = []
-                if repo["archived"]:
-                    badges.append("🚧 Archived")
-                if repo["topics"]:
-                    badges.extend([f"`{topic}`" for topic in repo["topics"][:3]])
+            for sub_cat in categories[main_cat]:
+                content.append(f"### {sub_cat}\n")
                 
-                star_count = f"★{repo['stars']:,}"
-                description = repo["description"]
+                repos = sorted(categories[main_cat][sub_cat], 
+                              key=lambda x: (-x["stars"], x["name"]))
                 
-                content.append(
-                    f"- [{repo['name']}]({repo['url']}) {star_count}\n"
-                    f"  - {description}\n"
-                    f"  - Last updated: {repo['updated_at'][:10]}  "
-                    f"{' '.join(badges)}\n"
-                )
+                for repo in repos:
+                    badges = []
+                    if repo["archived"]:
+                        badges.append("![Archived](https://img.shields.io/badge/-Archived-red)")
+                    if repo["license"]:
+                        badges.append(f"![License](https://img.shields.io/badge/license-{repo['license']}-blue)")
+                    if repo["topics"]:
+                        badges.extend([f"`{t}`" for t in repo["topics"][:3]])
+                    
+                    content.append(
+                        f"- [{repo['name']}]({repo['url']}) ★{repo['stars']}\n"
+                        f"  - {repo['desc']}\n"
+                        f"  - Created: {repo['created']}  "
+                        f"Updated: {repo['updated']}  "
+                        f"{' '.join(badges)}\n"
+                    )
+                
+                content.append("\n")
         
         return "\n".join(content)
 
     def run(self):
-        print("Fetching starred repositories...")
-        repos = self.get_all_starred_repos()
-        print(f"Found {len(repos)} starred repositories")
-        
-        print("Processing repositories...")
+        print("🚀 Starting GitHub Star Organizer...")
+        repos = self.fetch_all_starred()
+        print(f"🔍 Processing {len(repos)} repositories...")
         categorized = self.process_repos(repos)
-        
-        print("Generating report...")
-        report = self.generate_report(categorized)
+        report = self.generate_markdown(categorized)
         
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(report)
         
-        self._save_cache()
-        print(f"Report generated at {OUTPUT_FILE}")
+        self.save_cache()
+        print("✅ Report generated at STARS.md")
 
 if __name__ == "__main__":
-    organizer = StarOrganizer()
-    organizer.run()
+    GitHubStarOrganizer().run()
