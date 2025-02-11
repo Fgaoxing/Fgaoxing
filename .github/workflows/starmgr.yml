@@ -23,7 +23,7 @@ jobs:
       
       - name: Run Automation
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.TOKEN }}
         run: python starmgr.py
       
       - name: Commit & Push
