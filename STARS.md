@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-11 20:24*
+*Last Updated: 2025-02-11 21:20*
 
 
 ## 🌟 Statistics
@@ -243,7 +243,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★82781
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★82786
   - No description
   - Created: 2024-12-26  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -271,7 +271,7 @@ Total Starred Repositories: 279
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2475
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2476
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -555,7 +555,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350169
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350170
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -665,7 +665,7 @@ Total Starred Repositories: 279
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217076
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217082
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -767,11 +767,11 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [go](https://github.com/golang/go) ★125650
+- [go](https://github.com/golang/go) ★125648
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★20948
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★20949
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -779,7 +779,7 @@ Total Starred Repositories: 279
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★10084
+- [gnet](https://github.com/panjf2000/gnet) ★10085
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-02-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
@@ -865,7 +865,7 @@ Total Starred Repositories: 279
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★16818
+- [dokploy](https://github.com/Dokploy/dokploy) ★16819
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -923,7 +923,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★187451
+- [linux](https://github.com/torvalds/linux) ★187455
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -965,7 +965,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★114681
+- [PowerToys](https://github.com/microsoft/PowerToys) ★114683
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1229,7 +1229,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★16987
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★16988
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1277,7 +1277,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116474
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116480
   - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-03  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1307,7 +1307,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★30807
+- [llvm-project](https://github.com/llvm/llvm-project) ★30808
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-other-blue)
 
