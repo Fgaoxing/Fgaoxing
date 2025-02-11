@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-11 19:16*
+*Last Updated: 2025-02-11 20:24*
 
 
 ## 🌟 Statistics
@@ -243,11 +243,11 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★82780
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★82781
   - No description
   - Created: 2024-12-26  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★19416
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★19417
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-01-14  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
@@ -271,7 +271,7 @@ Total Starred Repositories: 279
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2474
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2475
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -417,7 +417,7 @@ Total Starred Repositories: 279
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
   - Created: 2023-05-27  Updated: 2024-12-09  ![License](https://img.shields.io/badge/license-mit-blue) `furry` `liteloaderqqnt` `qqnt`
 
-- [free-font](https://github.com/wordshub/free-font) ★4763
+- [free-font](https://github.com/wordshub/free-font) ★4764
   - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
   - Created: 2020-01-08  Updated: 2023-09-25  `cjk` `font` `free`
 
@@ -555,7 +555,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350163
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350169
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -665,7 +665,7 @@ Total Starred Repositories: 279
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217068
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217076
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -767,7 +767,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [go](https://github.com/golang/go) ★125649
+- [go](https://github.com/golang/go) ★125650
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -775,11 +775,11 @@ Total Starred Repositories: 279
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★15403
+- [SafeLine](https://github.com/chaitin/SafeLine) ★15404
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★10081
+- [gnet](https://github.com/panjf2000/gnet) ★10084
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-02-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
@@ -857,7 +857,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★167191
+- [vscode](https://github.com/microsoft/vscode) ★167193
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -865,7 +865,7 @@ Total Starred Repositories: 279
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★16815
+- [dokploy](https://github.com/Dokploy/dokploy) ★16818
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -923,9 +923,9 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★187448
+- [linux](https://github.com/torvalds/linux) ★187451
   - Linux kernel source tree
-  - Created: 2011-09-04  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2011-09-04  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [cmark](https://github.com/commonmark/cmark) ★1693
   - CommonMark parsing and rendering library and program in C
@@ -1277,7 +1277,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116471
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116474
   - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-03  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
