@@ -186,7 +186,7 @@ class GitHubStarOrganizer:
 
         # 生成统计
         for cat, count in sorted(self.stats.items(), key=lambda x: (-x[1], x[0])):
-            content.append(f"| {cat} | {count} |\n")
+            content.append(f"| {cat} | {count} |")
         content.append("\n")
 
         # 生成分类内容
