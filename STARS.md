@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-11 12:52*
+*Last Updated: 2025-02-11 12:59*
 
 
 ## 🌟 Statistics
@@ -13,67 +13,36 @@ Total Starred Repositories: 263
 |----------|------:|
 
 | Forks | 47 |
-
 | 🐍 Python | 38 |
-
 | 🌐 JavaScript | 35 |
-
 | 📚 HTML | 26 |
-
 | 🐹 Go | 21 |
-
 | Others | 19 |
-
 | 📘 TypeScript | 13 |
-
 | 🖥️ C/C++ | 8 |
-
 | 📚 C# | 7 |
-
 | Archived | 6 |
-
 | 📚 CSS | 6 |
-
 | ☕ Java | 5 |
-
 | 🖖 Vue.js | 4 |
-
 | Unknown | 3 |
-
 | ⚛️ React | 3 |
-
 | 📚 Shell | 3 |
-
 | 🐘 PHP | 2 |
-
 | 📚 Assembly | 2 |
-
 | 📚 EJS | 2 |
-
 | 📚 PowerShell | 2 |
-
 | Templates | 1 |
-
 | 💎 Ruby | 1 |
-
 | 📚 Batchfile | 1 |
-
 | 📚 Dockerfile | 1 |
-
 | 📚 LLVM | 1 |
-
 | 📚 Markdown | 1 |
-
 | 📚 Objective-C | 1 |
-
 | 📚 SCSS | 1 |
-
 | 📚 Vue | 1 |
-
 | 📱 Android | 1 |
-
 | 🦀 Rust | 1 |
-
 
 
 ## Forks
@@ -274,7 +243,7 @@ Total Starred Repositories: 263
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★82664
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★82665
   - No description
   - Created: 2024-12-26  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -370,7 +339,7 @@ Total Starred Repositories: 263
   - 🔥地址解析识别python版本
   - Created: 2023-12-18  Updated: 2024-11-28  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [xhs_spider](https://github.com/xxxxspider/xhs_spider) ★67
+- [xhs_spider](https://github.com/xxxxspider/xhs_spider) ★68
   - 小红书数据代采、全参Token、Cookies、xsec_token生成、小红书App shield算法、小红书web算法、小红书爬虫、xsec_token、x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac
   - Created: 2025-01-07  Updated: 2025-01-19  
 
@@ -578,7 +547,7 @@ Total Starred Repositories: 263
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350135
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350136
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -700,7 +669,7 @@ Total Starred Repositories: 263
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★10028
+- [gnet](https://github.com/panjf2000/gnet) ★10030
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-02-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
@@ -918,7 +887,7 @@ Total Starred Repositories: 263
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★187422
+- [linux](https://github.com/torvalds/linux) ★187424
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -956,7 +925,7 @@ Total Starred Repositories: 263
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★114674
+- [PowerToys](https://github.com/microsoft/PowerToys) ★114675
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
