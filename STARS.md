@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-11 21:20*
+*Last Updated: 2025-02-11 22:21*
 
 
 ## 🌟 Statistics
@@ -243,7 +243,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★82786
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★82795
   - No description
   - Created: 2024-12-26  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -273,7 +273,7 @@ Total Starred Repositories: 279
 
 - [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2476
   - Sky-T1: Train your own O1 preview model within $450
-  - Created: 2025-01-09  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
+  - Created: 2025-01-09  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
 - [WeblogicScan](https://github.com/rabbitmask/WeblogicScan) ★2208
   - Weblogic一键漏洞检测工具，V1.5，更新时间：20200730
@@ -555,7 +555,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350170
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350175
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -665,11 +665,11 @@ Total Starred Repositories: 279
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217082
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217090
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [gfwlist](https://github.com/gfwlist/gfwlist) ★23727
+- [gfwlist](https://github.com/gfwlist/gfwlist) ★23728
   - The one and only one gfwlist here
   - Created: 2015-03-13  Updated: 2025-02-07  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `anticensorship` `censorship` `censorship-circumvention`
 
@@ -767,23 +767,23 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [go](https://github.com/golang/go) ★125648
+- [go](https://github.com/golang/go) ★125645
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★20949
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★20948
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★15404
+- [SafeLine](https://github.com/chaitin/SafeLine) ★15403
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★10085
+- [gnet](https://github.com/panjf2000/gnet) ★10087
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-02-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9305
+- [pq](https://github.com/lib/pq) ★9306
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -795,7 +795,7 @@ Total Starred Repositories: 279
   - [mirror] Go's continuous build and release infrastructure (no stability promises)
   - Created: 2015-01-21  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
-- [go-simple-mail](https://github.com/xhit/go-simple-mail) ★659
+- [go-simple-mail](https://github.com/xhit/go-simple-mail) ★658
   - Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.
   - Created: 2019-09-15  Updated: 2024-07-20  ![License](https://img.shields.io/badge/license-mit-blue) `bulk-email` `bulk-email-sender` `email`
 
@@ -857,7 +857,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★167193
+- [vscode](https://github.com/microsoft/vscode) ★167198
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -865,7 +865,7 @@ Total Starred Repositories: 279
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★16819
+- [dokploy](https://github.com/Dokploy/dokploy) ★16820
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -923,7 +923,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★187455
+- [linux](https://github.com/torvalds/linux) ★187461
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -965,7 +965,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★114683
+- [PowerToys](https://github.com/microsoft/PowerToys) ★114684
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1151,7 +1151,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方主题分类
 
-- [emoji-mart](https://github.com/missive/emoji-mart) ★8866
+- [emoji-mart](https://github.com/missive/emoji-mart) ★8864
   - 🏪 One component to pick them all
   - Created: 2016-07-11  Updated: 2024-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `component` `emoji` `emoji-picker`
 
@@ -1277,7 +1277,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116480
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116486
   - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-03  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1307,7 +1307,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★30808
+- [llvm-project](https://github.com/llvm/llvm-project) ★30807
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1347,7 +1347,7 @@ Total Starred Repositories: 279
 
 ### GitHub官方语言分类
 
-- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4111
+- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4108
   - Incomplete Redis client and server implementation using Tokio - for learning purposes only
   - Created: 2019-12-04  Updated: 2024-08-03  ![License](https://img.shields.io/badge/license-mit-blue)
 
