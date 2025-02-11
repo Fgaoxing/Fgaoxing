@@ -1,0 +1,35 @@
+name: Auto Update Star Catalog
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时运行一次
+  watch:
+    types: started       # 当有人star仓库时触发
+  workflow_dispatch:     # 手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Run Automation
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python starmgr.py
+      
+      - name: Commit & Push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add STARS.md
+          git commit -m "Auto Update: $(date +'%Y-%m-%d %H:%M')" || exit 0
+          git push
