@@ -1,11 +1,11 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-11 14:05*
+*Last Updated: 2025-02-11 14:22*
 
 
 ## 🌟 Statistics
 
-Total Starred Repositories: 271
+Total Starred Repositories: 272
 
 ### Category Distribution
 
@@ -15,7 +15,7 @@ Total Starred Repositories: 271
 | 🐍 Python | 38 |
 | 🌐 JavaScript | 35 |
 | 📚 HTML | 26 |
-| Others | 22 |
+| Others | 23 |
 | 🐹 Go | 21 |
 | 📘 TypeScript | 15 |
 | 🖥️ C/C++ | 8 |
@@ -242,7 +242,7 @@ Total Starred Repositories: 271
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★82698
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★82705
   - No description
   - Created: 2024-12-26  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -270,7 +270,7 @@ Total Starred Repositories: 271
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2472
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2473
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -408,7 +408,7 @@ Total Starred Repositories: 271
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
   - Created: 2023-05-27  Updated: 2024-12-09  ![License](https://img.shields.io/badge/license-mit-blue) `furry` `liteloaderqqnt` `qqnt`
 
-- [free-font](https://github.com/wordshub/free-font) ★4761
+- [free-font](https://github.com/wordshub/free-font) ★4762
   - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
   - Created: 2020-01-08  Updated: 2023-09-25  `cjk` `font` `free`
 
@@ -444,7 +444,7 @@ Total Starred Repositories: 271
   - 🎉 The easiest way to run .tsx in nodejs
   - Created: 2025-01-22  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [XDU-SE-delivery](https://github.com/chenlu0701/XDU-SE-delivery) ★34
+- [XDU-SE-delivery](https://github.com/chenlu0701/XDU-SE-delivery) ★35
   - 大三上程序设计实训-外卖项目
   - Created: 2025-02-08  Updated: 2025-02-08  
 
@@ -546,7 +546,7 @@ Total Starred Repositories: 271
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350142
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350143
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -656,7 +656,7 @@ Total Starred Repositories: 271
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217017
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217019
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -680,7 +680,7 @@ Total Starred Repositories: 271
   - stable-diffusion-webui 的汉化扩展
   - Created: 2022-10-10  Updated: 2024-05-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue)
 
-- [sourcery](https://github.com/sourcery-ai/sourcery) ★1597
+- [sourcery](https://github.com/sourcery-ai/sourcery) ★1598
   - Instant AI code reviews
   - Created: 2019-07-15  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `code-quality` `code-review-bot`
 
@@ -691,6 +691,10 @@ Total Starred Repositories: 271
 - [sensitive-stop-words](https://github.com/fwwdn/sensitive-stop-words) ★1347
   - 互联网常用敏感词、停止词词库
   - Created: 2015-02-02  Updated: 2024-06-04  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
+
+- [PotatoTool](https://github.com/HotBoy-java/PotatoTool) ★1027
+  - 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts. With features like decryption, analysis, scanning, and traceability, it provides a user-friendly interface and diverse functionality.
+  - Created: 2024-05-07  Updated: 2025-01-07  
 
 - [vanilla-js-dom](https://github.com/MachinisteWeb/vanilla-js-dom) ★507
   - Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications.
@@ -762,7 +766,7 @@ Total Starred Repositories: 271
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★10043
+- [gnet](https://github.com/panjf2000/gnet) ★10044
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-02-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
@@ -786,7 +790,7 @@ Total Starred Repositories: 271
   - Generate type-safe Go converters by defining function signatures.
   - Created: 2021-03-09  Updated: 2025-02-02  ![License](https://img.shields.io/badge/license-mit-blue) `code-generation` `converter` `copy`
 
-- [go-learning](https://github.com/BaiZe1998/go-learning) ★449
+- [go-learning](https://github.com/BaiZe1998/go-learning) ★450
   - 一个存放Go语言/计算机相关学习资料的仓库
   - Created: 2022-08-21  Updated: 2025-01-21  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -840,7 +844,7 @@ Total Starred Repositories: 271
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★167180
+- [vscode](https://github.com/microsoft/vscode) ★167182
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -906,7 +910,7 @@ Total Starred Repositories: 271
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★187430
+- [linux](https://github.com/torvalds/linux) ★187431
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1248,7 +1252,7 @@ Total Starred Repositories: 271
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116440
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116442
   - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-03  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1258,7 +1262,7 @@ Total Starred Repositories: 271
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★68958
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★68959
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-02-03  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
