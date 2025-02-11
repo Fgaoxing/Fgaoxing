@@ -181,7 +181,7 @@ class GitHubStarOrganizer:
             "## 🌟 Statistics\n",
             f"Total Starred Repositories: {self.repo_count}\n",
             "### Category Distribution\n",
-            "| Category | Count |\n|----------|------:|\n"
+            "| Category | Count |\n|----------|------:|"
         ]
 
         # 生成统计
