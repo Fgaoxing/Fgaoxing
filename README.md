@@ -13,6 +13,8 @@
 
 Hello 你好 こんにちは Bonjour Halo
 
+> This is my Star content, you can get some high-quality projects from here: https://github.com/Fgaoxing/Fgaoxing/blob/main/STARS.md
+
 ### 👦About me
 Blog: https://www.yt-blog.top
 
