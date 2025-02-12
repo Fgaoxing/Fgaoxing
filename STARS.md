@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-12 17:20*
+*Last Updated: 2025-02-12 18:31*
 
 
 ## 🌟 Statistics
@@ -51,7 +51,7 @@ Total Starred Repositories: 309
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★83431
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★83444
   - No description
   - Created: 2024-12-26  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -67,7 +67,7 @@ Total Starred Repositories: 309
   - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
   - Created: 2018-02-15  Updated: 2024-10-17  `chatgpt` `cnki` `it`
 
-- [stock](https://github.com/myhhub/stock) ★7479
+- [stock](https://github.com/myhhub/stock) ★7481
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2025-01-17  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
@@ -83,7 +83,7 @@ Total Starred Repositories: 309
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2504
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2505
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -605,7 +605,7 @@ Total Starred Repositories: 309
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217202
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217216
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -715,7 +715,7 @@ Total Starred Repositories: 309
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350234
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350238
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -837,15 +837,15 @@ Total Starred Repositories: 309
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★10121
+- [gnet](https://github.com/panjf2000/gnet) ★10123
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9308
+- [pq](https://github.com/lib/pq) ★9307
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [Tigo](https://github.com/karldoenitz/Tigo) ★1904
+- [Tigo](https://github.com/karldoenitz/Tigo) ★1905
   - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
   - Created: 2018-07-04  Updated: 2025-01-05  ![License](https://img.shields.io/badge/license-mit-blue) `go` `golang` `middleware`
 
@@ -927,15 +927,15 @@ Total Starred Repositories: 309
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★167225
+- [vscode](https://github.com/microsoft/vscode) ★167226
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★23937
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★23939
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★16866
+- [dokploy](https://github.com/Dokploy/dokploy) ★16869
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1017,7 +1017,7 @@ Total Starred Repositories: 309
   - Ares is a data computation integration engine based on PL-SQL syntax for ETL, cross-source computation, data analysis, and storage-computation separation.
   - Created: 2024-10-20  Updated: 2025-02-05  
 
-- [MJXT](https://github.com/CDSecLab/MJXT) ★105
+- [MJXT](https://github.com/CDSecLab/MJXT) ★106
   - This repo implements the join query schemes, for example, JXT, JXT+ and JXT++, and shows the constructions and comparison of them.
   - Created: 2024-08-19  Updated: 2024-12-30  
 
@@ -1039,7 +1039,7 @@ Total Starred Repositories: 309
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★187504
+- [linux](https://github.com/torvalds/linux) ★187508
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1085,7 +1085,7 @@ Total Starred Repositories: 309
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★114697
+- [PowerToys](https://github.com/microsoft/PowerToys) ★114698
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1201,7 +1201,7 @@ Total Starred Repositories: 309
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★30297
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★30298
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2024-11-08  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1295,11 +1295,11 @@ Total Starred Repositories: 309
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★112602
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★112603
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
-- [LGame](https://github.com/cping/LGame) ★656
+- [LGame](https://github.com/cping/LGame) ★657
   - A cross-platform Java game Engine (Framework) , support JavaFX / Android / IOS / HTML5 / Linux / MAC / Windows
   - Created: 2012-11-19  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `2d` `android` `dev`
 
@@ -1383,7 +1383,7 @@ Total Starred Repositories: 309
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17016
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17017
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1431,7 +1431,7 @@ Total Starred Repositories: 309
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116632
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116639
   - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-03  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1461,7 +1461,7 @@ Total Starred Repositories: 309
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★30834
+- [llvm-project](https://github.com/llvm/llvm-project) ★30835
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-other-blue)
 
