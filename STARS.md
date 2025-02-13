@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-13 21:20*
+*Last Updated: 2025-02-13 22:21*
 
 
 ## 🌟 Statistics
@@ -54,7 +54,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★83994
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★83997
   - No description
   - Created: 2024-12-26  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -86,7 +86,7 @@ Total Starred Repositories: 332
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2525
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2527
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -154,7 +154,7 @@ Total Starred Repositories: 332
   - 微信sqlite解密 | 仅支持v3版本微信，从内存中快速搜索指定数据。获取基址+偏移量与特征，从而达到微信版本每次更新不需要重新查找地址。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。解密微信sqlite数据库中存放的历史消息记录
   - Created: 2024-01-10  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `decode` `encode` `hook`
 
-- [h1_asset](https://github.com/adysec/h1_asset) ★210
+- [h1_asset](https://github.com/adysec/h1_asset) ★214
   - HackerOne资产更新 | 每日更新HackerOne资产，对HackerOne的资产进行爬行和整理，SRC资产更新仅会增加，不会进行删除，每天更新的可以进行差异化对比来获取到新的项目资产范围
   - Created: 2024-06-06  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `daily` `daily-tasks` `hackerone`
 
@@ -628,11 +628,11 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [go](https://github.com/golang/go) ★125697
+- [go](https://github.com/golang/go) ★125700
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [ollama](https://github.com/ollama/ollama) ★125602
+- [ollama](https://github.com/ollama/ollama) ★125609
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -644,7 +644,7 @@ Total Starred Repositories: 332
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★10149
+- [gnet](https://github.com/panjf2000/gnet) ★10150
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
@@ -750,7 +750,7 @@ Total Starred Repositories: 332
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217418
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217425
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -868,7 +868,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350313
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350317
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -982,19 +982,19 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★167283
+- [vscode](https://github.com/microsoft/vscode) ★167285
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★66720
+- [dify](https://github.com/langgenius/dify) ★66725
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★23948
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★23949
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★16934
+- [dokploy](https://github.com/Dokploy/dokploy) ★16935
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1110,11 +1110,11 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★187601
+- [linux](https://github.com/torvalds/linux) ★187603
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [cmark](https://github.com/commonmark/cmark) ★1694
+- [cmark](https://github.com/commonmark/cmark) ★1695
   - CommonMark parsing and rendering library and program in C
   - Created: 2015-01-25  Updated: 2024-12-17  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1160,7 +1160,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★114729
+- [PowerToys](https://github.com/microsoft/PowerToys) ★114731
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1168,7 +1168,7 @@ Total Starred Repositories: 332
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7313
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7314
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
@@ -1466,7 +1466,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17056
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17058
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1514,7 +1514,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116881
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116887
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
