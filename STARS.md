@@ -1,24 +1,24 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-14 03:26*
+*Last Updated: 2025-02-14 04:26*
 
 
 ## 🌟 Statistics
 
-Total Starred Repositories: 332
+Total Starred Repositories: 336
 
 ### Category Distribution
 
 | Category | Count |
 |----------|------:|
-| 🐍 Python | 49 |
+| 🐍 Python | 50 |
 | Forks | 47 |
-| 🌐 JavaScript | 43 |
+| 🌐 JavaScript | 44 |
+| Others | 29 |
 | 🐹 Go | 29 |
-| Others | 28 |
 | 📚 HTML | 27 |
 | 📘 TypeScript | 18 |
-| ☕ Java | 11 |
+| ☕ Java | 12 |
 | 🖥️ C/C++ | 11 |
 | 📚 C# | 8 |
 | Archived | 6 |
@@ -54,7 +54,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★84089
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★84105
   - No description
   - Created: 2024-12-26  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -62,7 +62,7 @@ Total Starred Repositories: 332
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-01-14  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [falcon](https://github.com/falconry/falcon) ★9593
+- [falcon](https://github.com/falconry/falcon) ★9594
   - The no-magic web API and microservices framework for Python developers, with an emphasis on reliability and performance at scale.
   - Created: 2012-12-06  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `api` `api-rest` `asgi`
 
@@ -114,7 +114,7 @@ Total Starred Repositories: 332
   - 这个仓库有1426个star，不信你试试
   - Created: 2022-06-14  Updated: 2022-09-13  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [nuclei_poc](https://github.com/adysec/nuclei_poc) ★957
+- [nuclei_poc](https://github.com/adysec/nuclei_poc) ★961
   - Nuclei POC，每日更新 | 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现（已有13w+POC，已校验有效性并去重）
   - Created: 2024-05-07  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `daily` `exploit` `exploits`
 
@@ -130,7 +130,7 @@ Total Starred Repositories: 332
   - 【sese-engine】新时代的搜索引擎！
   - Created: 2022-01-09  Updated: 2024-10-03  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [ARL](https://github.com/adysec/ARL) ★548
+- [ARL](https://github.com/adysec/ARL) ★549
   - ARL 资产侦察灯塔系统（可运行，添加指纹，提高并发，升级工具及系统，无限制修改版） | ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
   - Created: 2024-05-13  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `arl` `cyber-security` `flask`
 
@@ -146,7 +146,7 @@ Total Starred Repositories: 332
   - UI Automation Framework for HarmonyOS NEXT | 鸿蒙NEXT自动化框架
   - Created: 2024-08-15  Updated: 2025-01-10  ![License](https://img.shields.io/badge/license-mit-blue) `automation` `harmony` `harmonyos`
 
-- [llama-github](https://github.com/JetXu-LLM/llama-github) ★273
+- [llama-github](https://github.com/JetXu-LLM/llama-github) ★274
   - Llama-github is an open-source Python library that empowers LLM Chatbots, AI Agents, and Auto-dev Solutions to conduct Agentic RAG from actively selected GitHub public projects. It Augments through LLMs and Generates context for any coding question, in order to streamline the development of sophisticated AI-driven applications.
   - Created: 2024-05-16  Updated: 2024-12-14  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `ai-agent` `ai-code-generator` `chatbot`
 
@@ -173,6 +173,10 @@ Total Starred Repositories: 332
 - [xhs_spider](https://github.com/xhs996/xhs_spider) ★139
   - 小红书数据采集、小红书Token批发、小红书Cookie批发、xsec_token生成、小红书App shield算法、小红书web算法、小红书爬虫、小红书采集、小红书数据、小红书账号、小红书逆向、小红书搜索、小红书笔记、小红书主页、小红书点赞、小红书评论、小红书作品、xsec_token、x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac
   - Created: 2024-11-15  Updated: 2025-02-12  
+
+- [VARGPT](https://github.com/VARGPT-family/VARGPT) ★110
+  - VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model
+  - Created: 2025-01-21  Updated: 2025-02-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
 - [Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite) ★100
   - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
@@ -458,7 +462,7 @@ Total Starred Repositories: 332
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2025-02-01  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
-- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6468
+- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6469
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
   - Created: 2023-05-27  Updated: 2024-12-09  ![License](https://img.shields.io/badge/license-mit-blue) `furry` `liteloaderqqnt` `qqnt`
 
@@ -521,6 +525,10 @@ Total Starred Repositories: 332
 - [XDU-SE-delivery](https://github.com/chenlu0701/XDU-SE-delivery) ★46
   - 大三上程序设计实训-外卖项目
   - Created: 2025-02-08  Updated: 2025-02-08  
+
+- [ZChat_v1](https://github.com/Zhengfu200/ZChat_v1) ★26
+  - A simple Public Chatroom build with Node.js + Vue.js +QuasarUI
+  - Created: 2025-01-27  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-mit-blue) `backend` `chat-application` `frontend`
 
 - [krich](https://github.com/EmptyDreams/krich) ★25
   - 这是一个追求轻量的面向浏览器开发的富文本编辑器！
@@ -624,137 +632,15 @@ Total Starred Repositories: 332
 
 
 
-## 🐹 Go
-
-### GitHub官方语言分类
-
-- [ollama](https://github.com/ollama/ollama) ★125712
-  - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-  - Created: 2023-06-26  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
-
-- [go](https://github.com/golang/go) ★125703
-  - The Go programming language
-  - Created: 2014-08-19  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
-
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★20966
-  - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-  - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
-
-- [SafeLine](https://github.com/chaitin/SafeLine) ★15425
-  - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-  - Created: 2023-04-12  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
-
-- [gnet](https://github.com/panjf2000/gnet) ★10151
-  - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
-  - Created: 2019-02-24  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
-
-- [pq](https://github.com/lib/pq) ★9307
-  - Pure Go Postgres driver for database/sql
-  - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
-
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★5751
-  - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
-  - Created: 2019-09-23  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
-
-- [Tigo](https://github.com/karldoenitz/Tigo) ★1906
-  - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
-  - Created: 2018-07-04  Updated: 2025-01-05  ![License](https://img.shields.io/badge/license-mit-blue) `go` `golang` `middleware`
-
-- [nosurf](https://github.com/justinas/nosurf) ★1610
-  - CSRF protection middleware for Go.
-  - Created: 2013-08-22  Updated: 2024-04-06  ![License](https://img.shields.io/badge/license-mit-blue) `csrf` `go` `middleware`
-
-- [GobyVuls](https://github.com/gobysec/GobyVuls) ★713
-  - Vulnerabilities of Goby supported with exploitation.
-  - Created: 2020-04-03  Updated: 2024-11-20  `cve` `cve-2023-22527` `cve-2023-51467`
-
-- [build](https://github.com/golang/build) ★663
-  - [mirror] Go's continuous build and release infrastructure (no stability promises)
-  - Created: 2015-01-21  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
-
-- [go-simple-mail](https://github.com/xhit/go-simple-mail) ★659
-  - Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.
-  - Created: 2019-09-15  Updated: 2024-07-20  ![License](https://img.shields.io/badge/license-mit-blue) `bulk-email` `bulk-email-sender` `email`
-
-- [goverter](https://github.com/jmattheis/goverter) ★623
-  - Generate type-safe Go converters by defining function signatures.
-  - Created: 2021-03-09  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `code-generation` `converter` `copy`
-
-- [go-learning](https://github.com/BaiZe1998/go-learning) ★450
-  - 一个存放Go语言/计算机相关学习资料的仓库
-  - Created: 2022-08-21  Updated: 2025-01-21  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
-
-- [Re-Centris](https://github.com/byRen2002/Re-Centris) ★386
-  - Performance optimization for Centris software
-  - Created: 2024-11-29  Updated: 2024-12-11  ![License](https://img.shields.io/badge/license-mit-blue)
-
-- [jetcache-go](https://github.com/mgtv-tech/jetcache-go) ★358
-  - Redis cache library for Go
-  - Created: 2023-09-11  Updated: 2025-01-13  ![License](https://img.shields.io/badge/license-bsd-2-clause-blue) `batch` `cache` `generics`
-
-- [gin-metrics](https://github.com/penglongli/gin-metrics) ★271
-  - gin-gonic/gin  metrics for prometheus. 
-  - Created: 2020-08-19  Updated: 2025-01-15  ![License](https://img.shields.io/badge/license-mit-blue) `gin` `golang` `metrics`
-
-- [shermie-proxy](https://github.com/kxg3030/shermie-proxy) ★260
-  - ⚡️ A proxy packet capture tool implemented in Go, supports multiple protocols such as Http, Https, Ws, Wss, Tcp, Socks5, and can intercept and modify messages.一个用Go实现的代理数据抓包工具，支持Http、Https、Ws、Wss、Tcp、Socks5等多种协议，可以拦截和修改数据
-  - Created: 2022-07-01  Updated: 2023-08-25  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `agent` `go` `golang`
-
-- [goTemplateBenchmark](https://github.com/slinso/goTemplateBenchmark) ★242
-  - comparing the performance of different template engines
-  - Created: 2016-01-13  Updated: 2025-02-09  `benchmark` `golang` `template-engine`
-
-- [go-premailer](https://github.com/vanng822/go-premailer) ★153
-  - Inline styling for html mail in golang
-  - Created: 2015-02-16  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `email` `golang` `html`
-
-- [SecureJS](https://github.com/h1thub/SecureJS) ★125
-  - SecureJS 是一款功能强大的工具，旨在通过模拟浏览器行为从目标网站收集所有相关链接（包括动态加载的js链接和页面中提取的链接），访问这些链接，并扫描其中的敏感信息，如令牌、密钥、密码和 AKSK 等。
-  - Created: 2025-01-13  Updated: 2025-01-22  
-
-- [gody](https://github.com/guiferpa/gody) ★107
-  - :balloon: A lightweight struct validator for Go
-  - Created: 2018-11-01  Updated: 2025-02-01  ![License](https://img.shields.io/badge/license-mit-blue) `go` `golang` `struct`
-
-- [hasaki](https://github.com/lxzan/hasaki) ★60
-  - golang http client
-  - Created: 2018-07-12  Updated: 2024-03-22  ![License](https://img.shields.io/badge/license-mit-blue) `golang` `http` `http-client`
-
-- [cutego](https://github.com/odboy-tianjun/cutego) ★32
-  - CuteGo是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用  前端采用Vue、Element UI 后端采用Gin、Xorm、自定义RBAC、Redis & Jwt, 未使用Casbin
-  - Created: 2024-12-11  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-mit-blue)
-
-- [fast-response](https://github.com/fast-response/fast-response) ★31
-  - A small, fast, high-performance web framework based on "gnet".⚡️ 一个基于「gnet」的小巧，快速，高性能的Web框架。
-  - Created: 2023-08-22  Updated: 2025-01-15  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `fastresponse` `gin` `gnet`
-
-- [opao](https://github.com/OblivionOcean/opao) ★9
-  - 一个小巧，简单的ORM🌟A small, simple ORM
-  - Created: 2024-01-21  Updated: 2024-07-18  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
-
-- [tiny](https://github.com/Cuteify/tiny) ★5
-  - No description
-  - Created: 2024-09-10  Updated: 2025-01-21  
-
-- [CuteASM](https://github.com/Cuteify/CuteASM) ★2
-  - A brand-new cross-platform assembler similar to Plan 9 assembler, which also supports automatic handling of local variables and parameters of functions.
-  - Created: 2025-01-08  Updated: 2025-01-23  
-
-- [cdnn3](https://github.com/Fgaoxing/cdnn3) ★1
-  - No description
-  - Created: 2024-01-22  Updated: 2024-01-22  
-
-
-
 ## Others
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217442
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217449
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [gfwlist](https://github.com/gfwlist/gfwlist) ★23737
+- [gfwlist](https://github.com/gfwlist/gfwlist) ★23738
   - The one and only one gfwlist here
   - Created: 2015-03-13  Updated: 2025-02-07  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `anticensorship` `censorship` `censorship-circumvention`
 
@@ -790,13 +676,17 @@ Total Starred Repositories: 332
   - 互联网常用敏感词、停止词词库
   - Created: 2015-02-02  Updated: 2024-06-04  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [PotatoTool](https://github.com/HotBoy-java/PotatoTool) ★1030
+- [PotatoTool](https://github.com/HotBoy-java/PotatoTool) ★1031
   - 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts. With features like decryption, analysis, scanning, and traceability, it provides a user-friendly interface and diverse functionality.
   - Created: 2024-05-07  Updated: 2025-01-07  
 
 - [vanilla-js-dom](https://github.com/MachinisteWeb/vanilla-js-dom) ★507
   - Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications.
   - Created: 2015-10-19  Updated: 2022-03-27  ![License](https://img.shields.io/badge/license-gpl-2.0-blue)
+
+- [FrameVul](https://github.com/Awrrays/FrameVul) ★409
+  - POC集合，框架nday漏洞利用
+  - Created: 2022-04-04  Updated: 2024-06-17  
 
 - [mybook](https://github.com/shornado/mybook) ★251
   - my pdf books
@@ -864,11 +754,133 @@ Total Starred Repositories: 332
 
 
 
+## 🐹 Go
+
+### GitHub官方语言分类
+
+- [ollama](https://github.com/ollama/ollama) ★125740
+  - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  - Created: 2023-06-26  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
+
+- [go](https://github.com/golang/go) ★125703
+  - The Go programming language
+  - Created: 2014-08-19  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
+
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★20968
+  - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+  - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
+
+- [SafeLine](https://github.com/chaitin/SafeLine) ★15425
+  - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+  - Created: 2023-04-12  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
+
+- [gnet](https://github.com/panjf2000/gnet) ★10151
+  - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
+  - Created: 2019-02-24  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
+
+- [pq](https://github.com/lib/pq) ★9307
+  - Pure Go Postgres driver for database/sql
+  - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
+
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★5752
+  - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
+  - Created: 2019-09-23  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
+
+- [Tigo](https://github.com/karldoenitz/Tigo) ★1906
+  - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
+  - Created: 2018-07-04  Updated: 2025-01-05  ![License](https://img.shields.io/badge/license-mit-blue) `go` `golang` `middleware`
+
+- [nosurf](https://github.com/justinas/nosurf) ★1610
+  - CSRF protection middleware for Go.
+  - Created: 2013-08-22  Updated: 2024-04-06  ![License](https://img.shields.io/badge/license-mit-blue) `csrf` `go` `middleware`
+
+- [GobyVuls](https://github.com/gobysec/GobyVuls) ★713
+  - Vulnerabilities of Goby supported with exploitation.
+  - Created: 2020-04-03  Updated: 2024-11-20  `cve` `cve-2023-22527` `cve-2023-51467`
+
+- [build](https://github.com/golang/build) ★663
+  - [mirror] Go's continuous build and release infrastructure (no stability promises)
+  - Created: 2015-01-21  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
+
+- [go-simple-mail](https://github.com/xhit/go-simple-mail) ★659
+  - Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.
+  - Created: 2019-09-15  Updated: 2024-07-20  ![License](https://img.shields.io/badge/license-mit-blue) `bulk-email` `bulk-email-sender` `email`
+
+- [goverter](https://github.com/jmattheis/goverter) ★623
+  - Generate type-safe Go converters by defining function signatures.
+  - Created: 2021-03-09  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `code-generation` `converter` `copy`
+
+- [go-learning](https://github.com/BaiZe1998/go-learning) ★450
+  - 一个存放Go语言/计算机相关学习资料的仓库
+  - Created: 2022-08-21  Updated: 2025-01-21  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
+
+- [Re-Centris](https://github.com/byRen2002/Re-Centris) ★386
+  - Performance optimization for Centris software
+  - Created: 2024-11-29  Updated: 2024-12-11  ![License](https://img.shields.io/badge/license-mit-blue)
+
+- [jetcache-go](https://github.com/mgtv-tech/jetcache-go) ★359
+  - Redis cache library for Go
+  - Created: 2023-09-11  Updated: 2025-01-13  ![License](https://img.shields.io/badge/license-bsd-2-clause-blue) `batch` `cache` `generics`
+
+- [gin-metrics](https://github.com/penglongli/gin-metrics) ★271
+  - gin-gonic/gin  metrics for prometheus. 
+  - Created: 2020-08-19  Updated: 2025-01-15  ![License](https://img.shields.io/badge/license-mit-blue) `gin` `golang` `metrics`
+
+- [shermie-proxy](https://github.com/kxg3030/shermie-proxy) ★260
+  - ⚡️ A proxy packet capture tool implemented in Go, supports multiple protocols such as Http, Https, Ws, Wss, Tcp, Socks5, and can intercept and modify messages.一个用Go实现的代理数据抓包工具，支持Http、Https、Ws、Wss、Tcp、Socks5等多种协议，可以拦截和修改数据
+  - Created: 2022-07-01  Updated: 2023-08-25  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `agent` `go` `golang`
+
+- [goTemplateBenchmark](https://github.com/slinso/goTemplateBenchmark) ★242
+  - comparing the performance of different template engines
+  - Created: 2016-01-13  Updated: 2025-02-09  `benchmark` `golang` `template-engine`
+
+- [go-premailer](https://github.com/vanng822/go-premailer) ★153
+  - Inline styling for html mail in golang
+  - Created: 2015-02-16  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `email` `golang` `html`
+
+- [SecureJS](https://github.com/h1thub/SecureJS) ★125
+  - SecureJS 是一款功能强大的工具，旨在通过模拟浏览器行为从目标网站收集所有相关链接（包括动态加载的js链接和页面中提取的链接），访问这些链接，并扫描其中的敏感信息，如令牌、密钥、密码和 AKSK 等。
+  - Created: 2025-01-13  Updated: 2025-01-22  
+
+- [gody](https://github.com/guiferpa/gody) ★108
+  - :balloon: A lightweight struct validator for Go
+  - Created: 2018-11-01  Updated: 2025-02-01  ![License](https://img.shields.io/badge/license-mit-blue) `go` `golang` `struct`
+
+- [hasaki](https://github.com/lxzan/hasaki) ★60
+  - golang http client
+  - Created: 2018-07-12  Updated: 2024-03-22  ![License](https://img.shields.io/badge/license-mit-blue) `golang` `http` `http-client`
+
+- [cutego](https://github.com/odboy-tianjun/cutego) ★32
+  - CuteGo是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用  前端采用Vue、Element UI 后端采用Gin、Xorm、自定义RBAC、Redis & Jwt, 未使用Casbin
+  - Created: 2024-12-11  Updated: 2025-02-11  ![License](https://img.shields.io/badge/license-mit-blue)
+
+- [fast-response](https://github.com/fast-response/fast-response) ★31
+  - A small, fast, high-performance web framework based on "gnet".⚡️ 一个基于「gnet」的小巧，快速，高性能的Web框架。
+  - Created: 2023-08-22  Updated: 2025-01-15  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `fastresponse` `gin` `gnet`
+
+- [opao](https://github.com/OblivionOcean/opao) ★9
+  - 一个小巧，简单的ORM🌟A small, simple ORM
+  - Created: 2024-01-21  Updated: 2024-07-18  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
+
+- [tiny](https://github.com/Cuteify/tiny) ★5
+  - No description
+  - Created: 2024-09-10  Updated: 2025-01-21  
+
+- [CuteASM](https://github.com/Cuteify/CuteASM) ★2
+  - A brand-new cross-platform assembler similar to Plan 9 assembler, which also supports automatic handling of local variables and parameters of functions.
+  - Created: 2025-01-08  Updated: 2025-01-23  
+
+- [cdnn3](https://github.com/Fgaoxing/cdnn3) ★1
+  - No description
+  - Created: 2024-01-22  Updated: 2024-01-22  
+
+
+
 ## 📚 HTML
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350324
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350326
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -982,11 +994,11 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★167306
+- [vscode](https://github.com/microsoft/vscode) ★167307
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★66831
+- [dify](https://github.com/langgenius/dify) ★66856
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -994,7 +1006,7 @@ Total Starred Repositories: 332
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★16949
+- [dokploy](https://github.com/Dokploy/dokploy) ★16951
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1072,6 +1084,10 @@ Total Starred Repositories: 332
   - BizSpring Java商城首选,可商用；Vue3,Element UI Plus,Uniapp,微服务,SpringCloud,跨境电商,跨境商城,电商国际化,外贸,独立站,多国语言,移动商城,小程序商城,H5商城,公众号商城,App,Redis,支持多语言,多规格SKU,分销,拼团,砍价,秒杀,优惠券,积分,会员等级,小程序前后端分离,方便二开,Markdown在线文档,代码生成,二开文档齐全,代码规范
   - Created: 2024-01-24  Updated: 2025-01-13  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `element-ui` `java` `mall`
 
+- [java-go-python](https://github.com/jushahulian/java-go-python) ★468
+  - 包含海量课程各类it学习视频教程，最新版，持续更新，java视频教程，python视频教程，go视频教程,C,C++,C#视频教程,前端，数据库，大数据，人工智能视频教程，AIGC视频教程，ChatGPT，软件测试视频教程，网络安全/逆向视频教程，鸿蒙应用开发，Android等学习课程分享。
+  - Created: 2023-12-29  Updated: 2024-10-08  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
+
 - [douyu-live-app](https://github.com/javaKing-lgy/douyu-live-app) ★131
   - 手写一个MyBatis框架
   - Created: 2024-12-19  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
@@ -1110,9 +1126,9 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★187615
+- [linux](https://github.com/torvalds/linux) ★187616
   - Linux kernel source tree
-  - Created: 2011-09-04  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2011-09-04  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [cmark](https://github.com/commonmark/cmark) ★1695
   - CommonMark parsing and rendering library and program in C
@@ -1160,7 +1176,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★114732
+- [PowerToys](https://github.com/microsoft/PowerToys) ★114734
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1210,7 +1226,7 @@ Total Starred Repositories: 332
   - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
   - Created: 2016-08-18  Updated: 2024-05-20  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `gallery` `image-host` `image-hosting`
 
-- [CloudPeler](https://github.com/zidansec/CloudPeler) ★1417
+- [CloudPeler](https://github.com/zidansec/CloudPeler) ★1418
   - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
   - Created: 2022-05-12  Updated: 2023-09-01  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-mit-blue) `bypass-cloudflare` `bypass-hostname` `bypass-waf`
 
@@ -1382,7 +1398,7 @@ Total Starred Repositories: 332
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
-- [LGame](https://github.com/cping/LGame) ★656
+- [LGame](https://github.com/cping/LGame) ★657
   - A cross-platform Java game Engine (Framework) , support JavaFX / Android / IOS / HTML5 / Linux / MAC / Windows
   - Created: 2012-11-19  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `2d` `android` `dev`
 
@@ -1414,7 +1430,7 @@ Total Starred Repositories: 332
   - Swift 基础库. A collection of Swift extensions and utilities.
   - Created: 2022-06-11  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-mit-blue) `cocoapods` `extensions` `foundation`
 
-- [ReerRouter](https://github.com/reers/ReerRouter) ★61
+- [ReerRouter](https://github.com/reers/ReerRouter) ★62
   - App URL router for iOS (Swift only). Register via Swift Macro
   - Created: 2022-08-07  Updated: 2025-02-07  ![License](https://img.shields.io/badge/license-mit-blue) `deeplink` `ios` `navigator`
 
@@ -1466,7 +1482,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17070
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17072
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1494,7 +1510,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [ReerCodable](https://github.com/reers/ReerCodable) ★94
+- [ReerCodable](https://github.com/reers/ReerCodable) ★95
   - Codable extensions using Swift Macro
   - Created: 2024-10-15  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `ananda` `bettercodable` `codable`
 
@@ -1514,7 +1530,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116948
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★116962
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1524,7 +1540,7 @@ Total Starred Repositories: 332
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69003
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69004
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-02-03  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
