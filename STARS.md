@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-14 12:42*
+*Last Updated: 2025-02-14 13:27*
 
 
 ## 🌟 Statistics
@@ -55,7 +55,7 @@ Total Starred Repositories: 343
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★84328
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★84344
   - No description
   - Created: 2024-12-26  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -67,7 +67,7 @@ Total Starred Repositories: 343
   - The no-magic web API and microservices framework for Python developers, with an emphasis on reliability and performance at scale.
   - Created: 2012-12-06  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `api` `api-rest` `asgi`
 
-- [hamulete](https://github.com/hoochanlon/hamulete) ★8982
+- [hamulete](https://github.com/hoochanlon/hamulete) ★8981
   - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
   - Created: 2018-02-15  Updated: 2025-02-14  `chatgpt` `cnki` `it`
 
@@ -157,7 +157,7 @@ Total Starred Repositories: 343
 
 - [h1_asset](https://github.com/adysec/h1_asset) ★214
   - HackerOne资产更新 | 每日更新HackerOne资产，对HackerOne的资产进行爬行和整理，SRC资产更新仅会增加，不会进行删除，每天更新的可以进行差异化对比来获取到新的项目资产范围
-  - Created: 2024-06-06  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `daily` `daily-tasks` `hackerone`
+  - Created: 2024-06-06  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `daily` `daily-tasks` `hackerone`
 
 - [unv-shield](https://github.com/RimoChan/unv-shield) ★187
   - 【幼盾】个性化图片徽章服务！
@@ -173,9 +173,9 @@ Total Starred Repositories: 343
 
 - [xhs_spider](https://github.com/xhs996/xhs_spider) ★141
   - 小红书数据采集、小红书Token批发、小红书Cookie批发、xsec_token生成、小红书App shield算法、小红书web算法、小红书爬虫、小红书采集、小红书数据、小红书账号、小红书逆向、小红书搜索、小红书笔记、小红书主页、小红书点赞、小红书评论、小红书作品、xsec_token、x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac
-  - Created: 2024-11-15  Updated: 2025-02-12  
+  - Created: 2024-11-15  Updated: 2025-02-14  
 
-- [VARGPT](https://github.com/VARGPT-family/VARGPT) ★117
+- [VARGPT](https://github.com/VARGPT-family/VARGPT) ★118
   - VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model
   - Created: 2025-01-21  Updated: 2025-02-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -265,7 +265,7 @@ Total Starred Repositories: 343
 
 ### 🍴 Forked repositories
 
-- [supermium](https://github.com/win32ss/supermium) ★2780
+- [supermium](https://github.com/win32ss/supermium) ★2781
   - Chromium fork for Windows XP/2003 and up
   - Created: 2023-05-09  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -531,7 +531,7 @@ Total Starred Repositories: 343
   - 大三上程序设计实训-外卖项目
   - Created: 2025-02-08  Updated: 2025-02-08  
 
-- [ZChat_v1](https://github.com/Zhengfu200/ZChat_v1) ★29
+- [ZChat_v1](https://github.com/Zhengfu200/ZChat_v1) ★30
   - A simple Public Chatroom build with Node.js + Vue.js +QuasarUI
   - Created: 2025-01-27  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-mit-blue) `backend` `chat-application` `frontend`
 
@@ -641,7 +641,7 @@ Total Starred Repositories: 343
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217500
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217504
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -653,7 +653,7 @@ Total Starred Repositories: 343
   - :books: 极客时间电子书
   - Created: 2023-01-26  Updated: 2023-01-26  
 
-- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★10181
+- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★10182
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2025-02-10  
 
@@ -763,11 +763,11 @@ Total Starred Repositories: 343
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★125946
+- [ollama](https://github.com/ollama/ollama) ★125950
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★125727
+- [go](https://github.com/golang/go) ★125731
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -783,11 +783,11 @@ Total Starred Repositories: 343
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9308
+- [pq](https://github.com/lib/pq) ★9309
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★5756
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★5757
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -885,7 +885,7 @@ Total Starred Repositories: 343
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350349
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350351
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -999,11 +999,11 @@ Total Starred Repositories: 343
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★167320
+- [vscode](https://github.com/microsoft/vscode) ★167319
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★67052
+- [dify](https://github.com/langgenius/dify) ★67057
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1135,7 +1135,7 @@ Total Starred Repositories: 343
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★187650
+- [linux](https://github.com/torvalds/linux) ★187652
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1185,7 +1185,7 @@ Total Starred Repositories: 343
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★114744
+- [PowerToys](https://github.com/microsoft/PowerToys) ★114745
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1201,7 +1201,7 @@ Total Starred Repositories: 343
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-02-03  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
-- [Malware-Patch](https://github.com/the1812/Malware-Patch) ★4258
+- [Malware-Patch](https://github.com/the1812/Malware-Patch) ★4259
   - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
   - Created: 2018-05-16  Updated: 2024-12-21  ![License](https://img.shields.io/badge/license-mit-blue) `csharp` `malware-protection` `uac-authorization`
 
@@ -1337,7 +1337,7 @@ Total Starred Repositories: 343
 
 - [tracker](https://github.com/adysec/tracker) ★295
   - tracker服务器列表 | 全网最全BT下载所需tracker服务器，每日聚合tracker服务器列表，对公开tracker服务器进行爬取，并测试存活后写入列表中 | trackers_all.txt为全量tracker服务器列表(2004行)，trackers_best.txt为测试存活服务器列表(745行)
-  - Created: 2024-08-14  Updated: 2025-02-13  `bt` `daily` `tracker`
+  - Created: 2024-08-14  Updated: 2025-02-14  `bt` `daily` `tracker`
 
 - [Security_Tools](https://github.com/adysec/Security_Tools) ★172
   - No description
@@ -1517,7 +1517,7 @@ Total Starred Repositories: 343
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17081
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17087
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1565,7 +1565,7 @@ Total Starred Repositories: 343
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★117325
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★117335
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1595,7 +1595,7 @@ Total Starred Repositories: 343
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★30860
+- [llvm-project](https://github.com/llvm/llvm-project) ★30861
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-other-blue)
 
