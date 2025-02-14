@@ -1,11 +1,11 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-14 15:24*
+*Last Updated: 2025-02-14 16:26*
 
 
 ## 🌟 Statistics
 
-Total Starred Repositories: 352
+Total Starred Repositories: 353
 
 ### Category Distribution
 
@@ -14,7 +14,7 @@ Total Starred Repositories: 352
 | 🐍 Python | 57 |
 | Forks | 48 |
 | 🌐 JavaScript | 44 |
-| Others | 29 |
+| Others | 30 |
 | 🐹 Go | 29 |
 | 📚 HTML | 28 |
 | 📘 TypeScript | 18 |
@@ -55,11 +55,11 @@ Total Starred Repositories: 352
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★84386
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★84401
   - No description
   - Created: 2024-12-26  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★19427
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★19428
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-01-14  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
@@ -87,7 +87,7 @@ Total Starred Repositories: 352
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2547
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2548
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -191,7 +191,7 @@ Total Starred Repositories: 352
   - [AAAI'25 Oral] "MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector". 
   - Created: 2023-12-20  Updated: 2024-12-24  `ai-alignment` `large-language-models` `membership-inference-attack`
 
-- [VARGPT](https://github.com/VARGPT-family/VARGPT) ★119
+- [VARGPT](https://github.com/VARGPT-family/VARGPT) ★120
   - VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model
   - Created: 2025-01-21  Updated: 2025-02-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -207,7 +207,7 @@ Total Starred Repositories: 352
   - 🔥地址解析识别python版本
   - Created: 2023-12-18  Updated: 2024-11-28  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [GEM-example](https://github.com/TechnologyAiGroup/GEM-example) ★74
+- [GEM-example](https://github.com/TechnologyAiGroup/GEM-example) ★75
   - No description
   - Created: 2024-10-10  Updated: 2024-10-11  
 
@@ -487,7 +487,7 @@ Total Starred Repositories: 352
 
 ### GitHub官方语言分类
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★16167
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★16168
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2024-10-26  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
@@ -669,7 +669,7 @@ Total Starred Repositories: 352
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217516
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★217517
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -705,9 +705,13 @@ Total Starred Repositories: 352
   - shiro 反序列 命令执行辅助检测工具
   - Created: 2020-01-07  Updated: 2024-05-21  
 
-- [sensitive-stop-words](https://github.com/fwwdn/sensitive-stop-words) ★1349
+- [sensitive-stop-words](https://github.com/fwwdn/sensitive-stop-words) ★1350
   - 互联网常用敏感词、停止词词库
   - Created: 2015-02-02  Updated: 2024-06-04  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
+
+- [Webshell_Generate](https://github.com/cseroad/Webshell_Generate) ★1132
+  - 用于生成各类免杀webshell
+  - Created: 2022-05-19  Updated: 2024-03-04  
 
 - [PotatoTool](https://github.com/HotBoy-java/PotatoTool) ★1032
   - 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts. With features like decryption, analysis, scanning, and traceability, it provides a user-friendly interface and diverse functionality.
@@ -791,11 +795,11 @@ Total Starred Repositories: 352
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★125982
+- [ollama](https://github.com/ollama/ollama) ★126000
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★125742
+- [go](https://github.com/golang/go) ★125748
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -803,7 +807,7 @@ Total Starred Repositories: 352
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★15426
+- [SafeLine](https://github.com/chaitin/SafeLine) ★15429
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -815,7 +819,7 @@ Total Starred Repositories: 352
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★5757
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★5759
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -841,7 +845,7 @@ Total Starred Repositories: 352
 
 - [goverter](https://github.com/jmattheis/goverter) ★623
   - Generate type-safe Go converters by defining function signatures.
-  - Created: 2021-03-09  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `code-generation` `converter` `copy`
+  - Created: 2021-03-09  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `code-generation` `converter` `copy`
 
 - [go-learning](https://github.com/BaiZe1998/go-learning) ★450
   - 一个存放Go语言/计算机相关学习资料的仓库
@@ -875,7 +879,7 @@ Total Starred Repositories: 352
   - SecureJS 是一款功能强大的工具，旨在通过模拟浏览器行为从目标网站收集所有相关链接（包括动态加载的js链接和页面中提取的链接），访问这些链接，并扫描其中的敏感信息，如令牌、密钥、密码和 AKSK 等。
   - Created: 2025-01-13  Updated: 2025-01-22  
 
-- [gody](https://github.com/guiferpa/gody) ★109
+- [gody](https://github.com/guiferpa/gody) ★110
   - :balloon: A lightweight struct validator for Go
   - Created: 2018-11-01  Updated: 2025-02-01  ![License](https://img.shields.io/badge/license-mit-blue) `go` `golang` `struct`
 
@@ -913,7 +917,7 @@ Total Starred Repositories: 352
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350360
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350365
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1035,7 +1039,7 @@ Total Starred Repositories: 352
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★67085
+- [dify](https://github.com/langgenius/dify) ★67103
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1043,7 +1047,7 @@ Total Starred Repositories: 352
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★16974
+- [dokploy](https://github.com/Dokploy/dokploy) ★16977
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1171,7 +1175,7 @@ Total Starred Repositories: 352
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★187660
+- [linux](https://github.com/torvalds/linux) ★187664
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1221,7 +1225,7 @@ Total Starred Repositories: 352
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★114747
+- [PowerToys](https://github.com/microsoft/PowerToys) ★114750
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1447,7 +1451,7 @@ Total Starred Repositories: 352
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★112625
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★112624
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1488,7 +1492,7 @@ Total Starred Repositories: 352
   - Created: 2024-06-22  Updated: 2024-06-22  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `java` `springboot` `template`
 
 - [Goh](https://github.com/OblivionOcean/Goh) ★77
-  - Goh is a pre-compiled and fast template engine for the Go language.(The fastest known template package) | Goh 是一款Go语言的预编译快速模板引擎。（已知最快的模板包）
+  - Goh is a pre-compiled and fast template engine for the Go language.(The fastest known go template package) | Goh 是一款Go语言的预编译快速模板引擎。（已知最快的go模板包）
   - Created: 2025-02-01  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `go` `go-template` `golang`
 
 
@@ -1553,7 +1557,7 @@ Total Starred Repositories: 352
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17090
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17093
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1601,7 +1605,7 @@ Total Starred Repositories: 352
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★117371
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★117390
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
