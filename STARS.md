@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-19 13:02*
+*Last Updated: 2025-02-19 13:27*
 
 
 ## 🌟 Statistics
@@ -55,11 +55,11 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★86303
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★86307
   - No description
   - Created: 2024-12-26  Updated: 2025-02-18  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★22753
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★22757
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -67,7 +67,7 @@ Total Starred Repositories: 363
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-02-18  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★9894
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★9897
   - Automate the process of making money online.
   - Created: 2024-02-12  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `automation` `cli` `json`
 
@@ -95,7 +95,7 @@ Total Starred Repositories: 363
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2630
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2631
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-02-18  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -499,7 +499,7 @@ Total Starred Repositories: 363
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2024-10-26  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
-- [gutenberg](https://github.com/WordPress/gutenberg) ★10864
+- [gutenberg](https://github.com/WordPress/gutenberg) ★10865
   - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
   - Created: 2017-02-03  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-other-blue) `gutenberg` `wordpress` `wordpress-plugin`
 
@@ -681,11 +681,11 @@ Total Starred Repositories: 363
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★218132
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★218135
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [gfwlist](https://github.com/gfwlist/gfwlist) ★23763
+- [gfwlist](https://github.com/gfwlist/gfwlist) ★23764
   - The one and only one gfwlist here
   - Created: 2015-03-13  Updated: 2025-02-18  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `anticensorship` `censorship` `censorship-circumvention`
 
@@ -811,7 +811,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★127632
+- [ollama](https://github.com/ollama/ollama) ★127636
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -827,7 +827,7 @@ Total Starred Repositories: 363
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★10184
+- [gnet](https://github.com/panjf2000/gnet) ★10185
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-02-16  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
@@ -835,7 +835,7 @@ Total Starred Repositories: 363
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★5800
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★5802
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-02-18  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -1063,7 +1063,7 @@ Total Starred Repositories: 363
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★69392
+- [dify](https://github.com/langgenius/dify) ★69402
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1071,11 +1071,11 @@ Total Starred Repositories: 363
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★17186
+- [dokploy](https://github.com/Dokploy/dokploy) ★17188
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-02-18  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★8963
+- [docmost](https://github.com/docmost/docmost) ★8980
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1211,7 +1211,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★188002
+- [linux](https://github.com/torvalds/linux) ★188004
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-18  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1231,7 +1231,7 @@ Total Starred Repositories: 363
   - 容器化的无污染DNS服务
   - Created: 2021-05-18  Updated: 2024-11-25  ![License](https://img.shields.io/badge/license-mit-blue) `dns` `dns-server` `docker`
 
-- [oranges](https://github.com/wlmnzf/oranges) ★212
+- [oranges](https://github.com/wlmnzf/oranges) ★213
   - 《ORANGE’S：一个操作系统的实现》源码
   - Created: 2017-07-01  Updated: 2017-07-01  
 
@@ -1261,7 +1261,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★114920
+- [PowerToys](https://github.com/microsoft/PowerToys) ★114917
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1273,7 +1273,7 @@ Total Starred Repositories: 363
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-02-16  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
-- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6007
+- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6006
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-02-03  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
@@ -1299,7 +1299,7 @@ Total Starred Repositories: 363
 
 ### 🚧 Archived repositories
 
-- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) ★30305
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) ★30306
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
@@ -1433,7 +1433,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [fq-book](https://github.com/hoochanlon/fq-book) ★3957
+- [fq-book](https://github.com/hoochanlon/fq-book) ★3958
   - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
   - Created: 2018-05-26  Updated: 2024-01-12  `deep-web` `digital-certificate` `fq-book`
 
@@ -1645,7 +1645,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★118891
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★118903
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-17  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1655,7 +1655,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69116
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69117
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
