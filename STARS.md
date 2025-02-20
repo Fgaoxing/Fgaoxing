@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-20 20:24*
+*Last Updated: 2025-02-20 21:20*
 
 
 ## 🌟 Statistics
@@ -55,11 +55,11 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★86781
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★86784
   - No description
   - Created: 2024-12-26  Updated: 2025-02-18  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★23271
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★23274
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -95,7 +95,7 @@ Total Starred Repositories: 363
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2654
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2655
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-02-20  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -681,7 +681,7 @@ Total Starred Repositories: 363
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★218288
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★218291
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -811,7 +811,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★128063
+- [ollama](https://github.com/ollama/ollama) ★128066
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-02-20  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -823,11 +823,11 @@ Total Starred Repositories: 363
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★15520
+- [SafeLine](https://github.com/chaitin/SafeLine) ★15523
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★10192
+- [gnet](https://github.com/panjf2000/gnet) ★10193
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-02-16  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
@@ -941,7 +941,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350786
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★350788
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1059,11 +1059,11 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★167571
+- [vscode](https://github.com/microsoft/vscode) ★167572
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-20  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★70094
+- [dify](https://github.com/langgenius/dify) ★70096
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-02-20  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1071,11 +1071,11 @@ Total Starred Repositories: 363
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-12  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★17221
+- [dokploy](https://github.com/Dokploy/dokploy) ★17224
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-02-20  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★9544
+- [docmost](https://github.com/docmost/docmost) ★9545
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-02-20  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1173,13 +1173,13 @@ Total Starred Repositories: 363
   - 手写一个MyBatis框架
   - Created: 2024-12-19  Updated: 2025-02-20  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
+- [aibotgo](https://github.com/shengdingbox/aibotgo) ★131
+  - 🚀 AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+  - Created: 2024-09-09  Updated: 2024-10-10  
+
 - [easy-ai-spring-boot-starter](https://github.com/wb04307201/easy-ai-spring-boot-starter) ★131
   - 这不是一个AI大模型，但是可以帮你快速集成AI大模型到Spring项目中，并通过“检索增强生成(RAG)”的方式建立专家知识库帮助大模型回答问题。
   - Created: 2024-07-08  Updated: 2025-02-15  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `ai` `spring-ai` `spring-boot`
-
-- [aibotgo](https://github.com/shengdingbox/aibotgo) ★130
-  - 🚀 AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
-  - Created: 2024-09-09  Updated: 2024-10-10  
 
 - [ares](https://github.com/rewerma/ares) ★113
   - Ares is a data computation integration engine based on PL-SQL syntax for ETL, cross-source computation, data analysis, and storage-computation separation.
@@ -1211,7 +1211,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★188097
+- [linux](https://github.com/torvalds/linux) ★188098
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-20  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1261,7 +1261,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★114953
+- [PowerToys](https://github.com/microsoft/PowerToys) ★114954
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-20  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1415,7 +1415,7 @@ Total Starred Repositories: 363
   - Frame API  -开箱即用（封装函数、服务类、api ...）等等一系列功能案例，可以ctrl+c/v & 拿去使用 （免费）。如有问题，社区联系交流即可。
   - Created: 2019-09-23  Updated: 2024-10-30  `api` `html-css-javascript` `javascript`
 
-- [TIM](https://github.com/program-myyjjpp/TIM) ★111
+- [TIM](https://github.com/program-myyjjpp/TIM) ★112
   - 🎉🎉TIM自动化程序,seo霸屏,黑帽seo,站群.只为解放用户的双手,设置指南等技术服务一站式解决方案
   - Created: 2024-09-24  Updated: 2024-11-16  `php` `seo`
 
@@ -1513,7 +1513,7 @@ Total Starred Repositories: 363
   - Incomplete Redis client and server implementation using Tokio - for learning purposes only
   - Created: 2019-12-04  Updated: 2024-08-03  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [atomic-bomb-engine-py](https://github.com/we-lsp/atomic-bomb-engine-py) ★503
+- [atomic-bomb-engine-py](https://github.com/we-lsp/atomic-bomb-engine-py) ★504
   - 使用rust开发的高性能python压测工具
   - Created: 2024-03-07  Updated: 2024-08-20  
 
@@ -1597,7 +1597,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17302
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17304
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1645,7 +1645,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★119924
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★119942
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-17  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1655,7 +1655,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69145
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69147
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1675,7 +1675,7 @@ Total Starred Repositories: 363
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★30989
+- [llvm-project](https://github.com/llvm/llvm-project) ★30990
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-02-20  ![License](https://img.shields.io/badge/license-other-blue)
 
