@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-02-22 21:20*
+*Last Updated: 2025-02-22 22:20*
 
 
 ## 🌟 Statistics
@@ -55,11 +55,11 @@ Total Starred Repositories: 364
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★87448
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★87453
   - No description
   - Created: 2024-12-26  Updated: 2025-02-18  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★23806
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★23807
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -95,7 +95,7 @@ Total Starred Repositories: 364
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2901
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★2903
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-02-21  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -151,7 +151,7 @@ Total Starred Repositories: 364
   - :fire: The Python library for PDF forms.
   - Created: 2020-10-28  Updated: 2025-02-15  ![License](https://img.shields.io/badge/license-mit-blue) `pdf` `pdf-document` `pdf-files`
 
-- [IP_database](https://github.com/adysec/IP_database) ★352
+- [IP_database](https://github.com/adysec/IP_database) ★354
   - IP地址库 | GeoLite数据库每日更新，纯真ip库每日更新，ip2region每日更新，17monipdb每日更新，ipv6wry每日更新，IPDB每日更新，DB-IP每日更新
   - Created: 2024-07-03  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `action` `daily` `geoip`
 
@@ -681,7 +681,7 @@ Total Starred Repositories: 364
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★218524
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★218528
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -811,11 +811,11 @@ Total Starred Repositories: 364
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★128581
+- [ollama](https://github.com/ollama/ollama) ★128591
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★125996
+- [go](https://github.com/golang/go) ★125997
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -823,7 +823,7 @@ Total Starred Repositories: 364
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★15573
+- [SafeLine](https://github.com/chaitin/SafeLine) ★15574
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -1063,11 +1063,11 @@ Total Starred Repositories: 364
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★167642
+- [vscode](https://github.com/microsoft/vscode) ★167643
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★70938
+- [dify](https://github.com/langgenius/dify) ★70939
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1079,7 +1079,7 @@ Total Starred Repositories: 364
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★9909
+- [docmost](https://github.com/docmost/docmost) ★9921
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1215,7 +1215,7 @@ Total Starred Repositories: 364
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★188225
+- [linux](https://github.com/torvalds/linux) ★188226
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1265,7 +1265,7 @@ Total Starred Repositories: 364
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★115013
+- [PowerToys](https://github.com/microsoft/PowerToys) ★115014
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1273,7 +1273,7 @@ Total Starred Repositories: 364
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7373
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7374
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
@@ -1601,7 +1601,7 @@ Total Starred Repositories: 364
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17361
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17364
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1649,7 +1649,7 @@ Total Starred Repositories: 364
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★120886
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★120895
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1659,7 +1659,7 @@ Total Starred Repositories: 364
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69191
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69192
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
