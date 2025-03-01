@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-01 22:20*
+*Last Updated: 2025-03-01 23:22*
 
 
 ## 🌟 Statistics
@@ -55,7 +55,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★90232
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★90237
   - No description
   - Created: 2024-12-26  Updated: 2025-02-24  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -67,7 +67,7 @@ Total Starred Repositories: 365
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-02-24  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★10638
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★10642
   - Automate the process of making money online.
   - Created: 2024-02-12  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `automation` `cli` `json`
 
@@ -95,7 +95,7 @@ Total Starred Repositories: 365
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★3024
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★3025
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -681,7 +681,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★130364
+- [ollama](https://github.com/ollama/ollama) ★130371
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -689,7 +689,7 @@ Total Starred Repositories: 365
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★21094
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★21095
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -815,7 +815,7 @@ Total Starred Repositories: 365
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★219291
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★219302
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -945,7 +945,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★351409
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★351414
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -973,9 +973,9 @@ Total Starred Repositories: 365
   - Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
   - Created: 2013-12-07  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-gpl-2.0-blue)
 
-- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★532
+- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★539
   - 一个基于 AI 的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号
-  - Created: 2025-01-13  Updated: 2025-02-28  ![License](https://img.shields.io/badge/license-mit-blue)
+  - Created: 2025-01-13  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-mit-blue)
 
 - [On-Device-FinLLM](https://github.com/Lattice-zjj/On-Device-FinLLM) ★272
   - OD-FinLLM is a refined model derived from the LLaMA series, with specific enhancements for Chinese financial knowledge. This model is built by fine-tuning LLaMA using a specialized instruction dataset created from publicly available Chinese financial Q&A data and additional web-scraped financial information.
@@ -1071,11 +1071,11 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★167957
+- [vscode](https://github.com/microsoft/vscode) ★167956
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★75730
+- [dify](https://github.com/langgenius/dify) ★75733
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1083,11 +1083,11 @@ Total Starred Repositories: 365
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★17462
+- [dokploy](https://github.com/Dokploy/dokploy) ★17463
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★11117
+- [docmost](https://github.com/docmost/docmost) ★11120
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1219,7 +1219,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★188721
+- [linux](https://github.com/torvalds/linux) ★188725
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1311,7 +1311,7 @@ Total Starred Repositories: 365
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12153
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12154
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1319,7 +1319,7 @@ Total Starred Repositories: 365
   - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
   - Created: 2016-08-18  Updated: 2025-02-27  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `gallery` `image-host` `image-hosting`
 
-- [CloudPeler](https://github.com/zidansec/CloudPeler) ★1423
+- [CloudPeler](https://github.com/zidansec/CloudPeler) ★1424
   - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
   - Created: 2022-05-12  Updated: 2023-09-01  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-mit-blue) `bypass-cloudflare` `bypass-hostname` `bypass-waf`
 
@@ -1653,7 +1653,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★122854
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★122858
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1683,7 +1683,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★31137
+- [llvm-project](https://github.com/llvm/llvm-project) ★31140
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-03-01  ![License](https://img.shields.io/badge/license-other-blue)
 
