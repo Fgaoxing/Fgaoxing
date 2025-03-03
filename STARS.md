@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-03 18:30*
+*Last Updated: 2025-03-03 19:19*
 
 
 ## 🌟 Statistics
@@ -55,7 +55,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★90621
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★90622
   - No description
   - Created: 2024-12-26  Updated: 2025-02-24  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -67,7 +67,7 @@ Total Starred Repositories: 365
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★10725
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★10726
   - Automate the process of making money online.
   - Created: 2024-02-12  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `automation` `cli` `json`
 
@@ -495,7 +495,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★16349
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★16351
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2024-10-26  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
@@ -519,7 +519,7 @@ Total Starred Repositories: 365
   - The CDN for everything on npm
   - Created: 2016-02-22  Updated: 2024-06-01  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [SysMocap](https://github.com/xianfei/SysMocap) ★2601
+- [SysMocap](https://github.com/xianfei/SysMocap) ★2602
   - A real-time motion capture system for 3D virtual character animating.
   - Created: 2022-03-09  Updated: 2024-07-18  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `augmented-reality` `augmented-reality-applications` `mocap`
 
@@ -681,7 +681,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★130723
+- [ollama](https://github.com/ollama/ollama) ★130726
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -689,7 +689,7 @@ Total Starred Repositories: 365
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★21122
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★21123
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -815,7 +815,7 @@ Total Starred Repositories: 365
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★219480
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★219484
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -945,7 +945,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★351549
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★351550
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1071,11 +1071,11 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★168015
+- [vscode](https://github.com/microsoft/vscode) ★168016
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★77033
+- [dify](https://github.com/langgenius/dify) ★77039
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1087,7 +1087,7 @@ Total Starred Repositories: 365
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★11292
+- [docmost](https://github.com/docmost/docmost) ★11294
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1219,7 +1219,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★188915
+- [linux](https://github.com/torvalds/linux) ★188917
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1269,11 +1269,11 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★115255
+- [PowerToys](https://github.com/microsoft/PowerToys) ★115258
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
-- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★16374
+- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★16373
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
@@ -1311,7 +1311,7 @@ Total Starred Repositories: 365
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12159
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12158
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1319,7 +1319,7 @@ Total Starred Repositories: 365
   - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
   - Created: 2016-08-18  Updated: 2025-02-27  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `gallery` `image-host` `image-hosting`
 
-- [CloudPeler](https://github.com/zidansec/CloudPeler) ★1425
+- [CloudPeler](https://github.com/zidansec/CloudPeler) ★1427
   - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
   - Created: 2022-05-12  Updated: 2023-09-01  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-mit-blue) `bypass-cloudflare` `bypass-hostname` `bypass-waf`
 
@@ -1605,7 +1605,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17606
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17607
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-02-25  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1653,7 +1653,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★123269
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★123274
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
