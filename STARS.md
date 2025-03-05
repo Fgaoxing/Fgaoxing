@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-05 16:35*
+*Last Updated: 2025-03-05 17:21*
 
 
 ## 🌟 Statistics
@@ -55,7 +55,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★91005
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★91010
   - No description
   - Created: 2024-12-26  Updated: 2025-02-24  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -99,7 +99,7 @@ Total Starred Repositories: 365
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-03-02  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [WeblogicScan](https://github.com/rabbitmask/WeblogicScan) ★2214
+- [WeblogicScan](https://github.com/rabbitmask/WeblogicScan) ★2215
   - Weblogic一键漏洞检测工具，V1.5，更新时间：20200730
   - Created: 2019-03-05  Updated: 2023-05-22  ![License](https://img.shields.io/badge/license-mit-blue) `weblogicscan`
 
@@ -111,11 +111,11 @@ Total Starred Repositories: 365
   - weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883
   - Created: 2020-01-15  Updated: 2023-11-24  `cve-2016-0638` `cve-2016-3510` `cve-2017-10271`
 
-- [D-FINE](https://github.com/Peterande/D-FINE) ★1657
+- [D-FINE](https://github.com/Peterande/D-FINE) ★1658
   - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]
   - Created: 2024-08-12  Updated: 2025-03-02  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `d-fine` `detr` `object-detection`
 
-- [LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) ★1562
+- [LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) ★1563
   - 针对 LiteLoaderQQNT 的安装脚本
   - Created: 2024-01-21  Updated: 2025-02-06  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -681,11 +681,11 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★131149
+- [ollama](https://github.com/ollama/ollama) ★131156
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★126199
+- [go](https://github.com/golang/go) ★126200
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -693,7 +693,7 @@ Total Starred Repositories: 365
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★15738
+- [SafeLine](https://github.com/chaitin/SafeLine) ★15739
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -815,7 +815,7 @@ Total Starred Repositories: 365
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★219697
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★219703
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -823,7 +823,7 @@ Total Starred Repositories: 365
   - The one and only one gfwlist here
   - Created: 2015-03-13  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `anticensorship` `censorship` `censorship-circumvention`
 
-- [geektime-books](https://github.com/it-ebooks-0/geektime-books) ★11841
+- [geektime-books](https://github.com/it-ebooks-0/geektime-books) ★11840
   - :books: 极客时间电子书
   - Created: 2023-01-26  Updated: 2023-01-26  
 
@@ -945,11 +945,11 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★351699
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★351695
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-02-14  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [smiley-sans](https://github.com/atelier-anchor/smiley-sans) ★13317
+- [smiley-sans](https://github.com/atelier-anchor/smiley-sans) ★13319
   - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
   - Created: 2022-11-11  Updated: 2024-12-10  ![License](https://img.shields.io/badge/license-ofl-1.1-blue) `cjk` `cjk-font` `font`
 
@@ -969,7 +969,7 @@ Total Starred Repositories: 365
   - 漏洞复现
   - Created: 2020-09-03  Updated: 2025-02-24  
 
-- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★953
+- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★954
   - 一个基于 AI 的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号
   - Created: 2025-01-13  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1071,15 +1071,15 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★168089
+- [vscode](https://github.com/microsoft/vscode) ★168092
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★78310
+- [dify](https://github.com/langgenius/dify) ★78317
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★24114
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★24116
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
@@ -1087,7 +1087,7 @@ Total Starred Repositories: 365
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★11467
+- [docmost](https://github.com/docmost/docmost) ★11468
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1111,7 +1111,7 @@ Total Starred Repositories: 365
   - 基于vue3的一款开箱即用表单方案
   - Created: 2023-12-19  Updated: 2024-12-28  
 
-- [arkTS](https://github.com/Groupguanfang/arkTS) ★255
+- [arkTS](https://github.com/Groupguanfang/arkTS) ★256
   - VSCode鸿蒙ArkTS插件✨✍️支持各种补全/跳转⛺️支持codelinter检测代码错误🎵VSCode HarmonyOS ArkTS plugin for personal use ✨ supports source code navigation and completion ⛺️supports codelinter to detect errors
   - Created: 2025-02-02  Updated: 2025-03-04  ![License](https://img.shields.io/badge/license-mit-blue) `arkts` `development-tools` `huawei`
 
@@ -1219,9 +1219,9 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★189039
+- [linux](https://github.com/torvalds/linux) ★189042
   - Linux kernel source tree
-  - Created: 2011-09-04  Updated: 2025-03-04  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2011-09-04  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [cmark](https://github.com/commonmark/cmark) ★1708
   - CommonMark parsing and rendering library and program in C
@@ -1269,19 +1269,19 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★115316
+- [PowerToys](https://github.com/microsoft/PowerToys) ★115317
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
-- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★16385
+- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★16386
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7436
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7437
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-03-04  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
-- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6060
+- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6059
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-02-24  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
@@ -1311,7 +1311,7 @@ Total Starred Repositories: 365
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12159
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12160
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1605,7 +1605,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17667
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17668
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-02-25  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1653,7 +1653,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★123654
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★123665
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1663,7 +1663,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69400
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69401
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1683,7 +1683,7 @@ Total Starred Repositories: 365
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★31206
+- [llvm-project](https://github.com/llvm/llvm-project) ★31207
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-other-blue)
 
