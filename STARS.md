@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-08 10:19*
+*Last Updated: 2025-03-08 11:15*
 
 
 ## 🌟 Statistics
@@ -55,7 +55,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★91388
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★91390
   - No description
   - Created: 2024-12-26  Updated: 2025-02-24  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -499,7 +499,7 @@ Total Starred Repositories: 366
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2024-10-26  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
-- [gutenberg](https://github.com/WordPress/gutenberg) ★10925
+- [gutenberg](https://github.com/WordPress/gutenberg) ★10926
   - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
   - Created: 2017-02-03  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-other-blue) `gutenberg` `wordpress` `wordpress-plugin`
 
@@ -507,7 +507,7 @@ Total Starred Repositories: 366
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2025-03-02  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
-- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6553
+- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6554
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
   - Created: 2023-05-27  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-mit-blue) `furry` `liteloaderqqnt` `qqnt`
 
@@ -681,7 +681,7 @@ Total Starred Repositories: 366
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★219928
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★219934
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -705,7 +705,7 @@ Total Starred Repositories: 366
   - 一个漏洞POC知识库 目前数量 1000+
   - Created: 2022-02-20  Updated: 2025-03-03  `poc`
 
-- [stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese) ★3148
+- [stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese) ★3150
   - stable-diffusion-webui 的汉化扩展
   - Created: 2022-10-10  Updated: 2024-05-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue)
 
@@ -765,13 +765,13 @@ Total Starred Repositories: 366
   - a list of proxy site
   - Created: 2022-09-07  Updated: 2024-02-21  
 
+- [POC](https://github.com/adysec/POC) ★132
+  - wy876 POC
+  - Created: 2025-03-07  Updated: 2025-03-07  
+
 - [High-density-Intersection-Dataset](https://github.com/Qpu523/High-density-Intersection-Dataset) ★131
   - No description
   - Created: 2024-09-26  Updated: 2025-02-21  
-
-- [POC](https://github.com/adysec/POC) ★131
-  - wy876 POC
-  - Created: 2025-03-07  Updated: 2025-03-07  
 
 - [4F](https://github.com/sexyCs258369/4F) ★87
   - 青云四方支付系统-链接资金的利器 聚合支付系统 四方支付系统 四方源码  第四方支付平台 三方平台 通道对接 商户对接
@@ -783,7 +783,7 @@ Total Starred Repositories: 366
 
 - [AlienFamilyHub](https://github.com/AlienFamilyHub/AlienFamilyHub) ★13
   - 相亲相爱一家人？相侵相碍异家人！ [maintainers=@FloatSheep @LYXOfficial]
-  - Created: 2024-08-18  Updated: 2025-02-20  
+  - Created: 2024-08-18  Updated: 2025-03-08  
 
 - [.github](https://github.com/Lafcadia/.github) ★12
   - No description
@@ -815,7 +815,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★131718
+- [ollama](https://github.com/ollama/ollama) ★131721
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -949,7 +949,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★351839
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★351842
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-03-06  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1071,11 +1071,11 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★168375
+- [vscode](https://github.com/microsoft/vscode) ★168380
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★79609
+- [dify](https://github.com/langgenius/dify) ★79618
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1087,7 +1087,7 @@ Total Starred Repositories: 366
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-07  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★11640
+- [docmost](https://github.com/docmost/docmost) ★11642
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1223,7 +1223,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★189193
+- [linux](https://github.com/torvalds/linux) ★189194
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1273,7 +1273,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★115814
+- [PowerToys](https://github.com/microsoft/PowerToys) ★115824
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1311,7 +1311,7 @@ Total Starred Repositories: 366
 
 ### 🚧 Archived repositories
 
-- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) ★30304
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) ★30305
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
@@ -1397,7 +1397,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★30466
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★30468
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1449,7 +1449,7 @@ Total Starred Repositories: 366
   - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
   - Created: 2018-05-26  Updated: 2024-01-12  `deep-web` `digital-certificate` `fq-book`
 
-- [tracker](https://github.com/adysec/tracker) ★340
+- [tracker](https://github.com/adysec/tracker) ★341
   - tracker服务器列表 | 全网最全BT下载所需tracker服务器，每日聚合tracker服务器列表，对公开tracker服务器进行爬取，并测试存活后写入列表中 | trackers_all.txt为全量tracker服务器列表(2004行)，trackers_best.txt为测试存活服务器列表(745行)
   - Created: 2024-08-14  Updated: 2025-03-07  `bt` `daily` `tracker`
 
@@ -1609,7 +1609,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17756
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17758
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-03-06  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1657,7 +1657,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★124090
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★124091
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1667,7 +1667,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69433
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69434
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-02-22  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
