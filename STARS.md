@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-08 22:17*
+*Last Updated: 2025-03-08 23:18*
 
 
 ## 🌟 Statistics
@@ -55,7 +55,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★91422
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★91425
   - No description
   - Created: 2024-12-26  Updated: 2025-02-24  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -499,7 +499,7 @@ Total Starred Repositories: 366
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
-- [gutenberg](https://github.com/WordPress/gutenberg) ★10928
+- [gutenberg](https://github.com/WordPress/gutenberg) ★10929
   - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
   - Created: 2017-02-03  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-other-blue) `gutenberg` `wordpress` `wordpress-plugin`
 
@@ -681,7 +681,7 @@ Total Starred Repositories: 366
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★219966
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★219973
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -753,7 +753,7 @@ Total Starred Repositories: 366
   - my pdf books
   - Created: 2014-05-06  Updated: 2014-05-06  
 
-- [top_1m_domains](https://github.com/adysec/top_1m_domains) ★213
+- [top_1m_domains](https://github.com/adysec/top_1m_domains) ★214
   - 前1M域名列表（alexa替代品）| 免费且可直接下载的前100万域名列表，是Alexa.com服务（已下线）的替代品。这些替代服务提供了在没有Alexa.com的情况下获取top 1m域名数据的解决方案。
   - Created: 2024-06-07  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `1m` `alexa` `alexa-domains`
 
@@ -815,11 +815,11 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★131788
+- [ollama](https://github.com/ollama/ollama) ★131791
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★126272
+- [go](https://github.com/golang/go) ★126273
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-03-07  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -827,7 +827,7 @@ Total Starred Repositories: 366
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★15759
+- [SafeLine](https://github.com/chaitin/SafeLine) ★15760
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -949,7 +949,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★351923
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★351924
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1071,11 +1071,11 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★168400
+- [vscode](https://github.com/microsoft/vscode) ★168399
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★79699
+- [dify](https://github.com/langgenius/dify) ★79700
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1083,11 +1083,11 @@ Total Starred Repositories: 366
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★17671
+- [dokploy](https://github.com/Dokploy/dokploy) ★17672
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★11686
+- [docmost](https://github.com/docmost/docmost) ★11691
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1223,7 +1223,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★189224
+- [linux](https://github.com/torvalds/linux) ★189225
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1273,7 +1273,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★115904
+- [PowerToys](https://github.com/microsoft/PowerToys) ★115908
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1609,7 +1609,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17777
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17778
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-03-06  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1657,7 +1657,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★124183
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★124186
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1687,7 +1687,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★31267
+- [llvm-project](https://github.com/llvm/llvm-project) ★31269
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-other-blue)
 
