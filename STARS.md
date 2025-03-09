@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-09 22:18*
+*Last Updated: 2025-03-09 23:17*
 
 
 ## 🌟 Statistics
@@ -55,11 +55,11 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★91505
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★91506
   - No description
   - Created: 2024-12-26  Updated: 2025-02-24  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★24970
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★24971
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -67,7 +67,7 @@ Total Starred Repositories: 366
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★10965
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★10970
   - Automate the process of making money online.
   - Created: 2024-02-12  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `automation` `cli` `json`
 
@@ -79,7 +79,7 @@ Total Starred Repositories: 366
   - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
   - Created: 2018-02-15  Updated: 2025-02-14  `chatgpt` `cnki` `it`
 
-- [stock](https://github.com/myhhub/stock) ★7811
+- [stock](https://github.com/myhhub/stock) ★7812
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
@@ -95,7 +95,7 @@ Total Starred Repositories: 366
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★3088
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★3089
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-03-02  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -187,7 +187,7 @@ Total Starred Repositories: 366
   - 【幼盾】个性化图片徽章服务！
   - Created: 2021-06-10  Updated: 2023-08-28  
 
-- [ANeurIPS2024_SPV-MIA](https://github.com/tsinghua-fib-lab/ANeurIPS2024_SPV-MIA) ★176
+- [ANeurIPS2024_SPV-MIA](https://github.com/tsinghua-fib-lab/ANeurIPS2024_SPV-MIA) ★177
   - [NeurIPS'24] "Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration"
   - Created: 2023-09-15  Updated: 2025-01-03  `large-language-models` `membership-inference-attack` `trustworthy-ai`
 
@@ -501,13 +501,13 @@ Total Starred Repositories: 366
 
 - [gutenberg](https://github.com/WordPress/gutenberg) ★10937
   - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
-  - Created: 2017-02-03  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-other-blue) `gutenberg` `wordpress` `wordpress-plugin`
+  - Created: 2017-02-03  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-other-blue) `gutenberg` `wordpress` `wordpress-plugin`
 
 - [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★10556
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2025-03-02  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
-- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6561
+- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6562
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
   - Created: 2023-05-27  Updated: 2025-02-19  ![License](https://img.shields.io/badge/license-mit-blue) `furry` `liteloaderqqnt` `qqnt`
 
@@ -681,7 +681,7 @@ Total Starred Repositories: 366
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220077
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220082
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -815,7 +815,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★131917
+- [ollama](https://github.com/ollama/ollama) ★131920
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -827,7 +827,7 @@ Total Starred Repositories: 366
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-01-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★15764
+- [SafeLine](https://github.com/chaitin/SafeLine) ★15765
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -949,7 +949,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★352089
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★352092
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1075,11 +1075,11 @@ Total Starred Repositories: 366
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★79955
+- [dify](https://github.com/langgenius/dify) ★79959
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★24145
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★24146
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
@@ -1087,9 +1087,9 @@ Total Starred Repositories: 366
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★11778
+- [docmost](https://github.com/docmost/docmost) ★11780
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-  - Created: 2023-08-03  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
+  - Created: 2023-08-03  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
 - [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★1036
   - TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具
@@ -1157,7 +1157,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [selenium](https://github.com/SeleniumHQ/selenium) ★31779
+- [selenium](https://github.com/SeleniumHQ/selenium) ★31777
   - A browser automation framework and ecosystem.
   - Created: 2013-01-14  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `dotnet` `java` `javascript`
 
@@ -1223,7 +1223,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★189265
+- [linux](https://github.com/torvalds/linux) ★189267
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1273,7 +1273,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★115989
+- [PowerToys](https://github.com/microsoft/PowerToys) ★115988
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1609,7 +1609,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17806
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17808
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-03-06  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1657,7 +1657,7 @@ Total Starred Repositories: 366
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★124418
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★124422
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
