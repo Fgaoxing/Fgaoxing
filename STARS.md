@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-13 19:19*
+*Last Updated: 2025-03-13 20:25*
 
 
 ## 🌟 Statistics
@@ -55,7 +55,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★92029
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★92032
   - No description
   - Created: 2024-12-26  Updated: 2025-02-24  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -63,11 +63,11 @@ Total Starred Repositories: 368
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★19547
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★19548
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★11162
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★11163
   - Automate the process of making money online.
   - Created: 2024-02-12  Updated: 2025-03-11  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `automation` `cli` `json`
 
@@ -83,7 +83,7 @@ Total Starred Repositories: 368
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2025-03-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
-- [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ★6306
+- [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ★6307
   - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
   - Created: 2021-07-29  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `custom` `fluent` `fluent-design`
 
@@ -127,7 +127,7 @@ Total Starred Repositories: 368
   - The official implementation of IJCV & BMVC 2022 paper "One-Pot Multi-frame Denoising".
   - Created: 2023-07-05  Updated: 2023-09-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `image-denoising` `unsupervised-learning`
 
-- [nuclei_poc](https://github.com/adysec/nuclei_poc) ★1062
+- [nuclei_poc](https://github.com/adysec/nuclei_poc) ★1063
   - Nuclei POC，每日更新 | 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现（已有19w+POC，已校验有效性并去重）
   - Created: 2024-05-07  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `daily` `exploit` `exploits`
 
@@ -179,7 +179,7 @@ Total Starred Repositories: 368
   - VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model
   - Created: 2025-01-21  Updated: 2025-02-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [h1_asset](https://github.com/adysec/h1_asset) ★235
+- [h1_asset](https://github.com/adysec/h1_asset) ★236
   - HackerOne资产更新 | 每日更新HackerOne资产，对HackerOne的资产进行爬行和整理，SRC资产更新仅会增加，不会进行删除，每天更新的可以进行差异化对比来获取到新的项目资产范围
   - Created: 2024-06-06  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `daily` `daily-tasks` `hackerone`
 
@@ -689,7 +689,7 @@ Total Starred Repositories: 368
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220586
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220587
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -823,7 +823,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★132735
+- [ollama](https://github.com/ollama/ollama) ★132740
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -873,7 +873,7 @@ Total Starred Repositories: 368
 
 - [build](https://github.com/golang/build) ★670
   - [mirror] Go's continuous build and release infrastructure (no stability promises)
-  - Created: 2015-01-21  Updated: 2025-03-12  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
+  - Created: 2015-01-21  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
 - [go-simple-mail](https://github.com/xhit/go-simple-mail) ★662
   - Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.
@@ -953,7 +953,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353019
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353021
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1075,11 +1075,11 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★168704
+- [vscode](https://github.com/microsoft/vscode) ★168705
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★81771
+- [dify](https://github.com/langgenius/dify) ★81774
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1087,11 +1087,11 @@ Total Starred Repositories: 368
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★17849
+- [dokploy](https://github.com/Dokploy/dokploy) ★17859
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-12  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★12135
+- [docmost](https://github.com/docmost/docmost) ★12137
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1227,7 +1227,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★189476
+- [linux](https://github.com/torvalds/linux) ★189481
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1277,7 +1277,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★116189
+- [PowerToys](https://github.com/microsoft/PowerToys) ★116190
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1347,13 +1347,13 @@ Total Starred Repositories: 368
 
 - [hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) ★1687
   - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
-  - Created: 2019-07-21  Updated: 2025-03-11  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `beautiful` `blog` `gallery`
+  - Created: 2019-07-21  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `beautiful` `blog` `gallery`
 
 - [halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) ★857
   - Halo 版本的樱花🌸主题
   - Created: 2020-05-31  Updated: 2025-02-05  ![License](https://img.shields.io/badge/license-mit-blue) `blog` `freemarker` `halo`
 
-- [homepage](https://github.com/ZYYO666/homepage) ★469
+- [homepage](https://github.com/ZYYO666/homepage) ★470
   - 我的个人主页，homepage,个人引导页,简约主页,个人导航
   - Created: 2024-01-11  Updated: 2025-02-08  
 
@@ -1375,7 +1375,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方主题分类
 
-- [emoji-mart](https://github.com/missive/emoji-mart) ★8914
+- [emoji-mart](https://github.com/missive/emoji-mart) ★8915
   - 🏪 One component to pick them all
   - Created: 2016-07-11  Updated: 2024-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `component` `emoji` `emoji-picker`
 
@@ -1627,7 +1627,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17909
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17912
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-03-06  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1675,7 +1675,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★125169
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★125174
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
