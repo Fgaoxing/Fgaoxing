@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-13 03:30*
+*Last Updated: 2025-03-13 03:37*
 
 
 ## 🌟 Statistics
@@ -67,7 +67,7 @@ Total Starred Repositories: 368
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★11130
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★11131
   - Automate the process of making money online.
   - Created: 2024-02-12  Updated: 2025-03-11  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `automation` `cli` `json`
 
@@ -259,13 +259,13 @@ Total Starred Repositories: 368
   - UGEDUI: YoU-Get Engine Downloader with User Interface
   - Created: 2022-12-22  Updated: 2024-05-31  ![License](https://img.shields.io/badge/license-mit-blue)
 
+- [AnimeImg](https://github.com/Fgaoxing/AnimeImg) ★11
+  - AnimeImg | 动漫图集
+  - Created: 2024-04-21  Updated: 2024-08-29  
+
 - [Vercel-Captcha](https://github.com/Lafcadia/Vercel-Captcha) ★11
   - No description
   - Created: 2024-03-23  Updated: 2024-04-14  ![License](https://img.shields.io/badge/license-mit-blue)
-
-- [AnimeImg](https://github.com/Fgaoxing/AnimeImg) ★10
-  - AnimeImg | 动漫图集
-  - Created: 2024-04-21  Updated: 2024-08-29  
 
 - [Fgaoxing](https://github.com/Fgaoxing/Fgaoxing) ★10
   - 嘛~没名气的人要好好的介绍自己才行啊
@@ -445,15 +445,15 @@ Total Starred Repositories: 368
   - 检测网址里的rickroll诈骗
   - Created: 2024-04-05  Updated: 2024-04-05  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [Qexo](https://github.com/Fgaoxing/Qexo) ★7
+- [Qexo](https://github.com/Fgaoxing/Qexo) ★8
   - A Quick, Powerful and Pretty Online Manager for Hexo. 
   - Created: 2023-08-24  Updated: 2025-02-03  ![License](https://img.shields.io/badge/license-gpl-3.0-blue)
 
-- [jian-docs](https://github.com/Fgaoxing/jian-docs) ★7
+- [jian-docs](https://github.com/Fgaoxing/jian-docs) ★8
   - No description
   - Created: 2023-09-10  Updated: 2023-09-10  
 
-- [xyh-website](https://github.com/Fgaoxing/xyh-website) ★7
+- [xyh-website](https://github.com/Fgaoxing/xyh-website) ★8
   - 官网：https://www.oblivionocean.top/
   - Created: 2022-09-04  Updated: 2024-08-07  
 
@@ -591,9 +591,17 @@ Total Starred Repositories: 368
   - lodash-source-code, JavaScript compiled data logger functions, the number of functions, the total number of functions, the JavaScript ability, and the comprehension of JavaScript
   - Created: 2023-10-27  Updated: 2024-02-13  
 
-- [pandown-js](https://github.com/Fgaoxing/pandown-js) ★14
+- [pandown-js](https://github.com/Fgaoxing/pandown-js) ★15
   - 为网盘提供下载链接按钮
   - Created: 2022-05-04  Updated: 2024-04-17  
+
+- [cdnn](https://github.com/Fgaoxing/cdnn) ★11
+  - No description
+  - Created: 2022-05-24  Updated: 2024-02-27  
+
+- [MyImg](https://github.com/Fgaoxing/MyImg) ★10
+  - No description
+  - Created: 2023-02-18  Updated: 2024-06-29  
 
 - [Tool-js](https://github.com/Fgaoxing/Tool-js) ★10
   - 这是个js的小工具？
@@ -607,10 +615,6 @@ Total Starred Repositories: 368
   - No description
   - Created: 2022-09-04  Updated: 2022-12-17  
 
-- [cdnn](https://github.com/Fgaoxing/cdnn) ★10
-  - No description
-  - Created: 2022-05-24  Updated: 2024-02-27  
-
 - [memoria](https://github.com/Lafcadia/memoria) ★10
   - No description
   - Created: 2024-03-15  Updated: 2024-04-14  
@@ -618,10 +622,6 @@ Total Starred Repositories: 368
 - [LightScrollPage](https://github.com/OblivionOcean/LightScrollPage) ★9
   - 一个基于原生JS的微型滚动动画库，小于1KB
   - Created: 2024-05-19  Updated: 2024-07-19  ![License](https://img.shields.io/badge/license-mit-blue)
-
-- [MyImg](https://github.com/Fgaoxing/MyImg) ★9
-  - No description
-  - Created: 2023-02-18  Updated: 2024-06-29  
 
 - [SearchButton](https://github.com/ChuishenX/SearchButton) ★6
   - A HTML tag definition of <search> tag.
@@ -685,7 +685,7 @@ Total Starred Repositories: 368
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220481
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220482
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -701,7 +701,7 @@ Total Starred Repositories: 368
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2025-03-11  
 
-- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4105
+- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4106
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2025-03-13  
 
@@ -819,11 +819,11 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★132574
+- [ollama](https://github.com/ollama/ollama) ★132575
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
-  - Created: 2023-06-26  Updated: 2025-03-12  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
+  - Created: 2023-06-26  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★126373
+- [go](https://github.com/golang/go) ★126374
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1013,6 +1013,10 @@ Total Starred Repositories: 368
   - No description
   - Created: 2023-12-26  Updated: 2024-04-14  
 
+- [Fgaoxing.github.io](https://github.com/Fgaoxing/Fgaoxing.github.io) ★11
+  - No description
+  - Created: 2023-01-08  Updated: 2025-02-06  
+
 - [Make_Links](https://github.com/cheezhi/Make_Links) ★11
   - 使用python生成友情链接网页模板
   - Created: 2021-09-02  Updated: 2022-05-20  
@@ -1021,25 +1025,21 @@ Total Starred Repositories: 368
   - No description
   - Created: 2024-03-22  Updated: 2024-04-06  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [Fgaoxing.github.io](https://github.com/Fgaoxing/Fgaoxing.github.io) ★10
-  - No description
-  - Created: 2023-01-08  Updated: 2025-02-06  
-
 - [OCDB](https://github.com/Lafcadia/OCDB) ★10
   - No description
   - Created: 2024-02-09  Updated: 2024-04-14  
 
-- [website](https://github.com/OblivionOcean/website) ★9
-  - 官网：https://www.oblivionocean.top/
-  - Created: 2022-09-04  Updated: 2024-08-07  `front-end` `frontend` `frontend-web`
-
-- [ColorfulWebsite](https://github.com/Fgaoxing/ColorfulWebsite) ★8
+- [ColorfulWebsite](https://github.com/Fgaoxing/ColorfulWebsite) ★9
   - 一个颜色网站，包括黄色
   - Created: 2024-02-16  Updated: 2024-02-16  
 
-- [link](https://github.com/Fgaoxing/link) ★8
+- [link](https://github.com/Fgaoxing/link) ★9
   - 安全跳转
   - Created: 2022-04-05  Updated: 2023-02-19  
+
+- [website](https://github.com/OblivionOcean/website) ★9
+  - 官网：https://www.oblivionocean.top/
+  - Created: 2022-09-04  Updated: 2024-08-07  `front-end` `frontend` `frontend-web`
 
 - [star](https://github.com/svipwing/star) ★6
   - 星光工具箱1.0
@@ -1079,7 +1079,7 @@ Total Starred Repositories: 368
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★81470
+- [dify](https://github.com/langgenius/dify) ★81475
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1361,7 +1361,7 @@ Total Starred Repositories: 368
   - 高颜值、易上手的Markdown记事本
   - Created: 2022-08-24  Updated: 2024-07-06  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `markdown`
 
-- [blog-cdn](https://github.com/Fgaoxing/blog-cdn) ★7
+- [blog-cdn](https://github.com/Fgaoxing/blog-cdn) ★8
   - No description
   - Created: 2023-01-17  Updated: 2023-09-05  
 
@@ -1675,7 +1675,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★125047
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★125048
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-02-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
