@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-14 18:31*
+*Last Updated: 2025-03-14 19:19*
 
 
 ## 🌟 Statistics
@@ -67,7 +67,7 @@ Total Starred Repositories: 368
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-03-05  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★11203
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★11205
   - Automate the process of making money online.
   - Created: 2024-02-12  Updated: 2025-03-11  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `automation` `cli` `json`
 
@@ -523,7 +523,7 @@ Total Starred Repositories: 368
   - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
   - Created: 2020-01-08  Updated: 2025-02-27  `cjk` `font` `free`
 
-- [unpkg](https://github.com/unpkg/unpkg) ★3061
+- [unpkg](https://github.com/unpkg/unpkg) ★3062
   - The CDN for everything on npm
   - Created: 2016-02-22  Updated: 2024-06-01  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -689,7 +689,7 @@ Total Starred Repositories: 368
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220705
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220712
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -705,7 +705,7 @@ Total Starred Repositories: 368
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2025-03-11  
 
-- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4107
+- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4108
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2025-03-14  
 
@@ -823,11 +823,11 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★132923
+- [ollama](https://github.com/ollama/ollama) ★132929
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-14  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★126445
+- [go](https://github.com/golang/go) ★126448
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-03-14  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -871,7 +871,7 @@ Total Starred Repositories: 368
   - Vulnerabilities of Goby supported with exploitation.
   - Created: 2020-04-03  Updated: 2025-03-12  `cve` `cve-2023-22527` `cve-2023-51467`
 
-- [build](https://github.com/golang/build) ★670
+- [build](https://github.com/golang/build) ★671
   - [mirror] Go's continuous build and release infrastructure (no stability promises)
   - Created: 2015-01-21  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -953,7 +953,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353090
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353091
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1075,27 +1075,27 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★168779
+- [vscode](https://github.com/microsoft/vscode) ★168782
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-14  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★82137
+- [dify](https://github.com/langgenius/dify) ★82141
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-14  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★24197
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★24198
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★17956
+- [dokploy](https://github.com/Dokploy/dokploy) ★17957
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-12  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★12209
+- [docmost](https://github.com/docmost/docmost) ★12212
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-03-14  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
-- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★1129
+- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★1130
   - TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具
   - Created: 2025-01-13  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `weixin`
 
@@ -1161,7 +1161,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [selenium](https://github.com/SeleniumHQ/selenium) ★31819
+- [selenium](https://github.com/SeleniumHQ/selenium) ★31820
   - A browser automation framework and ecosystem.
   - Created: 2013-01-14  Updated: 2025-03-14  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `dotnet` `java` `javascript`
 
@@ -1227,7 +1227,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★189546
+- [linux](https://github.com/torvalds/linux) ★189547
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-14  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1285,7 +1285,7 @@ Total Starred Repositories: 368
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7494
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7495
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
@@ -1675,7 +1675,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★125300
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★125306
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-03-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1695,7 +1695,7 @@ Total Starred Repositories: 368
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★31410
+- [llvm-project](https://github.com/llvm/llvm-project) ★31413
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-03-14  ![License](https://img.shields.io/badge/license-other-blue)
 
