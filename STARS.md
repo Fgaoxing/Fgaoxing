@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-15 22:21*
+*Last Updated: 2025-03-15 23:20*
 
 
 ## 🌟 Statistics
@@ -55,11 +55,11 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★92209
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★92210
   - No description
   - Created: 2024-12-26  Updated: 2025-02-24  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★25327
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★25328
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -689,7 +689,7 @@ Total Starred Repositories: 369
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220860
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220865
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -827,11 +827,11 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★133088
+- [ollama](https://github.com/ollama/ollama) ★133092
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★126479
+- [go](https://github.com/golang/go) ★126481
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -847,7 +847,7 @@ Total Starred Repositories: 369
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-03-08  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9369
+- [pq](https://github.com/lib/pq) ★9370
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -957,7 +957,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353178
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353183
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1079,11 +1079,11 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★168816
+- [vscode](https://github.com/microsoft/vscode) ★168815
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★82346
+- [dify](https://github.com/langgenius/dify) ★82355
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1091,11 +1091,11 @@ Total Starred Repositories: 369
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★18022
+- [dokploy](https://github.com/Dokploy/dokploy) ★18024
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★12316
+- [docmost](https://github.com/docmost/docmost) ★12324
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1231,7 +1231,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★189612
+- [linux](https://github.com/torvalds/linux) ★189613
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1281,7 +1281,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★116256
+- [PowerToys](https://github.com/microsoft/PowerToys) ★116257
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1289,7 +1289,7 @@ Total Starred Repositories: 369
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7504
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7505
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
@@ -1511,7 +1511,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★112927
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★112928
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1631,7 +1631,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17964
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17965
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-03-06  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1679,7 +1679,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★125456
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★125458
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
