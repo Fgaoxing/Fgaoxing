@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-16 21:20*
+*Last Updated: 2025-03-16 22:20*
 
 
 ## 🌟 Statistics
@@ -55,11 +55,11 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★92286
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★92288
   - No description
   - Created: 2024-12-26  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★25372
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★25374
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -95,7 +95,7 @@ Total Starred Repositories: 369
   - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
   - Created: 2020-10-09  Updated: 2023-04-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cve` `cve-2016-4437` `cve-2020-13942`
 
-- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★3123
+- [SkyThought](https://github.com/NovaSky-AI/SkyThought) ★3124
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-03-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -689,11 +689,11 @@ Total Starred Repositories: 369
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220986
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★220988
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [gfwlist](https://github.com/gfwlist/gfwlist) ★23877
+- [gfwlist](https://github.com/gfwlist/gfwlist) ★23878
   - The one and only one gfwlist here
   - Created: 2015-03-13  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `anticensorship` `censorship` `censorship-circumvention`
 
@@ -827,11 +827,11 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★133234
+- [ollama](https://github.com/ollama/ollama) ★133239
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★126508
+- [go](https://github.com/golang/go) ★126510
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -957,7 +957,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353261
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353264
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1079,11 +1079,11 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★168846
+- [vscode](https://github.com/microsoft/vscode) ★168847
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★82560
+- [dify](https://github.com/langgenius/dify) ★82564
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1091,7 +1091,7 @@ Total Starred Repositories: 369
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★18065
+- [dokploy](https://github.com/Dokploy/dokploy) ★18066
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1165,7 +1165,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [selenium](https://github.com/SeleniumHQ/selenium) ★31833
+- [selenium](https://github.com/SeleniumHQ/selenium) ★31832
   - A browser automation framework and ecosystem.
   - Created: 2013-01-14  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `dotnet` `java` `javascript`
 
@@ -1231,7 +1231,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★189659
+- [linux](https://github.com/torvalds/linux) ★189663
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1281,7 +1281,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★116281
+- [PowerToys](https://github.com/microsoft/PowerToys) ★116283
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1289,7 +1289,7 @@ Total Starred Repositories: 369
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7509
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7508
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
@@ -1631,7 +1631,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★17993
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★18004
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-03-06  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1679,7 +1679,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★125685
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★125692
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
