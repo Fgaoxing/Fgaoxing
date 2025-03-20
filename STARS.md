@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-20 04:27*
+*Last Updated: 2025-03-20 05:23*
 
 
 ## 🌟 Statistics
@@ -55,11 +55,11 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★92613
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★92616
   - No description
   - Created: 2024-12-26  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★25570
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★25572
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -503,7 +503,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★16548
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★16549
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
@@ -685,7 +685,7 @@ Total Starred Repositories: 369
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★221491
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★221497
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -823,7 +823,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★133866
+- [ollama](https://github.com/ollama/ollama) ★133868
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-20  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -953,7 +953,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353512
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353515
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-03-19  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -973,7 +973,7 @@ Total Starred Repositories: 369
   - A fast, powerful and beautiful online manager for all static blog frameworks. 
   - Created: 2021-11-08  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `blog` `hexo` `vercel`
 
-- [exp-hub](https://github.com/ybdt/exp-hub) ★1096
+- [exp-hub](https://github.com/ybdt/exp-hub) ★1097
   - 漏洞复现
   - Created: 2020-09-03  Updated: 2025-03-18  
 
@@ -1075,27 +1075,27 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★168974
+- [vscode](https://github.com/microsoft/vscode) ★168975
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-20  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★83888
+- [dify](https://github.com/langgenius/dify) ★83899
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-20  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★24232
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★24233
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-02-27  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★18156
+- [dokploy](https://github.com/Dokploy/dokploy) ★18157
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-03-19  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★12660
+- [docmost](https://github.com/docmost/docmost) ★12661
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-03-18  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
-- [unpkg](https://github.com/unpkg/unpkg) ★3087
+- [unpkg](https://github.com/unpkg/unpkg) ★3088
   - The CDN for everything on npm
   - Created: 2016-02-22  Updated: 2025-03-20  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1231,7 +1231,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★189903
+- [linux](https://github.com/torvalds/linux) ★189909
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-19  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1357,7 +1357,7 @@ Total Starred Repositories: 369
   - Halo 版本的樱花🌸主题
   - Created: 2020-05-31  Updated: 2025-02-05  ![License](https://img.shields.io/badge/license-mit-blue) `blog` `freemarker` `halo`
 
-- [homepage](https://github.com/ZYYO666/homepage) ★475
+- [homepage](https://github.com/ZYYO666/homepage) ★476
   - 我的个人主页，homepage,个人引导页,简约主页,个人导航
   - Created: 2024-01-11  Updated: 2025-02-08  
 
@@ -1497,7 +1497,7 @@ Total Starred Repositories: 369
   - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
   - Created: 2018-05-26  Updated: 2024-01-12  `deep-web` `digital-certificate` `fq-book`
 
-- [tracker](https://github.com/adysec/tracker) ★357
+- [tracker](https://github.com/adysec/tracker) ★358
   - tracker服务器列表 | 全网最全BT下载所需tracker服务器，每日聚合tracker服务器列表，对公开tracker服务器进行爬取，并测试存活后写入列表中 | trackers_all.txt为全量tracker服务器列表(2004行)，trackers_best.txt为测试存活服务器列表(745行)
   - Created: 2024-08-14  Updated: 2025-03-19  `bt` `daily` `tracker`
 
@@ -1529,7 +1529,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★112964
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★112965
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1631,7 +1631,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★18164
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★18167
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-03-17  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1679,7 +1679,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★126421
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★126428
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1699,7 +1699,7 @@ Total Starred Repositories: 369
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★31503
+- [llvm-project](https://github.com/llvm/llvm-project) ★31502
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-03-20  ![License](https://img.shields.io/badge/license-other-blue)
 
