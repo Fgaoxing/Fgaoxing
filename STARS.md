@@ -1,11 +1,11 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-03-24 14:23*
+*Last Updated: 2025-03-24 14:59*
 
 
 ## 🌟 Statistics
 
-Total Starred Repositories: 370
+Total Starred Repositories: 371
 
 ### Category Distribution
 
@@ -15,7 +15,7 @@ Total Starred Repositories: 370
 | Forks | 49 |
 | 🌐 JavaScript | 44 |
 | Others | 33 |
-| 🐹 Go | 31 |
+| 🐹 Go | 32 |
 | 📚 HTML | 29 |
 | 📘 TypeScript | 21 |
 | ☕ Java | 15 |
@@ -55,11 +55,11 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★92948
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★92956
   - No description
   - Created: 2024-12-26  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★25673
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★25674
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-03-23  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -71,7 +71,7 @@ Total Starred Repositories: 370
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `cuda` `deepseek` `deepseek-llm`
 
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★11313
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★11315
   - Automate the process of making money online.
   - Created: 2024-02-12  Updated: 2025-03-20  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `automation` `cli` `json`
 
@@ -83,7 +83,7 @@ Total Starred Repositories: 370
   - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
   - Created: 2018-02-15  Updated: 2025-02-14  `chatgpt` `cnki` `it`
 
-- [stock](https://github.com/myhhub/stock) ★7979
+- [stock](https://github.com/myhhub/stock) ★7980
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2025-03-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
@@ -147,7 +147,7 @@ Total Starred Repositories: 370
   - 【sese-engine】新时代的搜索引擎！
   - Created: 2022-01-09  Updated: 2024-10-03  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [ARL](https://github.com/adysec/ARL) ★603
+- [ARL](https://github.com/adysec/ARL) ★604
   - ARL 资产侦察灯塔系统（可运行，添加指纹，提高并发，升级工具及系统，无限制修改版） | ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
   - Created: 2024-05-13  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `arl` `cyber-security` `flask`
 
@@ -271,13 +271,13 @@ Total Starred Repositories: 370
   - AnimeImg | 动漫图集
   - Created: 2024-04-21  Updated: 2024-08-29  
 
+- [Fgaoxing](https://github.com/Fgaoxing/Fgaoxing) ★11
+  - 嘛~没名气的人要好好的介绍自己才行啊
+  - Created: 2023-08-04  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-mit-blue)
+
 - [Vercel-Captcha](https://github.com/Lafcadia/Vercel-Captcha) ★11
   - No description
   - Created: 2024-03-23  Updated: 2024-04-14  ![License](https://img.shields.io/badge/license-mit-blue)
-
-- [Fgaoxing](https://github.com/Fgaoxing/Fgaoxing) ★10
-  - 嘛~没名气的人要好好的介绍自己才行啊
-  - Created: 2023-08-04  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-mit-blue)
 
 - [mydns](https://github.com/OblivionOcean/mydns) ★10
   - 一个 Python 写的 DNS，在本地运行，比云 DNS 快 10 倍
@@ -507,7 +507,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★16614
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★16615
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
@@ -515,7 +515,7 @@ Total Starred Repositories: 370
   - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
   - Created: 2017-02-03  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-other-blue) `gutenberg` `wordpress` `wordpress-plugin`
 
-- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★10613
+- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★10614
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2025-03-02  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
@@ -689,7 +689,7 @@ Total Starred Repositories: 370
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★222070
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★222074
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -827,11 +827,11 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★134527
+- [ollama](https://github.com/ollama/ollama) ★134529
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
   - Created: 2023-06-26  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★126696
+- [go](https://github.com/golang/go) ★126697
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -851,7 +851,7 @@ Total Starred Repositories: 370
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★6229
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★6230
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -935,6 +935,10 @@ Total Starred Repositories: 370
   - A small, fast, high-performance web framework based on "gnet".⚡️ 一个基于「gnet」的小巧，快速，高性能的Web框架。
   - Created: 2023-08-22  Updated: 2025-01-15  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `fastresponse` `gin` `gnet`
 
+- [Ech0](https://github.com/lin-snow/Ech0) ★14
+  - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+  - Created: 2025-03-21  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-mit-blue)
+
 - [opao](https://github.com/OblivionOcean/opao) ★9
   - 一个小巧，简单的ORM🌟A small, simple ORM
   - Created: 2024-01-21  Updated: 2025-03-10  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
@@ -957,7 +961,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353783
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★353785
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-03-22  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1079,11 +1083,11 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★169123
+- [vscode](https://github.com/microsoft/vscode) ★169122
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★85329
+- [dify](https://github.com/langgenius/dify) ★85340
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1103,7 +1107,7 @@ Total Starred Repositories: 370
   - The CDN for everything on npm
   - Created: 2016-02-22  Updated: 2025-03-22  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★1263
+- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★1264
   - TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具
   - Created: 2025-01-13  Updated: 2025-03-19  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `weixin`
 
@@ -1111,7 +1115,7 @@ Total Starred Repositories: 370
   - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
   - Created: 2022-03-08  Updated: 2025-03-23  ![License](https://img.shields.io/badge/license-mit-blue) `blog` `site` `static`
 
-- [flock](https://github.com/Onelevenvy/flock) ★665
+- [flock](https://github.com/Onelevenvy/flock) ★666
   - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain、FastAPI 和 NextJS 构建。）
   - Created: 2024-09-04  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `agent` `ai` `chatbot`
 
@@ -1235,7 +1239,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★190188
+- [linux](https://github.com/torvalds/linux) ★190189
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1285,11 +1289,11 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★116538
+- [PowerToys](https://github.com/microsoft/PowerToys) ★116539
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-03-24  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
-- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★16516
+- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★16515
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
@@ -1533,7 +1537,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★113075
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★113076
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1555,7 +1559,7 @@ Total Starred Repositories: 370
   - A Template Based Report Rendering Platform.
   - Created: 2024-06-22  Updated: 2024-06-22  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `java` `springboot` `template`
 
-- [Goh](https://github.com/OblivionOcean/Goh) ★121
+- [Goh](https://github.com/OblivionOcean/Goh) ★122
   - Goh is a pre-compiled and fast template engine for the Go language. The fastest known go template package ⭐️ Goh 是一款Go语言的预编译快速模板引擎。（已知最快的go模板包）
   - Created: 2025-02-01  Updated: 2025-02-25  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `go` `go-template` `golang`
 
@@ -1593,7 +1597,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69759
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★69758
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-03-20  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1683,7 +1687,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★127193
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★127198
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
