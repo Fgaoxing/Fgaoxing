@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-04-04 06:33*
+*Last Updated: 2025-04-04 07:23*
 
 
 ## 🌟 Statistics
@@ -53,7 +53,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★95019
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★95022
   - No description
   - Created: 2024-12-26  Updated: 2025-03-16  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -81,7 +81,7 @@ Total Starred Repositories: 367
   - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
   - Created: 2018-02-15  Updated: 2025-02-14  `chatgpt` `cnki` `it`
 
-- [stock](https://github.com/myhhub/stock) ★8081
+- [stock](https://github.com/myhhub/stock) ★8082
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2025-03-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
@@ -303,7 +303,7 @@ Total Starred Repositories: 367
 
 ### 🍴 Forked repositories
 
-- [supermium](https://github.com/win32ss/supermium) ★3006
+- [supermium](https://github.com/win32ss/supermium) ★3007
   - Chromium fork for Windows XP/2003 and up
   - Created: 2023-05-09  Updated: 2025-04-01  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -505,7 +505,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★16764
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★16763
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-03-09  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
@@ -687,7 +687,7 @@ Total Starred Repositories: 367
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★223289
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★223290
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -825,11 +825,11 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★135910
+- [ollama](https://github.com/ollama/ollama) ★135914
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
   - Created: 2023-06-26  Updated: 2025-04-04  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★126955
+- [go](https://github.com/golang/go) ★126957
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-04-03  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -881,7 +881,7 @@ Total Starred Repositories: 367
   - Golang package for send email. Support keep alive connection, TLS and SSL. Easy for bulk SMTP.
   - Created: 2019-09-15  Updated: 2024-07-20  ![License](https://img.shields.io/badge/license-mit-blue) `bulk-email` `bulk-email-sender` `email`
 
-- [goverter](https://github.com/jmattheis/goverter) ★644
+- [goverter](https://github.com/jmattheis/goverter) ★645
   - Generate type-safe Go converters by defining function signatures.
   - Created: 2021-03-09  Updated: 2025-04-03  ![License](https://img.shields.io/badge/license-mit-blue) `code-generation` `converter` `copy`
 
@@ -959,7 +959,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★354422
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★354421
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-03-30  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -979,7 +979,7 @@ Total Starred Repositories: 367
   - A fast, powerful and beautiful online manager for all static blog frameworks. 
   - Created: 2021-11-08  Updated: 2025-02-13  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `blog` `hexo` `vercel`
 
-- [exp-hub](https://github.com/ybdt/exp-hub) ★1113
+- [exp-hub](https://github.com/ybdt/exp-hub) ★1114
   - 漏洞复现
   - Created: 2020-09-03  Updated: 2025-03-18  
 
@@ -1085,7 +1085,7 @@ Total Starred Repositories: 367
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-04-04  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★89199
+- [dify](https://github.com/langgenius/dify) ★89203
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-04-03  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1095,7 +1095,7 @@ Total Starred Repositories: 367
 
 - [dokploy](https://github.com/Dokploy/dokploy) ★18771
   - Open Source Alternative to Vercel, Netlify and Heroku.
-  - Created: 2024-04-19  Updated: 2025-04-03  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
+  - Created: 2024-04-19  Updated: 2025-04-04  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
 - [docmost](https://github.com/docmost/docmost) ★13103
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -1117,7 +1117,7 @@ Total Starred Repositories: 367
   - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain、FastAPI 和 NextJS 构建。）
   - Created: 2024-09-04  Updated: 2025-04-03  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `agent` `ai` `chatbot`
 
-- [Astral3DEditor](https://github.com/mlt131220/Astral3DEditor) ★671
+- [Astral3DEditor](https://github.com/mlt131220/Astral3DEditor) ★672
   - 基于Vue3 + THREE.JS 免费开源的三维可视化孪生场景编辑器，包含BIM轻量化、CAD解析预览、粒子系统、插件系统等特色功能。               Based on vue3 + three.js free open source 3D visual twin scene editor, including BIM lightweight, CAD analysis preview, particle system, plug-in system and other features.
   - Created: 2021-09-29  Updated: 2025-03-29  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `3d` `bim` `cad`
 
@@ -1237,7 +1237,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★190908
+- [linux](https://github.com/torvalds/linux) ★190907
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-04-04  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1287,7 +1287,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★116912
+- [PowerToys](https://github.com/microsoft/PowerToys) ★116913
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-04-04  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1499,7 +1499,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [front-end-rss](https://github.com/ChanceYu/front-end-rss) ★2665
+- [front-end-rss](https://github.com/ChanceYu/front-end-rss) ★2664
   - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
   - Created: 2018-09-22  Updated: 2025-04-04  `article` `blog` `collection`
 
@@ -1619,7 +1619,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★18546
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★18548
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-03-17  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1667,7 +1667,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★129367
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★129371
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1687,7 +1687,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★31771
+- [llvm-project](https://github.com/llvm/llvm-project) ★31772
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-04-04  ![License](https://img.shields.io/badge/license-other-blue)
 
