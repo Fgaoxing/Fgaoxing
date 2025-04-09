@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-04-09 20:26*
+*Last Updated: 2025-04-09 21:20*
 
 
 ## 🌟 Statistics
@@ -53,11 +53,11 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★95333
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★95334
   - No description
   - Created: 2024-12-26  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★26025
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★26026
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-03-23  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -65,11 +65,11 @@ Total Starred Repositories: 367
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-04-01  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [sglang](https://github.com/sgl-project/sglang) ★13018
+- [sglang](https://github.com/sgl-project/sglang) ★13019
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `cuda` `deepseek` `deepseek-llm`
 
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★11351
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) ★11352
   - Automate the process of making money online.
   - Created: 2024-02-12  Updated: 2025-03-20  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `automation` `cli` `json`
 
@@ -145,7 +145,7 @@ Total Starred Repositories: 367
   - 【sese-engine】新时代的搜索引擎！
   - Created: 2022-01-09  Updated: 2024-10-03  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [ARL](https://github.com/adysec/ARL) ★613
+- [ARL](https://github.com/adysec/ARL) ★614
   - ARL 资产侦察灯塔系统（可运行，添加指纹，提高并发，升级工具及系统，无限制修改版） | ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
   - Created: 2024-05-13  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `arl` `cyber-security` `flask`
 
@@ -185,7 +185,7 @@ Total Starred Repositories: 367
   - 小红书数据采集、小红书Token、小红书Cookie、xsec_token生成、小红书App shield算法、小红书web算法、小红书爬虫、小红书采集、小红书数据、小红书账号、小红书逆向、小红书搜索、小红书笔记、小红书主页、小红书点赞、小红书评论、小红书作品、xsec_token、x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac
   - Created: 2024-11-15  Updated: 2025-04-08  
 
-- [h1_asset](https://github.com/adysec/h1_asset) ★239
+- [h1_asset](https://github.com/adysec/h1_asset) ★240
   - HackerOne资产更新 | 每日更新HackerOne资产，对HackerOne的资产进行爬行和整理，SRC资产更新仅会增加，不会进行删除，每天更新的可以进行差异化对比来获取到新的项目资产范围
   - Created: 2024-06-06  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `daily` `daily-tasks` `hackerone`
 
@@ -825,7 +825,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★136649
+- [ollama](https://github.com/ollama/ollama) ★136651
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
   - Created: 2023-06-26  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -849,7 +849,7 @@ Total Starred Repositories: 367
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★6374
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★6375
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -959,7 +959,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★354671
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★354676
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-04-06  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1081,11 +1081,11 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★169767
+- [vscode](https://github.com/microsoft/vscode) ★169771
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★90295
+- [dify](https://github.com/langgenius/dify) ★90296
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1097,7 +1097,7 @@ Total Starred Repositories: 367
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★13218
+- [docmost](https://github.com/docmost/docmost) ★13220
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1237,7 +1237,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★191273
+- [linux](https://github.com/torvalds/linux) ★191278
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1287,7 +1287,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★117161
+- [PowerToys](https://github.com/microsoft/PowerToys) ★117162
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1667,7 +1667,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★130129
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★130133
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
