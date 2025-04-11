@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-04-11 21:22*
+*Last Updated: 2025-04-11 22:23*
 
 
 ## 🌟 Statistics
@@ -125,7 +125,7 @@ Total Starred Repositories: 367
   - 这个仓库有1426个star，不信你试试
   - Created: 2022-06-14  Updated: 2022-09-13  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [nuclei_poc](https://github.com/adysec/nuclei_poc) ★1148
+- [nuclei_poc](https://github.com/adysec/nuclei_poc) ★1147
   - Nuclei POC，每日更新 | 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现（已有19w+POC，已校验有效性并去重）
   - Created: 2024-05-07  Updated: 2025-04-11  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `daily` `exploit` `exploits`
 
@@ -687,11 +687,11 @@ Total Starred Repositories: 367
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★223995
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★224003
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [gfwlist](https://github.com/gfwlist/gfwlist) ★23977
+- [gfwlist](https://github.com/gfwlist/gfwlist) ★23978
   - The one and only one gfwlist here
   - Created: 2015-03-13  Updated: 2025-04-04  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `anticensorship` `censorship` `censorship-circumvention`
 
@@ -703,7 +703,7 @@ Total Starred Repositories: 367
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2025-03-28  
 
-- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4180
+- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4181
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2025-04-11  
 
@@ -825,7 +825,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★136936
+- [ollama](https://github.com/ollama/ollama) ★136941
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
   - Created: 2023-06-26  Updated: 2025-04-11  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -959,7 +959,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★354752
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★354753
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-04-06  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1085,7 +1085,7 @@ Total Starred Repositories: 367
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-04-11  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★91106
+- [dify](https://github.com/langgenius/dify) ★91111
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-04-11  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1097,7 +1097,7 @@ Total Starred Repositories: 367
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [docmost](https://github.com/docmost/docmost) ★13262
+- [docmost](https://github.com/docmost/docmost) ★13263
   - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
   - Created: 2023-08-03  Updated: 2025-04-11  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `confluence` `documentation` `knowledge-base`
 
@@ -1237,7 +1237,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★191431
+- [linux](https://github.com/torvalds/linux) ★191435
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-04-11  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1411,7 +1411,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★30677
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★30678
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2025-03-03  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1667,7 +1667,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★130471
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★130475
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-03-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1687,7 +1687,7 @@ Total Starred Repositories: 367
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★31880
+- [llvm-project](https://github.com/llvm/llvm-project) ★31881
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-04-11  ![License](https://img.shields.io/badge/license-other-blue)
 
