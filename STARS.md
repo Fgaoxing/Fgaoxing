@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-04-28 22:24*
+*Last Updated: 2025-04-28 23:23*
 
 
 ## 🌟 Statistics
@@ -77,7 +77,7 @@ Total Starred Repositories: 355
   - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
   - Created: 2018-02-15  Updated: 2025-02-14  `chatgpt` `cnki` `it`
 
-- [stock](https://github.com/myhhub/stock) ★8349
+- [stock](https://github.com/myhhub/stock) ★8350
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2025-04-08  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
@@ -663,7 +663,7 @@ Total Starred Repositories: 355
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★225665
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★225672
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -797,7 +797,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★138873
+- [ollama](https://github.com/ollama/ollama) ★138877
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
@@ -923,7 +923,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★355782
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★355786
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -1045,7 +1045,7 @@ Total Starred Repositories: 355
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★94834
+- [dify](https://github.com/langgenius/dify) ★94838
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `anthropic`
 
@@ -1065,7 +1065,7 @@ Total Starred Repositories: 355
   - TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具
   - Created: 2025-01-13  Updated: 2025-04-24  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `weixin`
 
-- [Astral3DEditor](https://github.com/mlt131220/Astral3DEditor) ★1076
+- [Astral3DEditor](https://github.com/mlt131220/Astral3DEditor) ★1077
   - 基于Vue3 + THREE.JS 免费开源的三维可视化孪生场景编辑器，包含BIM轻量化、CAD解析预览、粒子系统、插件系统等特色功能。               Based on vue3 + three.js free open source 3D visual twin scene editor, including BIM lightweight, CAD analysis preview, particle system, plug-in system and other features.
   - Created: 2021-09-29  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `3d` `bim` `cad`
 
@@ -1193,7 +1193,7 @@ Total Starred Repositories: 355
   - CommonMark parsing and rendering library and program in C
   - Created: 2015-01-25  Updated: 2024-12-17  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [libcsp](https://github.com/shiyanhui/libcsp) ★1330
+- [libcsp](https://github.com/shiyanhui/libcsp) ★1331
   - A concurrency C library 10x faster than Golang.
   - Created: 2020-04-06  Updated: 2023-06-30  ![License](https://img.shields.io/badge/license-mit-blue) `c` `concurrency` `csp`
 
@@ -1235,7 +1235,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★117833
+- [PowerToys](https://github.com/microsoft/PowerToys) ★117834
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1243,7 +1243,7 @@ Total Starred Repositories: 355
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7819
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★7820
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-04-26  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
@@ -1533,7 +1533,7 @@ Total Starred Repositories: 355
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
-- [Awesome-POC](https://github.com/Threekiii/Awesome-POC) ★4126
+- [Awesome-POC](https://github.com/Threekiii/Awesome-POC) ★4127
   - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
   - Created: 2022-02-20  Updated: 2025-04-22  `poc`
 
@@ -1571,7 +1571,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★19523
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★19527
   - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-04-19  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1619,7 +1619,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★132683
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★132686
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-04-21  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
