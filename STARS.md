@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-05-18 10:24*
+*Last Updated: 2025-05-18 11:19*
 
 
 ## 🌟 Statistics
@@ -56,7 +56,7 @@ Total Starred Repositories: 355
   - No description
   - Created: 2024-12-26  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★33458
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★33466
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-05-16  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -80,7 +80,7 @@ Total Starred Repositories: 355
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2025-04-08  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
-- [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ★6650
+- [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ★6649
   - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
   - Created: 2021-07-29  Updated: 2025-05-17  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `custom` `fluent` `fluent-design`
 
@@ -96,7 +96,7 @@ Total Starred Repositories: 355
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-05-18  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [D-FINE](https://github.com/Peterande/D-FINE) ★2274
+- [D-FINE](https://github.com/Peterande/D-FINE) ★2275
   - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]
   - Created: 2024-08-12  Updated: 2025-04-11  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `d-fine` `detr` `object-detection`
 
@@ -132,7 +132,7 @@ Total Starred Repositories: 355
   - 🔨 Geetest Crack | 从 JavaScript 层面一步步破解极验「鼠标点击+滑块滑动」​各种加密参数
   - Created: 2020-01-15  Updated: 2024-05-21  ![License](https://img.shields.io/badge/license-mit-blue) `geetest` `javascript` `python3`
 
-- [ARL](https://github.com/adysec/ARL) ★639
+- [ARL](https://github.com/adysec/ARL) ★640
   - ARL 资产侦察灯塔系统（可运行，添加指纹，提高并发，升级工具及系统，无限制修改版） | ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
   - Created: 2024-05-13  Updated: 2025-05-17  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `arl` `cyber-security` `flask`
 
@@ -796,15 +796,15 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★140849
+- [ollama](https://github.com/ollama/ollama) ★140851
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-05-16  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★127830
+- [go](https://github.com/golang/go) ★127831
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-05-17  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★21749
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★21751
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-05-11  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -816,7 +816,7 @@ Total Starred Repositories: 355
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-05-18  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9460
+- [pq](https://github.com/lib/pq) ★9461
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1036,11 +1036,11 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★171227
+- [vscode](https://github.com/microsoft/vscode) ★171228
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-05-18  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★97580
+- [dify](https://github.com/langgenius/dify) ★97582
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-05-18  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `automation`
 
@@ -1048,7 +1048,7 @@ Total Starred Repositories: 355
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-05-12  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★20097
+- [dokploy](https://github.com/Dokploy/dokploy) ★20098
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-05-18  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1180,7 +1180,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★193710
+- [linux](https://github.com/torvalds/linux) ★193715
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-05-17  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1188,7 +1188,7 @@ Total Starred Repositories: 355
   - CommonMark parsing and rendering library and program in C
   - Created: 2015-01-25  Updated: 2024-12-17  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [libcsp](https://github.com/shiyanhui/libcsp) ★1333
+- [libcsp](https://github.com/shiyanhui/libcsp) ★1334
   - A concurrency C library 10x faster than Golang.
   - Created: 2020-04-06  Updated: 2023-06-30  ![License](https://img.shields.io/badge/license-mit-blue) `c` `concurrency` `csp`
 
@@ -1230,7 +1230,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★118751
+- [PowerToys](https://github.com/microsoft/PowerToys) ★118752
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-05-17  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1242,7 +1242,7 @@ Total Starred Repositories: 355
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-05-07  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
-- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6397
+- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6398
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-05-18  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
@@ -1532,7 +1532,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★84861
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★84870
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-05-13  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1574,7 +1574,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★20164
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★20167
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-05-16  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1622,7 +1622,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★135160
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★135164
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-05-18  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1632,7 +1632,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★32436
+- [llvm-project](https://github.com/llvm/llvm-project) ★32438
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-05-18  ![License](https://img.shields.io/badge/license-other-blue)
 
