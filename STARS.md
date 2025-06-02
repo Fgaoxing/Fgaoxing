@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-06-02 05:27*
+*Last Updated: 2025-06-02 06:38*
 
 
 ## 🌟 Statistics
@@ -52,15 +52,15 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★358498
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★358499
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-06-01  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★97334
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★97337
   - No description
   - Created: 2024-12-26  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★35188
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★35193
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-05-16  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -492,7 +492,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★17605
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★17606
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-06-01  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
@@ -516,7 +516,7 @@ Total Starred Repositories: 355
   - 内置文档系统的简约商务风Hexo主题，支持大量的标签组件和动态数据组件。
   - Created: 2021-02-19  Updated: 2025-06-01  ![License](https://img.shields.io/badge/license-mit-blue) `beaudar` `hexo` `hexo-site`
 
-- [Astral3DEditor](https://github.com/mlt131220/Astral3DEditor) ★1425
+- [Astral3DEditor](https://github.com/mlt131220/Astral3DEditor) ★1426
   - 基于Vue3 + THREE.JS 免费开源的三维可视化孪生场景编辑器，包含BIM轻量化、CAD解析预览、粒子系统、插件系统等特色功能。               Based on vue3 + three.js free open source 3D visual twin scene editor, including BIM lightweight, CAD analysis preview, particle system, plug-in system and other features.
   - Created: 2021-09-29  Updated: 2025-05-20  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `3d` `bim` `cad`
 
@@ -670,7 +670,7 @@ Total Starred Repositories: 355
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★229199
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★229200
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -686,7 +686,7 @@ Total Starred Repositories: 355
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2025-05-16  
 
-- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4265
+- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4266
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2025-06-02  
 
@@ -804,19 +804,19 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★142471
+- [ollama](https://github.com/ollama/ollama) ★142472
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-05-31  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★128129
+- [go](https://github.com/golang/go) ★128130
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-05-30  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★21855
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★21854
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-05-11  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★16664
+- [SafeLine](https://github.com/chaitin/SafeLine) ★16665
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-05-27  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -828,7 +828,7 @@ Total Starred Repositories: 355
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★6757
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★6761
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-05-31  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -1032,19 +1032,19 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★172975
+- [vscode](https://github.com/microsoft/vscode) ★172981
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-06-02  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★100312
+- [dify](https://github.com/langgenius/dify) ★100317
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-06-01  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `automation`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★24741
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★24742
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-05-12  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★20586
+- [dokploy](https://github.com/Dokploy/dokploy) ★20588
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-06-02  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1168,7 +1168,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★194769
+- [linux](https://github.com/torvalds/linux) ★194770
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-06-01  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1256,11 +1256,11 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★119616
+- [PowerToys](https://github.com/microsoft/PowerToys) ★119617
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-05-30  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
-- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★17748
+- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★17749
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-02-08  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
@@ -1532,11 +1532,11 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★85934
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★85941
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-05-19  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
-- [Awesome-POC](https://github.com/Threekiii/Awesome-POC) ★4243
+- [Awesome-POC](https://github.com/Threekiii/Awesome-POC) ★4244
   - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
   - Created: 2022-02-20  Updated: 2025-05-26  `poc`
 
@@ -1622,7 +1622,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★136888
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★136890
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-06-01  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1632,7 +1632,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★32723
+- [llvm-project](https://github.com/llvm/llvm-project) ★32726
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-06-02  ![License](https://img.shields.io/badge/license-other-blue)
 
