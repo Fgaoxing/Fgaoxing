@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-06-06 19:20*
+*Last Updated: 2025-06-06 20:28*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★358904
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★358905
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-06-01  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -60,7 +60,7 @@ Total Starred Repositories: 355
   - No description
   - Created: 2024-12-26  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★35773
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★35775
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-05-16  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -290,7 +290,7 @@ Total Starred Repositories: 355
 
 ### 🍴 Forked repositories
 
-- [supermium](https://github.com/win32ss/supermium) ★3232
+- [supermium](https://github.com/win32ss/supermium) ★3231
   - Chromium fork for Windows XP/2003 and up
   - Created: 2023-05-09  Updated: 2025-06-03  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -670,7 +670,7 @@ Total Starred Repositories: 355
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★230437
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★230443
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -804,11 +804,11 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★142937
+- [ollama](https://github.com/ollama/ollama) ★142940
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★128218
+- [go](https://github.com/golang/go) ★128220
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1032,11 +1032,11 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★173197
+- [vscode](https://github.com/microsoft/vscode) ★173199
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★101209
+- [dify](https://github.com/langgenius/dify) ★101226
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `automation`
 
@@ -1044,7 +1044,7 @@ Total Starred Repositories: 355
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-06-05  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★20700
+- [dokploy](https://github.com/Dokploy/dokploy) ★20701
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-06-03  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1068,7 +1068,7 @@ Total Starred Repositories: 355
   - A highly imitated WeChat app developed based on HarmonyOS NEXT |  基于鸿蒙OS NEXT开发的高仿微信APP
   - Created: 2024-03-09  Updated: 2025-05-10  `harmony` `harmony-wechat` `wechat`
 
-- [arkTS](https://github.com/Groupguanfang/arkTS) ★409
+- [arkTS](https://github.com/Groupguanfang/arkTS) ★410
   - VSCode鸿蒙ArkTS插件✨✍️支持各种补全/跳转⛺️支持codelinter检测代码错误🎵VSCode HarmonyOS ArkTS plugin for personal use ✨ ✍️supports source code navigation and completion ⛺️supports codelinter to detect errors
   - Created: 2025-02-02  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-mit-blue) `arkts` `development-tools` `harmony`
 
@@ -1168,9 +1168,9 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★195163
+- [linux](https://github.com/torvalds/linux) ★195165
   - Linux kernel source tree
-  - Created: 2011-09-04  Updated: 2025-06-05  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2011-09-04  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [cmark](https://github.com/commonmark/cmark) ★1769
   - CommonMark parsing and rendering library and program in C
@@ -1230,7 +1230,7 @@ Total Starred Repositories: 355
   - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
   - Created: 2016-08-18  Updated: 2025-04-19  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `gallery` `image-host` `image-hosting`
 
-- [CloudPeler](https://github.com/zidansec/CloudPeler) ★1463
+- [CloudPeler](https://github.com/zidansec/CloudPeler) ★1464
   - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
   - Created: 2022-05-12  Updated: 2023-09-01  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-mit-blue) `bypass-cloudflare` `bypass-hostname` `bypass-waf`
 
@@ -1256,7 +1256,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★119736
+- [PowerToys](https://github.com/microsoft/PowerToys) ★119737
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1358,7 +1358,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方主题分类
 
-- [emoji-mart](https://github.com/missive/emoji-mart) ★9030
+- [emoji-mart](https://github.com/missive/emoji-mart) ★9029
   - 🏪 One component to pick them all
   - Created: 2016-07-11  Updated: 2024-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `component` `emoji` `emoji-picker`
 
@@ -1532,7 +1532,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★88220
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★88222
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1632,7 +1632,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★32829
+- [llvm-project](https://github.com/llvm/llvm-project) ★32830
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-other-blue)
 
