@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-06-06 18:35*
+*Last Updated: 2025-06-06 19:20*
 
 
 ## 🌟 Statistics
@@ -52,11 +52,11 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★358901
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★358904
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-06-01  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★97464
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★97466
   - No description
   - Created: 2024-12-26  Updated: 2025-04-09  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -64,7 +64,7 @@ Total Starred Repositories: 355
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-05-16  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★19980
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★19981
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-03  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
@@ -116,7 +116,7 @@ Total Starred Repositories: 355
   - weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883
   - Created: 2020-01-15  Updated: 2023-11-24  `cve-2016-0638` `cve-2016-3510` `cve-2017-10271`
 
-- [LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) ★1611
+- [LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) ★1610
   - 针对 LiteLoaderQQNT 的安装脚本
   - Created: 2024-01-21  Updated: 2025-04-15  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -500,7 +500,7 @@ Total Starred Repositories: 355
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2025-04-12  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
-- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6752
+- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6751
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
   - Created: 2023-05-27  Updated: 2025-05-13  ![License](https://img.shields.io/badge/license-mit-blue) `furry` `liteloaderqqnt` `qqnt`
 
@@ -508,7 +508,7 @@ Total Starred Repositories: 355
   - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
   - Created: 2020-01-08  Updated: 2025-02-27  `cjk` `font` `free`
 
-- [SysMocap](https://github.com/xianfei/SysMocap) ★2670
+- [SysMocap](https://github.com/xianfei/SysMocap) ★2671
   - A real-time motion capture system for 3D virtual character animating.
   - Created: 2022-03-09  Updated: 2025-04-21  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `augmented-reality` `augmented-reality-applications` `mocap`
 
@@ -544,7 +544,7 @@ Total Starred Repositories: 355
   - 🎉TypeScript Execute (tsx): Dynamically compile TSX/TS file and execute it. The easiest way to run .tsx in Nodejs.
   - Created: 2025-01-22  Updated: 2025-03-07  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [QShop](https://github.com/qiushuangju/QShop) ★224
+- [QShop](https://github.com/qiushuangju/QShop) ★225
   - QShop商城，是全新推出的一款轻量级、高性能、前后端分离的电商系统，支持微信小程序，前后端源码100%开源，完美支持二次开发，让您快速搭建个性化独立商城。 技术架构：.Net6、WebAPI、Swagger、NUnit、VUE、Element-UI、Ant Design Vue，专注轻量可持续稳定的高可用系统，可学习可商用。
   - Created: 2024-05-14  Updated: 2024-06-23  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue)
 
@@ -670,7 +670,7 @@ Total Starred Repositories: 355
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★230426
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★230437
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -686,7 +686,7 @@ Total Starred Repositories: 355
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2025-05-16  
 
-- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4269
+- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4270
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2025-06-06  
 
@@ -808,7 +808,7 @@ Total Starred Repositories: 355
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★128222
+- [go](https://github.com/golang/go) ★128218
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1032,11 +1032,11 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★173196
+- [vscode](https://github.com/microsoft/vscode) ★173197
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★101185
+- [dify](https://github.com/langgenius/dify) ★101209
   - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
   - Created: 2023-04-12  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-other-blue) `agent` `ai` `automation`
 
@@ -1134,7 +1134,7 @@ Total Starred Repositories: 355
   - 手写一个MyBatis框架
   - Created: 2024-12-19  Updated: 2025-03-23  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [aibotgo](https://github.com/shengdingbox/aibotgo) ★178
+- [aibotgo](https://github.com/shengdingbox/aibotgo) ★179
   - 🚀 AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
   - Created: 2024-09-09  Updated: 2024-10-10  
 
@@ -1168,7 +1168,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★195156
+- [linux](https://github.com/torvalds/linux) ★195163
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-06-05  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1268,7 +1268,7 @@ Total Starred Repositories: 355
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-06-05  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
-- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6488
+- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6489
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-06-02  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
@@ -1532,7 +1532,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★88217
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★88220
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1574,7 +1574,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★21097
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★21098
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-05-26  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1612,7 +1612,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Dress](https://github.com/Cute-Dress/Dress) ★1489
+- [Dress](https://github.com/Cute-Dress/Dress) ★1490
   - 好耶 是女装 | 备份·接受PR
   - Created: 2023-01-28  Updated: 2025-06-03  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1622,7 +1622,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★137451
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★137455
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-06-03  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1632,7 +1632,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★32825
+- [llvm-project](https://github.com/llvm/llvm-project) ★32829
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-06-06  ![License](https://img.shields.io/badge/license-other-blue)
 
