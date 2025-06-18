@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-06-18 20:29*
+*Last Updated: 2025-06-18 21:24*
 
 
 ## 🌟 Statistics
@@ -53,11 +53,11 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★359606
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★359608
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-06-01  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★97676
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★97673
   - No description
   - Created: 2024-12-26  Updated: 2025-06-16  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -663,7 +663,7 @@ Total Starred Repositories: 355
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★232124
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★232133
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -805,7 +805,7 @@ Total Starred Repositories: 355
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-06-18  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
-- [go](https://github.com/golang/go) ★128441
+- [go](https://github.com/golang/go) ★128442
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-06-18  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1029,11 +1029,11 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★173644
+- [vscode](https://github.com/microsoft/vscode) ★173645
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-06-18  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★103757
+- [dify](https://github.com/langgenius/dify) ★103758
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-06-18  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1165,7 +1165,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★195939
+- [linux](https://github.com/torvalds/linux) ★195941
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-06-18  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1257,7 +1257,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★120042
+- [PowerToys](https://github.com/microsoft/PowerToys) ★120043
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-06-18  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1355,7 +1355,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方主题分类
 
-- [emoji-mart](https://github.com/missive/emoji-mart) ★9054
+- [emoji-mart](https://github.com/missive/emoji-mart) ★9053
   - 🏪 One component to pick them all
   - Created: 2016-07-11  Updated: 2024-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `component` `emoji` `emoji-picker`
 
@@ -1571,7 +1571,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★21482
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★21483
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-06-17  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1619,7 +1619,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★138798
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★138799
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-06-18  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1629,7 +1629,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★33053
+- [llvm-project](https://github.com/llvm/llvm-project) ★33054
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-06-18  ![License](https://img.shields.io/badge/license-other-blue)
 
