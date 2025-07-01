@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-07-01 11:16*
+*Last Updated: 2025-07-01 11:23*
 
 
 ## 🌟 Statistics
@@ -56,7 +56,7 @@ Total Starred Repositories: 356
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-06-28  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★97929
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★97930
   - No description
   - Created: 2024-12-26  Updated: 2025-06-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -812,7 +812,7 @@ Total Starred Repositories: 356
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-06-30  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★22014
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★22015
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-06-28  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -1032,11 +1032,11 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★174048
+- [vscode](https://github.com/microsoft/vscode) ★174049
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★105292
+- [dify](https://github.com/langgenius/dify) ★105293
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
