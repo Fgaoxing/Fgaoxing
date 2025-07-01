@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-07-01 15:28*
+*Last Updated: 2025-07-01 16:33*
 
 
 ## 🌟 Statistics
@@ -52,15 +52,15 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★361727
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★361734
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-06-28  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★97930
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★97931
   - No description
   - Created: 2024-12-26  Updated: 2025-06-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★37441
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★37442
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -204,7 +204,7 @@ Total Starred Repositories: 357
   - 智音语音助手（Zhiyin_Butler）旨在开发一款通用型智能电脑管家，支持在桌面电脑Windows 10/11系统上安装和部署。项目的所有内容遵循Apache License 2.0开源协议，作为通用型电脑管家系统示例供开发者参考学习。
   - Created: 2024-05-30  Updated: 2024-11-11  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [GEM-example](https://github.com/TechnologyAiGroup/GEM-example) ★117
+- [GEM-example](https://github.com/TechnologyAiGroup/GEM-example) ★118
   - No description
   - Created: 2024-10-10  Updated: 2024-10-11  
 
@@ -224,7 +224,7 @@ Total Starred Repositories: 357
   - This project is a online video cms backend with a mature scrapy framework and async user-side push notification cron workers. Python-based web application with a framework of FastAPI for the backend. It includes health checks for Redis and MySQL, middleware for processing time, and session management. The application is containerized using Docker.
   - Created: 2024-08-19  Updated: 2025-05-08  `fastapi` `web-crawler-python`
 
-- [Document-Parser-Agent](https://github.com/Micheliliuv87/Document-Parser-Agent) ★73
+- [Document-Parser-Agent](https://github.com/Micheliliuv87/Document-Parser-Agent) ★74
   - Document Parser AI-Agent Using OpenAI ChatGPT 4-o Model
   - Created: 2025-01-25  Updated: 2025-04-14  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -232,7 +232,7 @@ Total Starred Repositories: 357
   - 端侧多模态小模型
   - Created: 2024-12-03  Updated: 2024-12-30  
 
-- [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) ★67
+- [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) ★68
   - This is for getting data from public organizations/platforms
   - Created: 2025-01-23  Updated: 2025-05-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -512,7 +512,7 @@ Total Starred Repositories: 357
   - 综合型hexo主题：博客+知识库+专栏+笔记，内置海量的标签组件和动态数据组件。
   - Created: 2021-02-19  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-mit-blue) `beaudar` `hexo` `hexo-site`
 
-- [Astral3DEditor](https://github.com/mlt131220/Astral3DEditor) ★1570
+- [Astral3DEditor](https://github.com/mlt131220/Astral3DEditor) ★1571
   - 基于Vue3 + THREE.JS 免费开源的三维可视化孪生场景编辑器，包含BIM轻量化、CAD解析预览、粒子系统、插件系统等特色功能。               Based on vue3 + three.js free open source 3D visual twin scene editor, including BIM lightweight, CAD analysis preview, particle system, plug-in system and other features.
   - Created: 2021-09-29  Updated: 2025-05-20  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `3d` `bim` `cad`
 
@@ -608,6 +608,10 @@ Total Starred Repositories: 357
   - A HTML tag definition of <search> tag.
   - Created: 2022-07-17  Updated: 2024-07-18  
 
+- [MiniGFM](https://github.com/OblivionOcean/MiniGFM) ★5
+  - 极小的JavaScript Markdown渲染器，具有接近GFM的兼容性。| Minimal JavaScript Markdown renderer with near-GFM compatibility.
+  - Created: 2025-07-01  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-mit-blue)
+
 - [heng](https://github.com/n0tssss/heng) ★5
   - 利用码云Issues作为数据库的记仇小本本，独一无二的简约设计，支持富文本
   - Created: 2022-11-01  Updated: 2022-11-01  
@@ -623,10 +627,6 @@ Total Starred Repositories: 357
 - [simplest-server](https://github.com/simplest-server/simplest-server) ★5
   - 一个快速开发的基于http模块的，路由式无服务器框架
   - Created: 2022-12-02  Updated: 2023-07-19  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue)
-
-- [MiniGFM](https://github.com/OblivionOcean/MiniGFM) ★4
-  - 极小的JavaScript Markdown渲染器，具有接近GFM的兼容性。| Minimal JavaScript Markdown renderer with near-GFM compatibility.
-  - Created: 2025-07-01  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-mit-blue)
 
 - [jsxMind](https://github.com/allensunjian/jsxMind) ★4
   - 基于jsmind 改写的jsxmind插件
@@ -670,7 +670,7 @@ Total Starred Repositories: 357
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★233548
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★233555
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -682,7 +682,7 @@ Total Starred Repositories: 357
   - :books: 极客时间电子书
   - Created: 2023-01-26  Updated: 2023-01-26  
 
-- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★11211
+- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★11212
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2025-06-10  
 
@@ -808,15 +808,15 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★145231
+- [ollama](https://github.com/ollama/ollama) ★145233
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma2`
 
 - [go](https://github.com/golang/go) ★128648
   - The Go programming language
-  - Created: 2014-08-19  Updated: 2025-06-30  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
+  - Created: 2014-08-19  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★22019
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★22020
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
   - Created: 2020-08-30  Updated: 2025-06-28  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -828,7 +828,7 @@ Total Starred Repositories: 357
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-06-20  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9524
+- [pq](https://github.com/lib/pq) ★9525
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -836,7 +836,7 @@ Total Starred Repositories: 357
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
-- [goldmark](https://github.com/yuin/goldmark) ★4152
+- [goldmark](https://github.com/yuin/goldmark) ★4154
   - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
   - Created: 2019-04-26  Updated: 2025-06-13  ![License](https://img.shields.io/badge/license-mit-blue) `commonmark` `go` `golang`
 
@@ -1036,11 +1036,11 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★174061
+- [vscode](https://github.com/microsoft/vscode) ★174062
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★105320
+- [dify](https://github.com/langgenius/dify) ★105325
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1176,7 +1176,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★196733
+- [linux](https://github.com/torvalds/linux) ★196735
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1272,7 +1272,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★120394
+- [PowerToys](https://github.com/microsoft/PowerToys) ★120393
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1366,7 +1366,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方主题分类
 
-- [emoji-mart](https://github.com/missive/emoji-mart) ★9065
+- [emoji-mart](https://github.com/missive/emoji-mart) ★9066
   - 🏪 One component to pick them all
   - Created: 2016-07-11  Updated: 2024-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `component` `emoji` `emoji-picker`
 
@@ -1480,7 +1480,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★114488
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★114487
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1540,9 +1540,9 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★90520
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★90523
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-  - Created: 2020-02-29  Updated: 2025-06-30  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
+  - Created: 2020-02-29  Updated: 2025-07-01  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
 - [Awesome-POC](https://github.com/Threekiii/Awesome-POC) ★4330
   - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
@@ -1582,7 +1582,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★21844
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★21847
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-06-17  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1630,7 +1630,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★140098
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★140102
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-06-26  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
