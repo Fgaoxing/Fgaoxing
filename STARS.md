@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-07-10 18:37*
+*Last Updated: 2025-07-10 19:21*
 
 
 ## 🌟 Statistics
@@ -52,11 +52,11 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★362579
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★362582
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-06-28  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98166
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98168
   - No description
   - Created: 2024-12-26  Updated: 2025-06-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -108,7 +108,7 @@ Total Starred Repositories: 357
   - Weblogic一键漏洞检测工具，V1.5，更新时间：20200730
   - Created: 2019-03-05  Updated: 2023-05-22  ![License](https://img.shields.io/badge/license-mit-blue) `weblogicscan`
 
-- [CS-Ebook](https://github.com/lining808/CS-Ebook) ★2219
+- [CS-Ebook](https://github.com/lining808/CS-Ebook) ★2220
   - 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
   - Created: 2023-03-25  Updated: 2025-06-21  `ai` `computer-science` `data-science`
 
@@ -116,7 +116,7 @@ Total Starred Repositories: 357
   - weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883
   - Created: 2020-01-15  Updated: 2023-11-24  `cve-2016-0638` `cve-2016-3510` `cve-2017-10271`
 
-- [LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) ★1608
+- [LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) ★1609
   - 针对 LiteLoaderQQNT 的安装脚本
   - Created: 2024-01-21  Updated: 2025-04-15  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -488,7 +488,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★18049
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★18050
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-07-04  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
@@ -496,7 +496,7 @@ Total Starred Repositories: 357
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2025-06-28  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
-- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6804
+- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6805
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
   - Created: 2023-05-27  Updated: 2025-05-13  ![License](https://img.shields.io/badge/license-mit-blue) `furry` `liteloaderqqnt` `qqnt`
 
@@ -670,7 +670,7 @@ Total Starred Repositories: 357
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★234739
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★234745
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -808,7 +808,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★146135
+- [ollama](https://github.com/ollama/ollama) ★146138
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-07-10  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -816,7 +816,7 @@ Total Starred Repositories: 357
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-07-10  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★22202
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★22203
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2025-07-09  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -958,7 +958,7 @@ Total Starred Repositories: 357
   - 助你快速开发网页！让世界上没有难做的网页！
   - Created: 2023-07-31  Updated: 2024-09-20  ![License](https://img.shields.io/badge/license-gpl-3.0-blue)
 
-- [Vercel-CDN](https://github.com/Fgaoxing/Vercel-CDN) ★48
+- [Vercel-CDN](https://github.com/Fgaoxing/Vercel-CDN) ★47
   - No description
   - Created: 2024-01-20  Updated: 2024-07-03  
 
@@ -1036,7 +1036,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★174401
+- [vscode](https://github.com/microsoft/vscode) ★174402
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-07-10  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -1048,7 +1048,7 @@ Total Starred Repositories: 357
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-06-24  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★21308
+- [dokploy](https://github.com/Dokploy/dokploy) ★21309
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-07-09  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1176,7 +1176,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★197379
+- [linux](https://github.com/torvalds/linux) ★197382
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-07-10  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1188,7 +1188,7 @@ Total Starred Repositories: 357
   - A concurrency C library 10x faster than Golang.
   - Created: 2020-04-06  Updated: 2023-06-30  ![License](https://img.shields.io/badge/license-mit-blue) `c` `concurrency` `csp`
 
-- [fastwsgi](https://github.com/jamesroberts/fastwsgi) ★487
+- [fastwsgi](https://github.com/jamesroberts/fastwsgi) ★488
   - An ultra fast WSGI server for Python 3
   - Created: 2021-08-02  Updated: 2025-02-06  ![License](https://img.shields.io/badge/license-other-blue) `c` `django` `flask`
 
@@ -1272,7 +1272,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★120773
+- [PowerToys](https://github.com/microsoft/PowerToys) ★120774
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-07-10  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1480,7 +1480,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★114594
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★114595
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1582,7 +1582,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★22091
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★22092
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-06-17  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1630,7 +1630,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★140980
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★140982
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-07-02  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
