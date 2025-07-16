@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-07-16 17:27*
+*Last Updated: 2025-07-16 18:39*
 
 
 ## 🌟 Statistics
@@ -52,15 +52,15 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★363029
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★363033
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-06-28  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98274
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98276
   - No description
   - Created: 2024-12-26  Updated: 2025-06-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★38077
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★38078
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -488,7 +488,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★18127
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★18128
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-07-13  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
@@ -670,7 +670,7 @@ Total Starred Repositories: 357
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★235491
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★235495
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -808,7 +808,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★146687
+- [ollama](https://github.com/ollama/ollama) ★146693
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-07-16  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -1036,11 +1036,11 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★174610
+- [vscode](https://github.com/microsoft/vscode) ★174613
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-07-16  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★107229
+- [dify](https://github.com/langgenius/dify) ★107232
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-07-16  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1048,7 +1048,7 @@ Total Starred Repositories: 357
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-07-11  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★21426
+- [dokploy](https://github.com/Dokploy/dokploy) ★21427
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-07-14  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1176,7 +1176,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★197740
+- [linux](https://github.com/torvalds/linux) ★197742
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-07-15  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1230,7 +1230,7 @@ Total Starred Repositories: 357
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12451
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12452
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1272,19 +1272,19 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★120910
+- [PowerToys](https://github.com/microsoft/PowerToys) ★120911
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-07-16  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
-- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★18021
+- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★18022
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-07-02  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★8321
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★8322
   - Driver Store Explorer [RAPR]
   - Created: 2016-06-15  Updated: 2025-07-09  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
-- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6675
+- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6676
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-07-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
@@ -1448,7 +1448,7 @@ Total Starred Repositories: 357
   - 使用rust开发的高性能python压测工具
   - Created: 2024-03-07  Updated: 2025-06-18  
 
-- [solana_meme](https://github.com/CodeCat-maker/solana_meme) ★215
+- [solana_meme](https://github.com/CodeCat-maker/solana_meme) ★216
   - Monitor the Solana blockchain for new pump.fun meme coins in real-time using Rust! This tool listens to on-chain events and alerts you whenever a new meme token appears
   - Created: 2024-10-11  Updated: 2025-07-01  `meme` `pump` `rust`
 
@@ -1582,7 +1582,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★22231
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★22234
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-06-17  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1610,7 +1610,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [ReerCodable](https://github.com/reers/ReerCodable) ★351
+- [ReerCodable](https://github.com/reers/ReerCodable) ★352
   - Codable extensions using Swift Macro
   - Created: 2024-10-15  Updated: 2025-07-15  ![License](https://img.shields.io/badge/license-mit-blue) `ananda` `bettercodable` `codable`
 
@@ -1630,7 +1630,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★141639
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★141643
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-07-12  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
