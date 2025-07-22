@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-07-22 21:26*
+*Last Updated: 2025-07-22 22:26*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★363493
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★363494
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -136,7 +136,7 @@ Total Starred Repositories: 357
   - 🔨 Geetest Crack | 从 JavaScript 层面一步步破解极验「鼠标点击+滑块滑动」​各种加密参数
   - Created: 2020-01-15  Updated: 2025-06-10  ![License](https://img.shields.io/badge/license-mit-blue) `geetest` `javascript` `python3`
 
-- [ARL](https://github.com/adysec/ARL) ★699
+- [ARL](https://github.com/adysec/ARL) ★700
   - ARL 资产侦察灯塔系统（可运行，添加指纹，提高并发，升级工具及系统，无限制修改版） | ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
   - Created: 2024-05-13  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `arl` `cyber-security` `flask`
 
@@ -670,7 +670,7 @@ Total Starred Repositories: 357
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★236193
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★236199
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -682,7 +682,7 @@ Total Starred Repositories: 357
   - :books: 极客时间电子书
   - Created: 2023-01-26  Updated: 2023-01-26  
 
-- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★11428
+- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★11429
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2025-06-10  
 
@@ -808,11 +808,11 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★147232
+- [ollama](https://github.com/ollama/ollama) ★147235
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★129019
+- [go](https://github.com/golang/go) ★129020
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -820,7 +820,7 @@ Total Starred Repositories: 357
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★17155
+- [SafeLine](https://github.com/chaitin/SafeLine) ★17156
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-07-10  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -840,7 +840,7 @@ Total Starred Repositories: 357
   - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
   - Created: 2019-04-26  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-mit-blue) `commonmark` `go` `golang`
 
-- [Tigo](https://github.com/karldoenitz/Tigo) ★2054
+- [Tigo](https://github.com/karldoenitz/Tigo) ★2055
   - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
   - Created: 2018-07-04  Updated: 2025-01-05  ![License](https://img.shields.io/badge/license-mit-blue) `go` `golang` `middleware`
 
@@ -1036,7 +1036,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★174844
+- [vscode](https://github.com/microsoft/vscode) ★174846
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -1048,7 +1048,7 @@ Total Starred Repositories: 357
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-07-16  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★21912
+- [dokploy](https://github.com/Dokploy/dokploy) ★21915
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-07-21  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1176,7 +1176,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★198104
+- [linux](https://github.com/torvalds/linux) ★198105
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-07-20  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1272,7 +1272,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★121067
+- [PowerToys](https://github.com/microsoft/PowerToys) ★121068
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1336,7 +1336,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★31351
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★31352
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2025-06-30  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1630,7 +1630,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★142192
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★142195
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-07-21  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1640,7 +1640,7 @@ Total Starred Repositories: 357
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★33612
+- [llvm-project](https://github.com/llvm/llvm-project) ★33613
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-other-blue)
 
