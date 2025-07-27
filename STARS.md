@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-07-27 10:28*
+*Last Updated: 2025-07-27 11:22*
 
 
 ## 🌟 Statistics
@@ -52,15 +52,15 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★363767
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★363770
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98388
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98390
   - No description
   - Created: 2024-12-26  Updated: 2025-06-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★38375
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★38377
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -580,6 +580,10 @@ Total Starred Repositories: 358
   - 极小的JavaScript Markdown渲染器，具有接近GFM的兼容性。| Minimal JavaScript Markdown renderer with near-GFM compatibility.
   - Created: 2025-07-01  Updated: 2025-07-15  ![License](https://img.shields.io/badge/license-mit-blue) `gfm` `javascript` `js`
 
+- [Tool-js](https://github.com/Fgaoxing/Tool-js) ★11
+  - 这是个js的小工具？
+  - Created: 2022-04-03  Updated: 2022-12-31  
+
 - [cdnn](https://github.com/Fgaoxing/cdnn) ★11
   - No description
   - Created: 2022-05-24  Updated: 2024-02-27  
@@ -587,10 +591,6 @@ Total Starred Repositories: 358
 - [MyImg](https://github.com/Fgaoxing/MyImg) ★10
   - No description
   - Created: 2023-02-18  Updated: 2024-06-29  
-
-- [Tool-js](https://github.com/Fgaoxing/Tool-js) ★10
-  - 这是个js的小工具？
-  - Created: 2022-04-03  Updated: 2022-12-31  
 
 - [YOXI](https://github.com/Lafcadia/YOXI) ★10
   - No description
@@ -670,7 +670,7 @@ Total Starred Repositories: 358
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★236713
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★236715
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -682,7 +682,7 @@ Total Starred Repositories: 358
   - :books: 极客时间电子书
   - Created: 2023-01-26  Updated: 2023-01-26  
 
-- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★11460
+- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★11461
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2025-06-10  
 
@@ -808,7 +808,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★147654
+- [ollama](https://github.com/ollama/ollama) ★147658
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-07-25  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -824,7 +824,7 @@ Total Starred Repositories: 358
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-07-24  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★10674
+- [gnet](https://github.com/panjf2000/gnet) ★10675
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-07-24  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
@@ -852,7 +852,7 @@ Total Starred Repositories: 358
   - Vulnerabilities of Goby supported with exploitation.
   - Created: 2020-04-03  Updated: 2025-07-01  `cve` `cve-2023-22527` `cve-2023-51467`
 
-- [goverter](https://github.com/jmattheis/goverter) ★729
+- [goverter](https://github.com/jmattheis/goverter) ★730
   - Generate type-safe Go converters by defining function signatures.
   - Created: 2021-03-09  Updated: 2025-07-25  ![License](https://img.shields.io/badge/license-mit-blue) `code-generation` `converter` `copy`
 
@@ -1036,11 +1036,11 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★175019
+- [vscode](https://github.com/microsoft/vscode) ★175020
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-07-27  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★108540
+- [dify](https://github.com/langgenius/dify) ★108544
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-07-27  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1048,7 +1048,7 @@ Total Starred Repositories: 358
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-07-16  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★22271
+- [dokploy](https://github.com/Dokploy/dokploy) ★22275
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-07-23  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1118,7 +1118,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [Grasscutter](https://github.com/Grasscutters/Grasscutter) ★16592
+- [Grasscutter](https://github.com/Grasscutters/Grasscutter) ★16593
   - A server software reimplementation for a certain anime game.
   - Created: 2022-04-17  Updated: 2025-04-27  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `java` `kcp` `private-server`
 
@@ -1280,7 +1280,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★121158
+- [PowerToys](https://github.com/microsoft/PowerToys) ★121160
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-07-27  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1544,7 +1544,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★91543
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★91546
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-07-12  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1586,7 +1586,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★23424
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★23438
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-06-17  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1634,7 +1634,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★142617
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★142620
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-07-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1644,7 +1644,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★33676
+- [llvm-project](https://github.com/llvm/llvm-project) ★33675
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-07-27  ![License](https://img.shields.io/badge/license-other-blue)
 
