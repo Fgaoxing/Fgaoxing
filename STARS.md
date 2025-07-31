@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-07-31 18:40*
+*Last Updated: 2025-07-31 19:24*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★364114
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★364116
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -670,7 +670,7 @@ Total Starred Repositories: 360
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★237183
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★237184
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -812,7 +812,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★148210
+- [ollama](https://github.com/ollama/ollama) ★148213
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-07-31  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -836,7 +836,7 @@ Total Starred Repositories: 360
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★7102
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★7103
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-07-31  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -1044,11 +1044,11 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★175180
+- [vscode](https://github.com/microsoft/vscode) ★175182
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-07-31  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★109253
+- [dify](https://github.com/langgenius/dify) ★109254
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-07-31  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1192,7 +1192,7 @@ Total Starred Repositories: 360
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12491
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12490
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1238,7 +1238,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★198693
+- [linux](https://github.com/torvalds/linux) ★198696
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-07-31  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1288,7 +1288,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★121677
+- [PowerToys](https://github.com/microsoft/PowerToys) ★121678
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-07-31  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1594,7 +1594,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★23810
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★23812
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-07-30  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1642,7 +1642,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★143055
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★143056
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-07-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
