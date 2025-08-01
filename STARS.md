@@ -1,11 +1,11 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-08-01 16:36*
+*Last Updated: 2025-08-01 17:27*
 
 
 ## 🌟 Statistics
 
-Total Starred Repositories: 360
+Total Starred Repositories: 359
 
 ### Category Distribution
 
@@ -13,7 +13,7 @@ Total Starred Repositories: 360
 |----------|------:|
 | 🐍 Python | 58 |
 | Forks | 48 |
-| 🌐 JavaScript | 44 |
+| 🌐 JavaScript | 43 |
 | Others | 34 |
 | 🐹 Go | 28 |
 | 📚 HTML | 27 |
@@ -52,15 +52,15 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★364176
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★364177
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98450
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98451
   - No description
   - Created: 2024-12-26  Updated: 2025-06-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★38629
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★38630
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -656,10 +656,6 @@ Total Starred Repositories: 360
   - No description
   - Created: 2024-04-21  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [secret](https://github.com/Fgaoxing/secret) ★1
-  - No description
-  - Created: 2022-06-11  Updated: 2025-04-25  
-
 - [waline](https://github.com/Fgaoxing/waline) ★1
   - No description
   - Created: 2021-12-21  Updated: 2022-12-04  
@@ -670,7 +666,7 @@ Total Starred Repositories: 360
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★237310
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★237316
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -812,11 +808,11 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★148367
+- [ollama](https://github.com/ollama/ollama) ★148374
   - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
   - Created: 2023-06-26  Updated: 2025-07-31  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★129160
+- [go](https://github.com/golang/go) ★129161
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -824,7 +820,7 @@ Total Starred Repositories: 360
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2025-07-25  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★17257
+- [SafeLine](https://github.com/chaitin/SafeLine) ★17258
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-07-24  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -1044,19 +1040,19 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★175222
+- [vscode](https://github.com/microsoft/vscode) ★175223
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★109374
+- [dify](https://github.com/langgenius/dify) ★109378
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★25170
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★25171
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-07-31  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★22551
+- [dokploy](https://github.com/Dokploy/dokploy) ★22553
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1064,7 +1060,7 @@ Total Starred Repositories: 360
   - The CDN for everything on npm
   - Created: 2016-02-22  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★1590
+- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★1591
   - TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具
   - Created: 2025-01-13  Updated: 2025-07-29  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `weixin`
 
@@ -1196,7 +1192,7 @@ Total Starred Repositories: 360
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
-- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6733
+- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★6732
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-07-24  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
@@ -1238,7 +1234,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★198754
+- [linux](https://github.com/torvalds/linux) ★198757
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1288,7 +1284,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★121709
+- [PowerToys](https://github.com/microsoft/PowerToys) ★121710
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1378,7 +1374,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方主题分类
 
-- [emoji-mart](https://github.com/missive/emoji-mart) ★9109
+- [emoji-mart](https://github.com/missive/emoji-mart) ★9108
   - 🏪 One component to pick them all
   - Created: 2016-07-11  Updated: 2024-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `component` `emoji` `emoji-picker`
 
@@ -1408,7 +1404,7 @@ Total Starred Repositories: 360
   - 基于Golang的开源社区系统。简洁对话，高效互动，社区新体验！
   - Created: 2019-06-24  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `bbs` `community` `forum`
 
-- [front-end-rss](https://github.com/ChanceYu/front-end-rss) ★2762
+- [front-end-rss](https://github.com/ChanceYu/front-end-rss) ★2763
   - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
   - Created: 2018-09-22  Updated: 2025-08-01  `article` `blog` `collection`
 
@@ -1552,7 +1548,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★91708
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★91710
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1594,7 +1590,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★23856
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★23858
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-07-30  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1642,7 +1638,7 @@ Total Starred Repositories: 360
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★143138
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★143141
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-07-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
