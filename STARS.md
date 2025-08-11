@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-08-11 20:27*
+*Last Updated: 2025-08-11 21:23*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★364853
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★364857
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-08-09  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -68,7 +68,7 @@ Total Starred Repositories: 358
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [sglang](https://github.com/sgl-project/sglang) ★16794
+- [sglang](https://github.com/sgl-project/sglang) ★16795
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `blackwell` `cuda` `deepseek`
 
@@ -658,7 +658,7 @@ Total Starred Repositories: 358
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★238831
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★238838
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -682,7 +682,7 @@ Total Starred Repositories: 358
   - stable-diffusion-webui 的汉化扩展
   - Created: 2022-10-10  Updated: 2024-05-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue)
 
-- [cvelistV5](https://github.com/CVEProject/cvelistV5) ★2183
+- [cvelistV5](https://github.com/CVEProject/cvelistV5) ★2182
   - CVE cache of the official CVE List in CVE JSON 5 format
   - Created: 2022-02-08  Updated: 2025-08-11  
 
@@ -800,7 +800,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★149907
+- [ollama](https://github.com/ollama/ollama) ★149912
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -1032,7 +1032,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★175623
+- [vscode](https://github.com/microsoft/vscode) ★175622
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -1072,7 +1072,7 @@ Total Starred Repositories: 358
   - A highly imitated WeChat app developed based on HarmonyOS NEXT |  基于鸿蒙OS NEXT开发的高仿微信APP
   - Created: 2024-03-09  Updated: 2025-05-10  `harmony` `harmony-wechat` `wechat`
 
-- [vue-form-craft](https://github.com/xinnian999/vue-form-craft) ★365
+- [vue-form-craft](https://github.com/xinnian999/vue-form-craft) ★366
   - 基于vue3的一款开箱即用表单方案
   - Created: 2023-12-19  Updated: 2025-08-11  
 
@@ -1230,7 +1230,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★199428
+- [linux](https://github.com/torvalds/linux) ★199437
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-08-10  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1280,7 +1280,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★122057
+- [PowerToys](https://github.com/microsoft/PowerToys) ★122059
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1452,7 +1452,7 @@ Total Starred Repositories: 358
   - 使用rust开发的高性能python压测工具
   - Created: 2024-03-07  Updated: 2025-06-18  
 
-- [solana_meme](https://github.com/CodeCat-maker/solana_meme) ★233
+- [solana_meme](https://github.com/CodeCat-maker/solana_meme) ★234
   - Monitor the Solana blockchain for new pump.fun meme coins in real-time using Rust! This tool listens to on-chain events and alerts you whenever a new meme token appears
   - Created: 2024-10-11  Updated: 2025-07-01  `meme` `pump` `rust`
 
@@ -1634,7 +1634,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★144120
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★144121
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-08-10  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
