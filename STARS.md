@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-08-11 19:22*
+*Last Updated: 2025-08-11 20:27*
 
 
 ## 🌟 Statistics
@@ -56,7 +56,7 @@ Total Starred Repositories: 358
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-08-09  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98588
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98589
   - No description
   - Created: 2024-12-26  Updated: 2025-06-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -658,7 +658,7 @@ Total Starred Repositories: 358
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★238823
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★238831
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -670,7 +670,7 @@ Total Starred Repositories: 358
   - :books: 极客时间电子书
   - Created: 2023-01-26  Updated: 2023-01-26  
 
-- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★11647
+- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★11649
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2025-06-10  
 
@@ -800,11 +800,11 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★149905
+- [ollama](https://github.com/ollama/ollama) ★149907
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★129343
+- [go](https://github.com/golang/go) ★129341
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -820,11 +820,11 @@ Total Starred Repositories: 358
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-08-10  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9569
+- [pq](https://github.com/lib/pq) ★9568
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★7154
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★7155
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-08-09  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -1032,11 +1032,11 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★175622
+- [vscode](https://github.com/microsoft/vscode) ★175623
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★110486
+- [dify](https://github.com/langgenius/dify) ★110488
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1044,7 +1044,7 @@ Total Starred Repositories: 358
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★22968
+- [dokploy](https://github.com/Dokploy/dokploy) ★22970
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1180,7 +1180,7 @@ Total Starred Repositories: 358
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12514
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12515
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1230,7 +1230,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★199426
+- [linux](https://github.com/torvalds/linux) ★199428
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-08-10  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1280,7 +1280,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★122056
+- [PowerToys](https://github.com/microsoft/PowerToys) ★122057
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1444,7 +1444,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4359
+- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4360
   - Incomplete Redis client and server implementation using Tokio - for learning purposes only
   - Created: 2019-12-04  Updated: 2024-08-03  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1586,7 +1586,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★24617
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★24618
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1634,7 +1634,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★144116
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★144120
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-08-10  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1644,7 +1644,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★33912
+- [llvm-project](https://github.com/llvm/llvm-project) ★33913
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-other-blue)
 
