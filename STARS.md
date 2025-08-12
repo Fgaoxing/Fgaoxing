@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-08-12 21:25*
+*Last Updated: 2025-08-12 22:25*
 
 
 ## 🌟 Statistics
@@ -60,7 +60,7 @@ Total Starred Repositories: 358
   - No description
   - Created: 2024-12-26  Updated: 2025-06-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★39043
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★39044
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -68,7 +68,7 @@ Total Starred Repositories: 358
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [sglang](https://github.com/sgl-project/sglang) ★16839
+- [sglang](https://github.com/sgl-project/sglang) ★16840
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-08-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `blackwell` `cuda` `deepseek`
 
@@ -148,7 +148,7 @@ Total Starred Repositories: 358
   - 【sese-engine】新时代的搜索引擎！
   - Created: 2022-01-09  Updated: 2025-05-10  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [Re-Centris](https://github.com/byRen2002/Re-Centris) ★567
+- [Re-Centris](https://github.com/byRen2002/Re-Centris) ★565
   - Performance optimization for Centris software
   - Created: 2024-11-29  Updated: 2025-03-13  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -658,7 +658,7 @@ Total Starred Repositories: 358
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★239097
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★239104
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -800,7 +800,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★150023
+- [ollama](https://github.com/ollama/ollama) ★150028
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -828,7 +828,7 @@ Total Starred Repositories: 358
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
-- [goldmark](https://github.com/yuin/goldmark) ★4250
+- [goldmark](https://github.com/yuin/goldmark) ★4251
   - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
   - Created: 2019-04-26  Updated: 2025-07-22  ![License](https://img.shields.io/badge/license-mit-blue) `commonmark` `go` `golang`
 
@@ -970,6 +970,10 @@ Total Starred Repositories: 358
   - No description
   - Created: 2023-12-26  Updated: 2024-04-14  
 
+- [Vercel-Markdown2PDF](https://github.com/Lafcadia/Vercel-Markdown2PDF) ★12
+  - No description
+  - Created: 2024-03-22  Updated: 2024-04-06  ![License](https://img.shields.io/badge/license-mit-blue)
+
 - [Fgaoxing.github.io](https://github.com/Fgaoxing/Fgaoxing.github.io) ★11
   - No description
   - Created: 2023-01-08  Updated: 2025-02-06  
@@ -977,10 +981,6 @@ Total Starred Repositories: 358
 - [Make_Links](https://github.com/cheezhi/Make_Links) ★11
   - 使用python生成友情链接网页模板
   - Created: 2021-09-02  Updated: 2022-05-20  
-
-- [Vercel-Markdown2PDF](https://github.com/Lafcadia/Vercel-Markdown2PDF) ★11
-  - No description
-  - Created: 2024-03-22  Updated: 2024-04-06  ![License](https://img.shields.io/badge/license-mit-blue)
 
 - [OCDB](https://github.com/Lafcadia/OCDB) ★10
   - No description
@@ -1032,19 +1032,19 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★175671
+- [vscode](https://github.com/microsoft/vscode) ★175674
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★110639
+- [dify](https://github.com/langgenius/dify) ★110640
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-08-12  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★25257
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★25258
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★23011
+- [dokploy](https://github.com/Dokploy/dokploy) ★23012
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1378,7 +1378,7 @@ Total Starred Repositories: 358
   - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
   - Created: 2016-02-15  Updated: 2024-02-27  ![License](https://img.shields.io/badge/license-mit-blue) `chat` `chatroom` `fiora`
 
-- [easy-email-editor](https://github.com/zalify/easy-email-editor) ★1999
+- [easy-email-editor](https://github.com/zalify/easy-email-editor) ★2000
   - Easy Email Editor is a feature-rich, top open-source SaaS email editor based on React and MJML.
   - Created: 2021-03-26  Updated: 2025-07-15  ![License](https://img.shields.io/badge/license-mit-blue) `email-builder` `email-editor` `email-template-editor`
 
@@ -1586,7 +1586,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★24696
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★24699
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1634,7 +1634,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★144326
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★144331
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-08-10  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1644,7 +1644,7 @@ Total Starred Repositories: 358
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★33933
+- [llvm-project](https://github.com/llvm/llvm-project) ★33936
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-08-12  ![License](https://img.shields.io/badge/license-other-blue)
 
