@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-08-20 21:23*
+*Last Updated: 2025-08-20 22:23*
 
 
 ## 🌟 Statistics
@@ -52,15 +52,15 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★365465
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★365469
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-08-17  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98724
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98725
   - No description
   - Created: 2024-12-26  Updated: 2025-06-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★39315
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★39316
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -100,7 +100,7 @@ Total Starred Repositories: 353
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-07-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [D-FINE](https://github.com/Peterande/D-FINE) ★2630
+- [D-FINE](https://github.com/Peterande/D-FINE) ★2631
   - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]
   - Created: 2024-08-12  Updated: 2025-07-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `d-fine` `detr` `object-detection`
 
@@ -654,7 +654,7 @@ Total Starred Repositories: 353
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★240279
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★240283
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -792,11 +792,11 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★150592
+- [ollama](https://github.com/ollama/ollama) ★150593
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-08-20  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★129503
+- [go](https://github.com/golang/go) ★129505
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-08-20  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1020,11 +1020,11 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★175933
+- [vscode](https://github.com/microsoft/vscode) ★175934
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-08-20  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★111568
+- [dify](https://github.com/langgenius/dify) ★111569
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-08-20  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1032,11 +1032,11 @@ Total Starred Repositories: 353
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-08-11  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★23323
+- [dokploy](https://github.com/Dokploy/dokploy) ★23324
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-08-19  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [unpkg](https://github.com/unpkg/unpkg) ★3299
+- [unpkg](https://github.com/unpkg/unpkg) ★3300
   - The CDN for everything on npm
   - Created: 2016-02-22  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1210,7 +1210,7 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★200308
+- [linux](https://github.com/torvalds/linux) ★200307
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-08-20  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1446,7 +1446,7 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [fq-book](https://github.com/hoochanlon/fq-book) ★4066
+- [fq-book](https://github.com/hoochanlon/fq-book) ★4067
   - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
   - Created: 2018-05-26  Updated: 2024-01-12  `deep-web` `digital-certificate` `fq-book`
 
@@ -1524,7 +1524,7 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★92597
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★92599
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1566,7 +1566,7 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★25181
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★25182
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-08-20  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1614,7 +1614,7 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★145378
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★145384
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-08-10  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
