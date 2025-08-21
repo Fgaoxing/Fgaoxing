@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-08-21 21:23*
+*Last Updated: 2025-08-21 22:25*
 
 
 ## 🌟 Statistics
@@ -14,8 +14,8 @@ Total Starred Repositories: 353
 | 🐍 Python | 59 |
 | Forks | 47 |
 | 🌐 JavaScript | 40 |
-| Others | 33 |
-| 🐹 Go | 28 |
+| Others | 32 |
+| 🐹 Go | 27 |
 | 📚 HTML | 26 |
 | 📘 TypeScript | 19 |
 | ☕ Java | 13 |
@@ -31,6 +31,7 @@ Total Starred Repositories: 353
 | 📚 Shell | 3 |
 | 📱 Android | 3 |
 | Templates | 2 |
+| Unknown | 2 |
 |  iOS | 2 |
 | 📚 Assembly | 2 |
 | 📚 Dockerfile | 2 |
@@ -52,15 +53,15 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★365582
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★365589
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-08-17  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98786
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★98788
   - No description
   - Created: 2024-12-26  Updated: 2025-06-27  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★39333
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★39334
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -100,7 +101,7 @@ Total Starred Repositories: 353
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-07-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [D-FINE](https://github.com/Peterande/D-FINE) ★2633
+- [D-FINE](https://github.com/Peterande/D-FINE) ★2634
   - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]
   - Created: 2024-08-12  Updated: 2025-07-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `d-fine` `detr` `object-detection`
 
@@ -140,7 +141,7 @@ Total Starred Repositories: 353
   - ARL 资产侦察灯塔系统（可运行，添加指纹，提高并发，升级工具及系统，无限制修改版） | ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
   - Created: 2024-05-13  Updated: 2025-08-21  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `arl` `cyber-security` `flask`
 
-- [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) ★698
+- [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) ★699
   - :fire: The Python library for PDF forms.
   - Created: 2020-10-28  Updated: 2025-08-19  ![License](https://img.shields.io/badge/license-mit-blue) `pdf` `pdf-document` `pdf-document-processor`
 
@@ -654,7 +655,7 @@ Total Starred Repositories: 353
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★240434
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★240445
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -685,10 +686,6 @@ Total Starred Repositories: 353
 - [sourcery](https://github.com/sourcery-ai/sourcery) ★1700
   - Instant AI code reviews
   - Created: 2019-07-15  Updated: 2025-08-18  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `code-quality` `code-review-bot`
-
-- [shiro_rce_tool](https://github.com/wyzxxz/shiro_rce_tool) ★1520
-  - shiro 反序列 命令执行辅助检测工具
-  - Created: 2020-01-07  Updated: 2024-05-21  
 
 - [sensitive-stop-words](https://github.com/fwwdn/sensitive-stop-words) ★1453
   - 互联网常用敏感词、停止词词库
@@ -792,11 +789,11 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★150654
+- [ollama](https://github.com/ollama/ollama) ★150659
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-08-21  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★129514
+- [go](https://github.com/golang/go) ★129515
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-08-21  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -816,7 +813,7 @@ Total Starred Repositories: 353
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★7223
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★7224
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-08-14  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -875,10 +872,6 @@ Total Starred Repositories: 353
 - [gody](https://github.com/guiferpa/gody) ★167
   - :balloon: A lightweight struct validator for Go
   - Created: 2018-11-01  Updated: 2025-05-30  ![License](https://img.shields.io/badge/license-mit-blue) `go` `golang` `struct`
-
-- [SecureJS](https://github.com/h1thub/SecureJS) ★156
-  - SecureJS 是一个强大的工具，旨在从目标网站收集所有相关链接，对这些链接（主要是 JavaScript 文件）执行请求，并扫描敏感信息，如令牌、密钥、密码、AKSK 等，后引入 DeepSeek 对结果进行分析。
-  - Created: 2025-01-13  Updated: 2025-05-27  
 
 - [hasaki](https://github.com/lxzan/hasaki) ★62
   - golang http client
@@ -1020,19 +1013,19 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★175956
+- [vscode](https://github.com/microsoft/vscode) ★175955
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-08-21  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★111674
+- [dify](https://github.com/langgenius/dify) ★111675
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-08-21  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★25325
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★25326
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-08-21  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★23403
+- [dokploy](https://github.com/Dokploy/dokploy) ★23411
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-08-19  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1040,7 +1033,7 @@ Total Starred Repositories: 353
   - The CDN for everything on npm
   - Created: 2016-02-22  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★1613
+- [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish) ★1612
   - TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具
   - Created: 2025-01-13  Updated: 2025-08-06  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `weixin`
 
@@ -1164,7 +1157,7 @@ Total Starred Repositories: 353
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12548
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12549
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1334,7 +1327,7 @@ Total Starred Repositories: 353
 
 - [twikoo](https://github.com/twikoojs/twikoo) ★1905
   - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
-  - Created: 2020-05-24  Updated: 2025-07-23  ![License](https://img.shields.io/badge/license-mit-blue) `cloudbase` `comment` `comment-system`
+  - Created: 2020-05-24  Updated: 2025-08-21  ![License](https://img.shields.io/badge/license-mit-blue) `cloudbase` `comment` `comment-system`
 
 - [Ech0](https://github.com/lin-snow/Ech0) ★496
   - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
@@ -1424,7 +1417,7 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4375
+- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4377
   - Incomplete Redis client and server implementation using Tokio - for learning purposes only
   - Created: 2019-12-04  Updated: 2024-08-03  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1489,6 +1482,20 @@ Total Starred Repositories: 353
 - [Goh](https://github.com/OblivionOcean/Goh) ★130
   - Goh is a pre-compiled and fast template engine for the Go language. The fastest known go template package ⭐️ Goh 是一款Go语言的预编译快速模板引擎。（已知最快的go模板包）
   - Created: 2025-02-01  Updated: 2025-04-27  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `go` `go-template` `golang`
+
+
+
+## Unknown
+
+### ❓ Unknown category
+
+- [shiro_rce_tool](https://github.com/wyzxxz/shiro_rce_tool) ★1520
+  - shiro 反序列 命令执行辅助检测工具
+  - Created: 2020-01-07  Updated: 2024-05-21  
+
+- [SecureJS](https://github.com/h1thub/SecureJS) ★156
+  - SecureJS 是一个强大的工具，旨在从目标网站收集所有相关链接，对这些链接（主要是 JavaScript 文件）执行请求，并扫描敏感信息，如令牌、密钥、密码、AKSK 等，后引入 DeepSeek 对结果进行分析。
+  - Created: 2025-01-13  Updated: 2025-05-27  
 
 
 
@@ -1566,7 +1573,7 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★25227
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★25230
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-08-20  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1614,7 +1621,7 @@ Total Starred Repositories: 353
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★145488
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★145492
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-08-10  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
