@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-09-07 10:22*
+*Last Updated: 2025-09-07 11:17*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★367510
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★367511
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-09-06  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -84,7 +84,7 @@ Total Starred Repositories: 354
   - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
   - Created: 2018-02-15  Updated: 2025-07-29  `chatgpt` `cnki` `it`
 
-- [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ★7106
+- [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ★7108
   - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
   - Created: 2021-07-29  Updated: 2025-09-07  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `custom` `fluent` `fluent-design`
 
@@ -502,13 +502,13 @@ Total Starred Repositories: 354
 
 - [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★6881
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
-  - Created: 2023-05-27  Updated: 2025-09-01  ![License](https://img.shields.io/badge/license-mit-blue) `furry` `liteloaderqqnt` `qqnt`
+  - Created: 2023-05-27  Updated: 2025-09-07  ![License](https://img.shields.io/badge/license-mit-blue) `furry` `liteloaderqqnt` `qqnt`
 
 - [free-font](https://github.com/wordshub/free-font) ★5501
   - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
   - Created: 2020-01-08  Updated: 2025-02-27  `cjk` `font` `free`
 
-- [SysMocap](https://github.com/xianfei/SysMocap) ★2717
+- [SysMocap](https://github.com/xianfei/SysMocap) ★2718
   - A real-time motion capture system for 3D virtual character animating.
   - Created: 2022-03-09  Updated: 2025-04-21  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `augmented-reality` `augmented-reality-applications` `mocap`
 
@@ -654,7 +654,7 @@ Total Starred Repositories: 354
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★242571
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★242572
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -792,11 +792,11 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★151802
+- [ollama](https://github.com/ollama/ollama) ★151804
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-09-06  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★129752
+- [go](https://github.com/golang/go) ★129754
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-09-07  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1020,11 +1020,11 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★176465
+- [vscode](https://github.com/microsoft/vscode) ★176467
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-09-06  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★113302
+- [dify](https://github.com/langgenius/dify) ★113304
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-09-07  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1032,7 +1032,7 @@ Total Starred Repositories: 354
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-08-21  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★24151
+- [dokploy](https://github.com/Dokploy/dokploy) ★24152
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-09-07  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1048,7 +1048,7 @@ Total Starred Repositories: 354
   - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain、FastAPI 和 NextJS 构建。）
   - Created: 2024-09-04  Updated: 2025-08-20  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `agent` `ai` `chatbot`
 
-- [valaxy](https://github.com/YunYouJun/valaxy) ★977
+- [valaxy](https://github.com/YunYouJun/valaxy) ★978
   - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
   - Created: 2022-03-08  Updated: 2025-09-07  ![License](https://img.shields.io/badge/license-mit-blue) `blog` `site` `static`
 
@@ -1176,7 +1176,7 @@ Total Starred Repositories: 354
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-07-24  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
-- [chevereto-free](https://github.com/rodber/chevereto-free) ★2791
+- [chevereto-free](https://github.com/rodber/chevereto-free) ★2792
   - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
   - Created: 2016-08-18  Updated: 2025-04-19  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `gallery` `image-host` `image-hosting`
 
@@ -1214,7 +1214,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★201522
+- [linux](https://github.com/torvalds/linux) ★201524
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-09-06  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1264,7 +1264,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★123336
+- [PowerToys](https://github.com/microsoft/PowerToys) ★123337
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-09-05  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
@@ -1340,7 +1340,7 @@ Total Starred Repositories: 354
   - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
   - Created: 2020-05-24  Updated: 2025-08-27  ![License](https://img.shields.io/badge/license-mit-blue) `cloudbase` `comment` `comment-system`
 
-- [Ech0](https://github.com/lin-snow/Ech0) ★546
+- [Ech0](https://github.com/lin-snow/Ech0) ★548
   - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
   - Created: 2025-03-21  Updated: 2025-08-25  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `ech0` `go` `golang`
 
@@ -1528,7 +1528,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★93045
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★93046
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-08-01  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1570,7 +1570,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★26056
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★26057
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-08-22  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1584,7 +1584,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [species-in-pieces](https://github.com/siporg/species-in-pieces) ★167
+- [species-in-pieces](https://github.com/siporg/species-in-pieces) ★168
   - 30 species. 30 pieces. 1 fragmented survival.
   - Created: 2025-01-23  Updated: 2025-03-21  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1618,7 +1618,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★147460
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★147465
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-09-05  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
