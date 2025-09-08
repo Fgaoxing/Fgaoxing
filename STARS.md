@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-09-08 20:27*
+*Last Updated: 2025-09-08 21:21*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★367631
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★367636
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-09-08  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -654,7 +654,7 @@ Total Starred Repositories: 354
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★242705
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★242708
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -796,7 +796,7 @@ Total Starred Repositories: 354
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-09-08  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★129773
+- [go](https://github.com/golang/go) ★129772
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-09-08  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1020,11 +1020,11 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★176498
+- [vscode](https://github.com/microsoft/vscode) ★176497
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-09-08  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★113432
+- [dify](https://github.com/langgenius/dify) ★113435
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-09-08  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1214,7 +1214,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★201606
+- [linux](https://github.com/torvalds/linux) ★201607
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-09-08  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1268,7 +1268,7 @@ Total Starred Repositories: 354
   - Windows system utilities to maximize productivity
   - Created: 2019-05-01  Updated: 2025-09-08  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `desktop` `fancyzones`
 
-- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★18296
+- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ★18295
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-07-02  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
@@ -1454,7 +1454,7 @@ Total Starred Repositories: 354
   - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
   - Created: 2018-05-26  Updated: 2024-01-12  `deep-web` `digital-certificate` `fq-book`
 
-- [tracker](https://github.com/adysec/tracker) ★527
+- [tracker](https://github.com/adysec/tracker) ★528
   - BT tracker服务器列表 | 全网最全BT下载所需tracker服务器，每日聚合tracker服务器列表，对公开tracker服务器进行爬取，并测试存活后写入列表中 | trackers_all.txt为全量tracker服务器列表(2763行)，trackers_best.txt为测试存活服务器列表(1109行)
   - Created: 2024-08-14  Updated: 2025-09-08  `bt` `daily` `tracker`
 
@@ -1570,7 +1570,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★26214
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★26216
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-09-08  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1618,7 +1618,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★147678
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★147680
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-09-05  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
