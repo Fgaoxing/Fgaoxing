@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-09-17 21:20*
+*Last Updated: 2025-09-17 22:20*
 
 
 ## 🌟 Statistics
@@ -52,15 +52,15 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★368355
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★368359
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-09-17  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★99283
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★99284
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★39944
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★39945
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -654,7 +654,7 @@ Total Starred Repositories: 354
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★243675
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★243677
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -792,7 +792,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★152498
+- [ollama](https://github.com/ollama/ollama) ★152504
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-09-17  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -1020,11 +1020,11 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★176789
+- [vscode](https://github.com/microsoft/vscode) ★176791
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-09-17  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★114238
+- [dify](https://github.com/langgenius/dify) ★114240
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-09-17  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1032,7 +1032,7 @@ Total Starred Repositories: 354
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-08-21  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★24507
+- [dokploy](https://github.com/Dokploy/dokploy) ★24510
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-09-16  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1214,7 +1214,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★202240
+- [linux](https://github.com/torvalds/linux) ★202242
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-09-17  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1362,7 +1362,7 @@ Total Starred Repositories: 354
   - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
   - Created: 2016-02-15  Updated: 2024-02-27  ![License](https://img.shields.io/badge/license-mit-blue) `chat` `chatroom` `fiora`
 
-- [easy-email-editor](https://github.com/zalify/easy-email-editor) ★2029
+- [easy-email-editor](https://github.com/zalify/easy-email-editor) ★2030
   - Easy Email Editor is a feature-rich, top open-source SaaS email editor based on React and MJML.
   - Created: 2021-03-26  Updated: 2025-07-15  ![License](https://img.shields.io/badge/license-mit-blue) `email-builder` `email-editor` `email-template-editor`
 
@@ -1454,7 +1454,7 @@ Total Starred Repositories: 354
   - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
   - Created: 2018-05-26  Updated: 2024-01-12  `deep-web` `digital-certificate` `fq-book`
 
-- [tracker](https://github.com/adysec/tracker) ★542
+- [tracker](https://github.com/adysec/tracker) ★543
   - BT tracker服务器列表 | 全网最全BT下载所需tracker服务器，每日聚合tracker服务器列表，对公开tracker服务器进行爬取，并测试存活后写入列表中 | trackers_all.txt为全量tracker服务器列表(2763行)，trackers_best.txt为测试存活服务器列表(1109行)
   - Created: 2024-08-14  Updated: 2025-09-17  `bt` `daily` `tracker`
 
@@ -1528,7 +1528,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★93362
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★93364
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-09-17  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1572,7 +1572,7 @@ Total Starred Repositories: 354
 
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★26577
   - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-  - Created: 2020-10-27  Updated: 2025-09-14  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
+  - Created: 2020-10-27  Updated: 2025-09-17  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
 - [NinjaCopy](https://github.com/3gstudent/NinjaCopy) ★62
   - Powershell to copy ntds.dit
@@ -1618,7 +1618,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★148686
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★148690
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-09-12  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1628,7 +1628,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★34445
+- [llvm-project](https://github.com/llvm/llvm-project) ★34446
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-09-17  ![License](https://img.shields.io/badge/license-other-blue)
 
