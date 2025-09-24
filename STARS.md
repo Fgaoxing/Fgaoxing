@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-09-24 22:23*
+*Last Updated: 2025-09-24 23:22*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★370327
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★370332
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -68,7 +68,7 @@ Total Starred Repositories: 354
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [sglang](https://github.com/sgl-project/sglang) ★18301
+- [sglang](https://github.com/sgl-project/sglang) ★18303
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `blackwell` `cuda` `deepseek`
 
@@ -146,7 +146,7 @@ Total Starred Repositories: 354
 
 - [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) ★725
   - :fire: The Python library for PDF forms.
-  - Created: 2020-10-28  Updated: 2025-09-23  ![License](https://img.shields.io/badge/license-mit-blue) `pdf` `pdf-document` `pdf-document-processor`
+  - Created: 2020-10-28  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-mit-blue) `pdf` `pdf-document` `pdf-document-processor`
 
 - [Re-Centris](https://github.com/byRen2002/Re-Centris) ★556
   - Performance optimization for Centris software
@@ -654,7 +654,7 @@ Total Starred Repositories: 354
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★244442
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★244444
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -804,7 +804,7 @@ Total Starred Repositories: 354
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2025-09-13  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★17744
+- [SafeLine](https://github.com/chaitin/SafeLine) ★17745
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-08-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -812,7 +812,7 @@ Total Starred Repositories: 354
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-08-27  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9634
+- [pq](https://github.com/lib/pq) ★9633
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -918,7 +918,7 @@ Total Starred Repositories: 354
   - Gather and update all available and newest CVEs with their PoC.
   - Created: 2022-01-31  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-mit-blue) `cve` `cve-poc` `exploit`
 
-- [proposal](https://github.com/golang/proposal) ★3428
+- [proposal](https://github.com/golang/proposal) ★3427
   - Go Project Design Documents
   - Created: 2015-07-29  Updated: 2025-09-08  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -1180,7 +1180,7 @@ Total Starred Repositories: 354
   - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
   - Created: 2016-08-18  Updated: 2025-04-19  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `gallery` `image-host` `image-hosting`
 
-- [CloudPeler](https://github.com/zidansec/CloudPeler) ★1501
+- [CloudPeler](https://github.com/zidansec/CloudPeler) ★1502
   - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
   - Created: 2022-05-12  Updated: 2023-09-01  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-mit-blue) `bypass-cloudflare` `bypass-hostname` `bypass-waf`
 
@@ -1214,7 +1214,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★203221
+- [linux](https://github.com/torvalds/linux) ★203226
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1264,7 +1264,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★123868
+- [PowerToys](https://github.com/microsoft/PowerToys) ★123869
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1618,7 +1618,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★149467
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★149470
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1628,7 +1628,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★34556
+- [llvm-project](https://github.com/llvm/llvm-project) ★34555
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-other-blue)
 
