@@ -31,7 +31,5 @@ Bilibili: https://space.bilibili.com/1838629590
 
 ![img](https://github-readme-stats.yt-blog.top/api/top-langs/?username=Fgaoxing&layout=compact)
 
-詳細については、マイコードリポジトリのリストを参照してください。
-
 ### 🐱ねこ娘
 ![pic](https://api.suyanw.cn/api/mao/)
