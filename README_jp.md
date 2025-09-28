@@ -31,13 +31,6 @@ Bilibili: https://space.bilibili.com/1838629590
 
 ![img](https://github-readme-stats.yt-blog.top/api/top-langs/?username=Fgaoxing&layout=compact)
 
-### 📦プロジェクト
-| [![icon](https://avatars.githubusercontent.com/u/134116865?s=20&v=4) Hexo-theme-Jian](https://github.com/Hexo-theme-Jian/Hexo-theme-Jian) | [![icon](https://avatars.githubusercontent.com/u/119643577?s=20&v=4) Simplest-Server](https://github.com/simplest-server/simplest-server) | [![icon](https://avatars.githubusercontent.com/u/142860593?s=20&v=4) FastResponse](https://github.com/fast-response/fast-response) |
-| --- | --- | ---|
-| 1つの簡潔でコンパクトなHexoトピック | 1つの高速開発されたhttpモジュールベースのルーティングサーバレスフレーム | 1つの「gnet」ベースの小型、高速、高性能のWebフレーム。 |
-| A concise and compact Hexo theme. | A rapidly developed HTTP module based, routing serverless framework. | A small, fast, high-performance web framework based on "gnet". |
-| ![card](https://github-readme-stats.yt-blog.top/api/pin/?username=Hexo-theme-Jian&repo=Hexo-theme-Jian&show_owner=true) | ![card](https://github-readme-stats.yt-blog.top/api/pin/?username=simplest-server&repo=simplest-server&show_owner=true) | ![card](https://github-readme-stats.yt-blog.top/api/pin/?username=fast-response&repo=fast-response&show_owner=true) |
-
 詳細については、マイコードリポジトリのリストを参照してください。
 
 ### 🐱ねこ娘
