@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-09-29 19:19*
+*Last Updated: 2025-09-29 20:24*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★370940
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★370946
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-09-26  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -60,7 +60,7 @@ Total Starred Repositories: 354
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★41540
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★41594
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -108,11 +108,11 @@ Total Starred Repositories: 354
   - 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
   - Created: 2023-03-25  Updated: 2025-08-12  `ai` `computer-science` `data-science`
 
-- [WeblogicScan](https://github.com/rabbitmask/WeblogicScan) ★2248
+- [WeblogicScan](https://github.com/rabbitmask/WeblogicScan) ★2250
   - Weblogic一键漏洞检测工具，V1.5，更新时间：20200730
   - Created: 2019-03-05  Updated: 2023-05-22  ![License](https://img.shields.io/badge/license-mit-blue) `weblogicscan`
 
-- [weblogicScanner](https://github.com/0xn0ne/weblogicScanner) ★2061
+- [weblogicScanner](https://github.com/0xn0ne/weblogicScanner) ★2062
   - weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883
   - Created: 2020-01-15  Updated: 2023-11-24  `cve-2016-0638` `cve-2016-3510` `cve-2017-10271`
 
@@ -144,7 +144,7 @@ Total Starred Repositories: 354
   - ARL 资产侦察灯塔系统（可运行，添加指纹，提高并发，升级工具及系统，无限制修改版） | ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
   - Created: 2024-05-13  Updated: 2025-09-29  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `arl` `cyber-security` `flask`
 
-- [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) ★726
+- [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) ★727
   - :fire: The Python library for PDF forms.
   - Created: 2020-10-28  Updated: 2025-09-26  ![License](https://img.shields.io/badge/license-mit-blue) `pdf` `pdf-document` `pdf-document-processor`
 
@@ -298,7 +298,7 @@ Total Starred Repositories: 354
 
 ### 🍴 Forked repositories
 
-- [supermium](https://github.com/win32ss/supermium) ★3584
+- [supermium](https://github.com/win32ss/supermium) ★3583
   - Chromium fork for Windows XP/2003 and up
   - Created: 2023-05-09  Updated: 2025-09-07  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -658,7 +658,7 @@ Total Starred Repositories: 354
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★245019
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★245029
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -796,11 +796,11 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★153281
+- [ollama](https://github.com/ollama/ollama) ★153283
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-09-28  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★130069
+- [go](https://github.com/golang/go) ★130070
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-09-29  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -816,7 +816,7 @@ Total Starred Repositories: 354
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-09-27  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9640
+- [pq](https://github.com/lib/pq) ★9642
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -918,7 +918,7 @@ Total Starred Repositories: 354
   - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
   - Created: 2022-11-11  Updated: 2024-12-10  ![License](https://img.shields.io/badge/license-ofl-1.1-blue) `cjk` `cjk-font` `font`
 
-- [cve](https://github.com/trickest/cve) ★7251
+- [cve](https://github.com/trickest/cve) ★7252
   - Gather and update all available and newest CVEs with their PoC.
   - Created: 2022-01-31  Updated: 2025-09-29  ![License](https://img.shields.io/badge/license-mit-blue) `cve` `cve-poc` `exploit`
 
@@ -1024,19 +1024,19 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★177093
+- [vscode](https://github.com/microsoft/vscode) ★177095
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-09-29  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★115382
+- [dify](https://github.com/langgenius/dify) ★115386
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-09-29  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★25540
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★25541
   - The most advanced browser fingerprinting library.
   - Created: 2015-02-11  Updated: 2025-08-21  ![License](https://img.shields.io/badge/license-other-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★24989
+- [dokploy](https://github.com/Dokploy/dokploy) ★24997
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-09-29  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1130,7 +1130,7 @@ Total Starred Repositories: 354
   - 在线考试系统,springboot+vue
   - Created: 2024-06-01  Updated: 2025-07-26  ![License](https://img.shields.io/badge/license-mit-blue) `java` `springboot`
 
-- [java-go-python](https://github.com/jushahulian/java-go-python) ★570
+- [java-go-python](https://github.com/jushahulian/java-go-python) ★571
   - 包含海量课程各类it学习视频教程，最新版，持续更新，java视频教程，python视频教程，go视频教程,C,C++,C#视频教程,前端，数据库，大数据，人工智能视频教程，AIGC视频教程，ChatGPT，软件测试视频教程，网络安全/逆向视频教程，鸿蒙应用开发，Android等学习课程分享。
   - Created: 2023-12-29  Updated: 2025-04-22  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
@@ -1168,9 +1168,9 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★203647
+- [linux](https://github.com/torvalds/linux) ★203650
   - Linux kernel source tree
-  - Created: 2011-09-04  Updated: 2025-09-28  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2011-09-04  Updated: 2025-09-29  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [cmark](https://github.com/commonmark/cmark) ★1847
   - CommonMark parsing and rendering library and program in C
@@ -1618,9 +1618,9 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★150319
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★150323
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-  - Created: 2020-01-12  Updated: 2025-09-25  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
+  - Created: 2020-01-12  Updated: 2025-09-29  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
 
 
