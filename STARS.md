@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-10-13 22:22*
+*Last Updated: 2025-10-13 23:21*
 
 
 ## 🌟 Statistics
@@ -500,7 +500,7 @@ Total Starred Repositories: 354
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-10-01  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
-- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★11336
+- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★11337
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2025-09-13  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
@@ -658,11 +658,11 @@ Total Starred Repositories: 354
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★246556
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★246558
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [gfwlist](https://github.com/gfwlist/gfwlist) ★24640
+- [gfwlist](https://github.com/gfwlist/gfwlist) ★24641
   - The one and only one gfwlist here
   - Created: 2015-03-13  Updated: 2025-10-11  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `anticensorship` `censorship` `censorship-circumvention`
 
@@ -796,11 +796,11 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★154010
+- [ollama](https://github.com/ollama/ollama) ★154008
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-10-13  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★130278
+- [go](https://github.com/golang/go) ★130279
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-10-13  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -824,7 +824,7 @@ Total Starred Repositories: 354
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-10-12  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
-- [goldmark](https://github.com/yuin/goldmark) ★4359
+- [goldmark](https://github.com/yuin/goldmark) ★4360
   - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
   - Created: 2019-04-26  Updated: 2025-09-20  ![License](https://img.shields.io/badge/license-mit-blue) `commonmark` `go` `golang`
 
@@ -874,7 +874,7 @@ Total Starred Repositories: 354
 
 - [go-premailer](https://github.com/vanng822/go-premailer) ★175
   - Inline styling for html mail in golang
-  - Created: 2015-02-16  Updated: 2025-09-16  ![License](https://img.shields.io/badge/license-mit-blue) `email` `golang` `html`
+  - Created: 2015-02-16  Updated: 2025-10-13  ![License](https://img.shields.io/badge/license-mit-blue) `email` `golang` `html`
 
 - [gody](https://github.com/guiferpa/gody) ★172
   - :balloon: A lightweight struct validator for Go
@@ -1024,11 +1024,11 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★177511
+- [vscode](https://github.com/microsoft/vscode) ★177510
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-10-13  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★116349
+- [dify](https://github.com/langgenius/dify) ★116347
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-10-13  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1168,7 +1168,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★204855
+- [linux](https://github.com/torvalds/linux) ★204857
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-10-12  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1528,7 +1528,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★95009
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★95010
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-10-09  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1570,7 +1570,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★28795
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★28806
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-10-06  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1618,7 +1618,7 @@ Total Starred Repositories: 354
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★152038
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★152043
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-09-30  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
