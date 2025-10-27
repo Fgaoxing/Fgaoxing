@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-10-27 19:20*
+*Last Updated: 2025-10-27 20:26*
 
 
 ## 🌟 Statistics
@@ -52,15 +52,15 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★375216
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★375228
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-10-26  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★100006
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★100007
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★47288
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★47289
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -68,7 +68,7 @@ Total Starred Repositories: 355
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [sglang](https://github.com/sgl-project/sglang) ★19429
+- [sglang](https://github.com/sgl-project/sglang) ★19430
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-10-27  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `blackwell` `cuda` `deepseek`
 
@@ -298,7 +298,7 @@ Total Starred Repositories: 355
 
 ### 🍴 Forked repositories
 
-- [supermium](https://github.com/win32ss/supermium) ★3675
+- [supermium](https://github.com/win32ss/supermium) ★3676
   - Chromium fork for Windows XP/2003 and up
   - Created: 2023-05-09  Updated: 2025-10-19  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -512,7 +512,7 @@ Total Starred Repositories: 355
   - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
   - Created: 2020-01-08  Updated: 2025-02-27  `cjk` `font` `free`
 
-- [SysMocap](https://github.com/xianfei/SysMocap) ★2742
+- [SysMocap](https://github.com/xianfei/SysMocap) ★2743
   - A real-time motion capture system for 3D virtual character animating.
   - Created: 2022-03-09  Updated: 2025-04-21  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `augmented-reality` `augmented-reality-applications` `mocap`
 
@@ -658,7 +658,7 @@ Total Starred Repositories: 355
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★247986
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★247988
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -796,7 +796,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★154840
+- [ollama](https://github.com/ollama/ollama) ★154846
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-10-27  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -808,7 +808,7 @@ Total Starred Repositories: 355
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2025-10-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★18616
+- [SafeLine](https://github.com/chaitin/SafeLine) ★18622
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-08-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -1024,7 +1024,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★177938
+- [vscode](https://github.com/microsoft/vscode) ★177940
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-10-27  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -1032,11 +1032,11 @@ Total Starred Repositories: 355
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-10-27  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★26069
+- [dokploy](https://github.com/Dokploy/dokploy) ★26070
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-10-26  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★25745
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★25744
   - The most advanced open-source browser fingerprinting library
   - Created: 2015-02-11  Updated: 2025-10-26  ![License](https://img.shields.io/badge/license-mit-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
@@ -1168,7 +1168,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★205803
+- [linux](https://github.com/torvalds/linux) ★205807
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-10-27  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1268,7 +1268,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★125240
+- [PowerToys](https://github.com/microsoft/PowerToys) ★125244
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2025-10-27  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1284,7 +1284,7 @@ Total Starred Repositories: 355
   - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
   - Created: 2018-05-16  Updated: 2024-12-21  ![License](https://img.shields.io/badge/license-mit-blue) `csharp` `malware-protection` `uac-authorization`
 
-- [EnergyStar](https://github.com/imbushuo/EnergyStar) ★2365
+- [EnergyStar](https://github.com/imbushuo/EnergyStar) ★2364
   - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
   - Created: 2022-07-29  Updated: 2023-05-06  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1384,7 +1384,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [bbs-go](https://github.com/mlogclub/bbs-go) ★3298
+- [bbs-go](https://github.com/mlogclub/bbs-go) ★3297
   - 基于Golang的开源社区系统。简洁对话，高效互动，社区新体验！
   - Created: 2019-06-24  Updated: 2025-10-16  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `bbs` `community` `forum`
 
@@ -1622,7 +1622,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★153935
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★153940
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-09-30  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1632,7 +1632,7 @@ Total Starred Repositories: 355
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★35083
+- [llvm-project](https://github.com/llvm/llvm-project) ★35084
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-10-27  ![License](https://img.shields.io/badge/license-other-blue)
 
