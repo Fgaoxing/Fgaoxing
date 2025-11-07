@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-11-07 18:36*
+*Last Updated: 2025-11-07 19:21*
 
 
 ## 🌟 Statistics
@@ -52,15 +52,15 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★376335
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★376340
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-11-04  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★100185
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★100186
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★47589
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★47590
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -72,7 +72,7 @@ Total Starred Repositories: 356
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [sglang](https://github.com/sgl-project/sglang) ★19965
+- [sglang](https://github.com/sgl-project/sglang) ★19966
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-11-07  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `blackwell` `cuda` `deepseek`
 
@@ -662,7 +662,7 @@ Total Starred Repositories: 356
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★249166
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★249168
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -758,7 +758,7 @@ Total Starred Repositories: 356
   - a list of proxy site
   - Created: 2022-09-07  Updated: 2024-02-21  
 
-- [4F](https://github.com/sexyCs258369/4F) ★117
+- [4F](https://github.com/sexyCs258369/4F) ★118
   - 原子四方支付系统-链接资金的利器 聚合支付系统 跑分系统，卡转，支付宝转 四方支付系统 四方源码  第四方支付平台 三方平台 通道对接 商户对接 跑分系统搭建 Telegram联系: AXPay06
   - Created: 2024-12-05  Updated: 2025-10-25  
 
@@ -800,7 +800,7 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★155530
+- [ollama](https://github.com/ollama/ollama) ★155533
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-11-07  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -1028,15 +1028,15 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★178318
+- [vscode](https://github.com/microsoft/vscode) ★178319
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-11-07  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★118316
+- [dify](https://github.com/langgenius/dify) ★118318
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-11-07  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★26452
+- [dokploy](https://github.com/Dokploy/dokploy) ★26453
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-11-03  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1172,7 +1172,7 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★206514
+- [linux](https://github.com/torvalds/linux) ★206520
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-11-07  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1230,7 +1230,7 @@ Total Starred Repositories: 356
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12692
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12693
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1272,7 +1272,7 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★125518
+- [PowerToys](https://github.com/microsoft/PowerToys) ★125519
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2025-11-07  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1284,7 +1284,7 @@ Total Starred Repositories: 356
   - Driver Store Explorer
   - Created: 2016-06-15  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
-- [Malware-Patch](https://github.com/the1812/Malware-Patch) ★5035
+- [Malware-Patch](https://github.com/the1812/Malware-Patch) ★5041
   - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
   - Created: 2018-05-16  Updated: 2024-12-21  ![License](https://img.shields.io/badge/license-mit-blue) `csharp` `malware-protection` `uac-authorization`
 
@@ -1348,7 +1348,7 @@ Total Starred Repositories: 356
   - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
   - Created: 2020-05-24  Updated: 2025-10-29  ![License](https://img.shields.io/badge/license-mit-blue) `cloudbase` `comment` `comment-system`
 
-- [Ech0](https://github.com/lin-snow/Ech0) ★1065
+- [Ech0](https://github.com/lin-snow/Ech0) ★1069
   - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
   - Created: 2025-03-21  Updated: 2025-11-04  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `ech0` `fediverse` `go`
 
