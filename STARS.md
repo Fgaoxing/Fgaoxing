@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-11-19 22:25*
+*Last Updated: 2025-11-19 23:24*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★377148
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★377152
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-11-19  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -72,7 +72,7 @@ Total Starred Repositories: 356
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [sglang](https://github.com/sgl-project/sglang) ★20229
+- [sglang](https://github.com/sgl-project/sglang) ★20231
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-11-19  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `blackwell` `cuda` `deepseek`
 
@@ -662,7 +662,7 @@ Total Starred Repositories: 356
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★250315
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★250317
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -800,7 +800,7 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★156242
+- [ollama](https://github.com/ollama/ollama) ★156243
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-11-19  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -922,7 +922,7 @@ Total Starred Repositories: 356
   - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
   - Created: 2022-11-11  Updated: 2024-12-10  ![License](https://img.shields.io/badge/license-ofl-1.1-blue) `cjk` `cjk-font` `font`
 
-- [cve](https://github.com/trickest/cve) ★7377
+- [cve](https://github.com/trickest/cve) ★7378
   - Gather and update all available and newest CVEs with their PoC.
   - Created: 2022-01-31  Updated: 2025-11-19  ![License](https://img.shields.io/badge/license-mit-blue) `cve` `cve-poc` `exploit`
 
@@ -1028,7 +1028,7 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★178735
+- [vscode](https://github.com/microsoft/vscode) ★178736
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-11-19  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -1036,7 +1036,7 @@ Total Starred Repositories: 356
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-11-19  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★26986
+- [dokploy](https://github.com/Dokploy/dokploy) ★26987
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-11-19  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1172,7 +1172,7 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★207452
+- [linux](https://github.com/torvalds/linux) ★207457
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-11-19  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1242,7 +1242,7 @@ Total Starred Repositories: 356
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-07-24  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
-- [chevereto-free](https://github.com/rodber/chevereto-free) ★2788
+- [chevereto-free](https://github.com/rodber/chevereto-free) ★2789
   - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
   - Created: 2016-08-18  Updated: 2025-04-19  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `gallery` `image-host` `image-hosting`
 
@@ -1276,7 +1276,7 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★125818
+- [PowerToys](https://github.com/microsoft/PowerToys) ★125819
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2025-11-19  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1578,7 +1578,7 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★33282
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★33285
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-11-14  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1626,7 +1626,7 @@ Total Starred Repositories: 356
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★156777
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★156779
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-11-18  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
