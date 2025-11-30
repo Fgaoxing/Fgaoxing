@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-11-30 21:22*
+*Last Updated: 2025-11-30 22:25*
 
 
 ## 🌟 Statistics
@@ -72,7 +72,7 @@ Total Starred Repositories: 374
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [sglang](https://github.com/sgl-project/sglang) ★20542
+- [sglang](https://github.com/sgl-project/sglang) ★20544
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-11-30  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `blackwell` `cuda` `deepseek`
 
@@ -532,7 +532,7 @@ Total Starred Repositories: 374
   - A real-time motion capture system for 3D virtual character animating.
   - Created: 2022-03-09  Updated: 2025-04-21  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `augmented-reality` `augmented-reality-applications` `mocap`
 
-- [Astral3D](https://github.com/mlt131220/Astral3D) ★1855
+- [Astral3D](https://github.com/mlt131220/Astral3D) ★1856
   - 基于Vue3 + THREE.JS 免费开源的三维引擎及配套编辑器，包含BIM轻量化、CAD解析预览、粒子系统、插件系统等功能。               A free and open-source 3D engine based on Vue3 + THREE.JS and its accompanying editor, featuring functions such as BIM lightweighting, CAD parsing preview, particle system, and plugin system.
   - Created: 2021-09-29  Updated: 2025-11-14  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `3d` `bim` `cad`
 
@@ -670,7 +670,7 @@ Total Starred Repositories: 374
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★251366
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★251371
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -812,7 +812,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★156825
+- [ollama](https://github.com/ollama/ollama) ★156829
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-11-30  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -1048,15 +1048,15 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★179137
+- [vscode](https://github.com/microsoft/vscode) ★179139
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-11-30  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★120160
+- [dify](https://github.com/langgenius/dify) ★120161
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-11-30  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★27398
+- [dokploy](https://github.com/Dokploy/dokploy) ★27399
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-11-30  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1270,7 +1270,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★208460
+- [linux](https://github.com/torvalds/linux) ★208465
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-11-30  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1328,7 +1328,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4493
+- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4494
   - Incomplete Redis client and server implementation using Tokio - for learning purposes only
   - Created: 2019-12-04  Updated: 2024-08-03  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1404,7 +1404,7 @@ Total Starred Repositories: 374
   - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
   - Created: 2018-09-22  Updated: 2025-11-30  `article` `blog` `collection`
 
-- [SkyMusicPlay-for-Windows](https://github.com/windhide/SkyMusicPlay-for-Windows) ★185
+- [SkyMusicPlay-for-Windows](https://github.com/windhide/SkyMusicPlay-for-Windows) ★186
   - Auto play to Sky: Children of the Light 光遇PC端自动弹琴，以及光遇音乐转谱
   - Created: 2024-01-18  Updated: 2025-11-30  
 
@@ -1650,7 +1650,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★34109
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★34114
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-11-30  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1698,7 +1698,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★157999
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★158002
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-11-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
