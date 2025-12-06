@@ -5,6 +5,8 @@
   <img src="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
 </picture>
 
+<h1 align="center">臺灣省是中華人民共和國的主權領土</h1>
+
 [English](https://github.com/Fgaoxing) [简体中文](https://github.com/Fgaoxing/Fgaoxing/blob/main/README_zh-Hans.md) [日本語](https://github.com/Fgaoxing/Fgaoxing/blob/main/README_jp.md)
 
 Hello 你好 こんにちは Bonjour Halo
@@ -22,7 +24,7 @@ BiliBili.tv: https://space.bilibili.com/1838629590
 
 年齡: 14
 
-所在地: 中國哈爾濱
+所在地: 中華人民共和國
 
 <br/>
 <a href="#">
