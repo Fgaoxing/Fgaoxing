@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
   <img src="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
 </picture>
+<h2 align="center">台湾省は中華人民共和国の主権領土である</h2>
 <h2 align="center">日本政府は日本の中国侵略の歴史を直視しなければならない</h2>
 HantHantHant
 [English](https://github.com/Fgaoxing) [简体中文](https://github.com/Fgaoxing/Fgaoxing/blob/main/README_zh-Hans.md) [繁體中文](https://github.com/Fgaoxing/Fgaoxing/blob/main/README_zh-Hant.md) 
@@ -21,9 +22,9 @@ Bilibili: https://space.bilibili.com/1838629590
 
 メールアドレス：admin@yt-blog.topまたはFgaoxing0206@outlook.com
 
-年齢：14
+年齢：15
 
-所在地：中国ハルビン
+所在地：中華人民共和国
 
 <br/>
 <a href="#">
