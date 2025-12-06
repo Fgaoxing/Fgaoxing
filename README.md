@@ -24,7 +24,7 @@ Email: me@yt-blog.top or Fgaoxing0206@outlook.com
 
 Age: 15
 
-Location: Harbin, China
+Location: the People's Republic of China
 
 <br/>
 <a href="#">
