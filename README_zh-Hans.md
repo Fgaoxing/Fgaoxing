@@ -18,9 +18,9 @@ Hello 你好 こんにちは Bonjour Halo
 
 哔哩哔哩: https://space.bilibili.com/1838629590
 
-邮箱: admin@yt-blog.top or Fgaoxing0206@outlook.com
+邮箱: me@yt-blog.top or Fgaoxing0206@outlook.com
 
-年龄: 14
+年龄: 15
 
 所在地: 中华人民共和国
 
