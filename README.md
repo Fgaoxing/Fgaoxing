@@ -13,7 +13,6 @@ Hello 你好 こんにちは Bonjour Halo
 
 ### 👦About me
 <a href="#">
-  <img align="right" src="https://github-readme-stats.yt-blog.top/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile"  width="400px" />
   <img align="right" src="https://github.com/Fgaoxing/Fgaoxing/raw/main/myself/透明背景立绘.png" width="200px" />
 </a>
 
@@ -26,6 +25,12 @@ Email: me@yt-blog.top or Fgaoxing0206@outlook.com
 Age: 15
 
 Location: Harbin, China
+
+<br/>
+<a href="#">
+  <img align="left" src="https://github-readme-stats.yt-blog.top/api?username=Fgaoxing&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" width="400px" />
+  <a align="right" href="https://gitroll.io/profile/uoNxP5OUM55VQgAM69TK7Rr8W6u92" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uoNxP5OUM55VQgAM69TK7Rr8W6u92?theme=tokyoNight" alt="GitRoll Profile Badge" width="400px"/></a>
+</a>
 
 ### 🎚️Programming language used
 [![icon](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/) [![icon](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)](https://go.dev/)  [![icon](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/) ![icon](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000)
