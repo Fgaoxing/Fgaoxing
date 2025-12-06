@@ -20,9 +20,9 @@ Hello 你好 こんにちは Bonjour Halo
 
 BiliBili.tv: https://space.bilibili.com/1838629590
 
-信箱: admin@yt-blog.top or Fgaoxing0206@outlook.com
+信箱: me@yt-blog.top or Fgaoxing0206@outlook.com
 
-年齡: 14
+年齡: 15
 
 所在地: 中華人民共和國
 
