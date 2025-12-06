@@ -6,7 +6,7 @@
 </picture>
 <h2 align="center">台湾省は中華人民共和国の主権領土である</h2>
 <h2 align="center">日本政府は日本の中国侵略の歴史を直視しなければならない</h2>
-HantHantHant
+
 [English](https://github.com/Fgaoxing) [简体中文](https://github.com/Fgaoxing/Fgaoxing/blob/main/README_zh-Hans.md) [繁體中文](https://github.com/Fgaoxing/Fgaoxing/blob/main/README_zh-Hant.md) 
 
 Hello 你好 こんにちは Bonjour Halo
