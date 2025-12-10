@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-12-10 19:24*
+*Last Updated: 2025-12-10 20:33*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★378628
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★378630
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -520,7 +520,7 @@ Total Starred Repositories: 372
   - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
   - Created: 2020-01-08  Updated: 2025-02-27  `cjk` `font` `free`
 
-- [SysMocap](https://github.com/xianfei/SysMocap) ★2769
+- [SysMocap](https://github.com/xianfei/SysMocap) ★2770
   - A real-time motion capture system for 3D virtual character animating.
   - Created: 2022-03-09  Updated: 2025-04-21  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `augmented-reality` `augmented-reality-applications` `mocap`
 
@@ -662,7 +662,7 @@ Total Starred Repositories: 372
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★252266
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★252272
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -804,11 +804,11 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★157423
+- [ollama](https://github.com/ollama/ollama) ★157422
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★131337
+- [go](https://github.com/golang/go) ★131338
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1040,15 +1040,15 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★179486
+- [vscode](https://github.com/microsoft/vscode) ★179487
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★121101
+- [dify](https://github.com/langgenius/dify) ★121103
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★27822
+- [dokploy](https://github.com/Dokploy/dokploy) ★27823
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1254,7 +1254,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★210274
+- [linux](https://github.com/torvalds/linux) ★210279
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1642,7 +1642,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★34799
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★34804
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-12-07  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1680,7 +1680,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Dress](https://github.com/Cute-Dress/Dress) ★1858
+- [Dress](https://github.com/Cute-Dress/Dress) ★1859
   - 好耶 是女装 | 备份·接受PR
   - Created: 2023-01-28  Updated: 2025-11-09  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1690,7 +1690,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★159037
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★159042
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-11-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
