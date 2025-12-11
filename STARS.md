@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-12-11 21:29*
+*Last Updated: 2025-12-11 22:27*
 
 
 ## 🌟 Statistics
@@ -60,7 +60,7 @@ Total Starred Repositories: 372
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★48228
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★48227
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-06-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -306,7 +306,7 @@ Total Starred Repositories: 372
 
 ### 🍴 Forked repositories
 
-- [supermium](https://github.com/win32ss/supermium) ★3845
+- [supermium](https://github.com/win32ss/supermium) ★3846
   - Chromium fork for Windows XP/2003 and up
   - Created: 2023-05-09  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -508,7 +508,7 @@ Total Starred Repositories: 372
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-11-16  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
-- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★11556
+- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★11557
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2025-11-22  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
@@ -662,7 +662,7 @@ Total Starred Repositories: 372
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★252347
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★252350
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -828,7 +828,7 @@ Total Starred Repositories: 372
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★7807
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★7808
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -1040,15 +1040,15 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★179518
+- [vscode](https://github.com/microsoft/vscode) ★179519
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-12-11  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★121214
+- [dify](https://github.com/langgenius/dify) ★121215
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-12-11  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★27889
+- [dokploy](https://github.com/Dokploy/dokploy) ★27890
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1254,7 +1254,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★210421
+- [linux](https://github.com/torvalds/linux) ★210428
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-12-11  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1540,7 +1540,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★115928
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★115929
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1600,7 +1600,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★96414
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★96415
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-12-09  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1642,7 +1642,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★34856
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★34859
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-12-07  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1690,7 +1690,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★159143
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★159145
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-11-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1700,7 +1700,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★35846
+- [llvm-project](https://github.com/llvm/llvm-project) ★35847
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-12-11  ![License](https://img.shields.io/badge/license-other-blue)
 
