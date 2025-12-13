@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-12-13 04:32*
+*Last Updated: 2025-12-13 05:28*
 
 
 ## 🌟 Statistics
@@ -52,11 +52,11 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★378722
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★378721
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★100716
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★100717
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -68,7 +68,7 @@ Total Starred Repositories: 372
   - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2025-11-13  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★21242
+- [sglang](https://github.com/sgl-project/sglang) ★21243
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-12-13  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `blackwell` `cuda` `deepseek`
 
@@ -192,7 +192,7 @@ Total Starred Repositories: 372
   - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
   - Created: 2024-07-02  Updated: 2025-12-13  ![License](https://img.shields.io/badge/license-other-blue) `feed` `hexo` `html`
 
-- [Document-Parser-Agent](https://github.com/Micheliliuv87/Document-Parser-Agent) ★192
+- [Document-Parser-Agent](https://github.com/Micheliliuv87/Document-Parser-Agent) ★193
   - Document Parser AI-Agent Using OpenAI ChatGPT 4-o Model
   - Created: 2025-01-25  Updated: 2025-04-14  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -208,7 +208,7 @@ Total Starred Repositories: 372
   - 智音语音助手（Zhiyin_Butler）旨在开发一款通用型智能电脑管家，支持在桌面电脑Windows 10/11系统上安装和部署。项目的所有内容遵循Apache License 2.0开源协议，作为通用型电脑管家系统示例供开发者参考学习。
   - Created: 2024-05-30  Updated: 2024-11-11  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) ★154
+- [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) ★155
   - This is for getting data from public organizations/platforms
   - Created: 2025-01-23  Updated: 2025-10-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -662,11 +662,11 @@ Total Starred Repositories: 372
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★252421
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★252423
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [gfwlist](https://github.com/gfwlist/gfwlist) ★24853
+- [gfwlist](https://github.com/gfwlist/gfwlist) ★24854
   - The one and only one gfwlist here
   - Created: 2015-03-13  Updated: 2025-12-13  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `anticensorship` `censorship` `censorship-circumvention`
 
@@ -804,7 +804,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★157512
+- [ollama](https://github.com/ollama/ollama) ★157515
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-12-13  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -812,7 +812,7 @@ Total Starred Repositories: 372
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-12-13  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★23743
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★23744
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2025-11-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -828,7 +828,7 @@ Total Starred Repositories: 372
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2024-11-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★7811
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★7812
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2025-12-10  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -1040,15 +1040,15 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★179562
+- [vscode](https://github.com/microsoft/vscode) ★179563
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-12-13  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★121439
+- [dify](https://github.com/langgenius/dify) ★121448
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-12-13  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★27960
+- [dokploy](https://github.com/Dokploy/dokploy) ★27961
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-12-12  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1254,7 +1254,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★210558
+- [linux](https://github.com/torvalds/linux) ★210561
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-12-13  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1418,7 +1418,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32193
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32196
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2025-10-23  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1430,7 +1430,7 @@ Total Starred Repositories: 372
   - ✨ 鱼皮的新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统，很适合想进阶前端的朋友学习
   - Created: 2022-07-16  Updated: 2024-03-23  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backend` `css` `frontend`
 
-- [twikoo](https://github.com/twikoojs/twikoo) ★2030
+- [twikoo](https://github.com/twikoojs/twikoo) ★2031
   - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
   - Created: 2020-05-24  Updated: 2025-12-02  ![License](https://img.shields.io/badge/license-mit-blue) `cloudbase` `comment` `comment-system`
 
@@ -1438,7 +1438,7 @@ Total Starred Repositories: 372
   - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
   - Created: 2025-03-21  Updated: 2025-12-11  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `ech0` `fediverse` `go`
 
-- [lumen](https://github.com/s-theo/lumen) ★484
+- [lumen](https://github.com/s-theo/lumen) ★485
   - ✨ 专为 VitePress 打造的主题美化与 Vue 扩展组件库
   - Created: 2024-05-10  Updated: 2025-12-12  ![License](https://img.shields.io/badge/license-mit-blue) `analytics` `card` `comment`
 
@@ -1474,7 +1474,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★126438
+- [PowerToys](https://github.com/microsoft/PowerToys) ★126440
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2025-12-13  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1690,7 +1690,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★159262
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★159263
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-12-12  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
