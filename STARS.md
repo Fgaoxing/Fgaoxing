@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-12-21 19:21*
+*Last Updated: 2025-12-21 20:28*
 
 
 ## 🌟 Statistics
@@ -52,7 +52,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★379143
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★379145
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-12-16  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -64,7 +64,7 @@ Total Starred Repositories: 372
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-12-14  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
-- [MockingBird](https://github.com/babysor/MockingBird) ★36825
+- [MockingBird](https://github.com/babysor/MockingBird) ★36826
   - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2025-11-13  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
@@ -108,7 +108,7 @@ Total Starred Repositories: 372
   - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]
   - Created: 2024-08-12  Updated: 2025-10-06  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `d-fine` `detr` `object-detection`
 
-- [CS-Ebook](https://github.com/lining808/CS-Ebook) ★2323
+- [CS-Ebook](https://github.com/lining808/CS-Ebook) ★2324
   - 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
   - Created: 2023-03-25  Updated: 2025-10-24  `ai` `computer-science` `data-science`
 
@@ -662,7 +662,7 @@ Total Starred Repositories: 372
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★253115
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★253119
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -804,11 +804,11 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★158004
+- [ollama](https://github.com/ollama/ollama) ★158007
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-12-21  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★131530
+- [go](https://github.com/golang/go) ★131531
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-12-20  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1040,15 +1040,15 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★179869
+- [vscode](https://github.com/microsoft/vscode) ★179870
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-12-21  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★122330
+- [dify](https://github.com/langgenius/dify) ★122331
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-12-21  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★28305
+- [dokploy](https://github.com/Dokploy/dokploy) ★28309
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-12-21  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1134,7 +1134,7 @@ Total Starred Repositories: 372
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12754
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12755
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1220,7 +1220,7 @@ Total Starred Repositories: 372
   - 包含海量课程各类it学习视频教程，最新版，持续更新，java视频教程，python视频教程，go视频教程,C,C++,C#视频教程,前端，数据库，大数据，人工智能视频教程，AIGC视频教程，ChatGPT，软件测试视频教程，网络安全/逆向视频教程，鸿蒙应用开发，Android等学习课程分享。
   - Created: 2023-12-29  Updated: 2025-04-22  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [aibotgo](https://github.com/shengdingbox/aibotgo) ★341
+- [aibotgo](https://github.com/shengdingbox/aibotgo) ★342
   - 🚀 AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
   - Created: 2024-09-09  Updated: 2025-12-05  
 
@@ -1254,7 +1254,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★211375
+- [linux](https://github.com/torvalds/linux) ★211377
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-12-21  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1264,7 +1264,7 @@ Total Starred Repositories: 372
 
 - [cmark](https://github.com/commonmark/cmark) ★1880
   - CommonMark parsing and rendering library and program in C
-  - Created: 2015-01-25  Updated: 2025-12-15  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2015-01-25  Updated: 2025-12-21  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [libcsp](https://github.com/shiyanhui/libcsp) ★1345
   - A concurrency C library 10x faster than Golang.
@@ -1418,7 +1418,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32270
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32271
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2025-10-23  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1474,7 +1474,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★126654
+- [PowerToys](https://github.com/microsoft/PowerToys) ★126655
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2025-12-21  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1642,7 +1642,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★36205
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★36206
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-12-21  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1690,7 +1690,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★160047
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★160051
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-12-12  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
