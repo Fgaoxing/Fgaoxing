@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-12-23 18:40*
+*Last Updated: 2025-12-23 19:23*
 
 
 ## 🌟 Statistics
@@ -52,11 +52,11 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★379242
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★379243
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-12-16  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★100811
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★100812
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -68,7 +68,7 @@ Total Starred Repositories: 372
   - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2025-11-13  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★21921
+- [sglang](https://github.com/sgl-project/sglang) ★21922
   - SGLang is a fast serving framework for large language models and vision language models.
   - Created: 2024-01-08  Updated: 2025-12-23  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `blackwell` `cuda` `deepseek`
 
@@ -662,7 +662,7 @@ Total Starred Repositories: 372
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★253293
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★253298
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -804,19 +804,19 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★158123
+- [ollama](https://github.com/ollama/ollama) ★158124
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-12-23  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★131563
+- [go](https://github.com/golang/go) ★131564
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-12-23  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★23909
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★23910
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2025-12-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★19679
+- [SafeLine](https://github.com/chaitin/SafeLine) ★19680
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-11-05  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -1044,15 +1044,15 @@ Total Starred Repositories: 372
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-12-23  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★122573
+- [dify](https://github.com/langgenius/dify) ★122584
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-12-23  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★28364
+- [dokploy](https://github.com/Dokploy/dokploy) ★28366
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2025-12-23  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★26143
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★26144
   - The most advanced free and open-source browser fingerprinting library
   - Created: 2015-02-11  Updated: 2025-12-07  ![License](https://img.shields.io/badge/license-mit-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
@@ -1134,7 +1134,7 @@ Total Starred Repositories: 372
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12757
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12756
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1254,11 +1254,11 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★211550
+- [linux](https://github.com/torvalds/linux) ★211554
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-12-22  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [tinycc](https://github.com/TinyCC/tinycc) ★2633
+- [tinycc](https://github.com/TinyCC/tinycc) ★2634
   - Unofficial mirror of mob development branch
   - Created: 2016-04-03  Updated: 2025-12-23  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `c` `compiler` `jit`
 
@@ -1474,7 +1474,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★126739
+- [PowerToys](https://github.com/microsoft/PowerToys) ★126741
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2025-12-23  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1642,7 +1642,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★36362
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★36364
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-12-23  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1690,7 +1690,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★160264
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★160269
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-12-12  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1700,7 +1700,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★36061
+- [llvm-project](https://github.com/llvm/llvm-project) ★36062
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2025-12-23  ![License](https://img.shields.io/badge/license-other-blue)
 
