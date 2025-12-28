@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2025-12-28 12:54*
+*Last Updated: 2025-12-28 13:34*
 
 
 ## 🌟 Statistics
@@ -52,11 +52,11 @@ Total Starred Repositories: 373
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★379426
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★379430
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2025-12-16  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★100868
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★100869
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -68,7 +68,7 @@ Total Starred Repositories: 373
   - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2025-11-13  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★22031
+- [sglang](https://github.com/sgl-project/sglang) ★22032
   - SGLang is a fast serving framework for large language models and multi-modality models.
   - Created: 2024-01-08  Updated: 2025-12-28  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `blackwell` `cuda` `deepseek`
 
@@ -174,7 +174,7 @@ Total Starred Repositories: 373
 
 - [h1_asset](https://github.com/adysec/h1_asset) ★317
   - HackerOne资产更新 | 每日更新HackerOne资产，对HackerOne的资产进行爬行和整理，SRC资产更新仅会增加，不会进行删除，每天更新的可以进行差异化对比来获取到新的项目资产范围
-  - Created: 2024-06-06  Updated: 2025-12-27  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `daily` `daily-tasks` `hackerone`
+  - Created: 2024-06-06  Updated: 2025-12-28  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `daily` `daily-tasks` `hackerone`
 
 - [llama-github](https://github.com/JetXu-LLM/llama-github) ★316
   - Llama-github is an open-source Python library that empowers LLM Chatbots, AI Agents, and Auto-dev Solutions to conduct Agentic RAG from actively selected GitHub public projects. It Augments through LLMs and Generates context for any coding question, in order to streamline the development of sophisticated AI-driven applications.
@@ -196,7 +196,7 @@ Total Starred Repositories: 373
   - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
   - Created: 2024-07-02  Updated: 2025-12-28  ![License](https://img.shields.io/badge/license-other-blue) `feed` `hexo` `html`
 
-- [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) ★193
+- [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) ★194
   - This is for getting data from public organizations/platforms
   - Created: 2025-01-23  Updated: 2025-10-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -662,7 +662,7 @@ Total Starred Repositories: 373
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★253774
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★253776
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -804,11 +804,11 @@ Total Starred Repositories: 373
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★158370
+- [ollama](https://github.com/ollama/ollama) ★158369
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2025-12-24  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★131627
+- [go](https://github.com/golang/go) ★131628
   - The Go programming language
   - Created: 2014-08-19  Updated: 2025-12-27  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1040,11 +1040,11 @@ Total Starred Repositories: 373
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★180079
+- [vscode](https://github.com/microsoft/vscode) ★180081
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2025-12-28  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★123855
+- [dify](https://github.com/langgenius/dify) ★123859
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2025-12-28  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1196,7 +1196,7 @@ Total Starred Repositories: 373
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★211961
+- [linux](https://github.com/torvalds/linux) ★211965
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2025-12-27  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1370,7 +1370,7 @@ Total Starred Repositories: 373
   - Halo 版本的樱花🌸主题
   - Created: 2020-05-31  Updated: 2025-12-25  ![License](https://img.shields.io/badge/license-mit-blue) `blog` `freemarker` `halo`
 
-- [homepage](https://github.com/ZYYO666/homepage) ★738
+- [homepage](https://github.com/ZYYO666/homepage) ★739
   - 我的个人主页，homepage,个人引导页,简约主页,个人导航
   - Created: 2024-01-11  Updated: 2025-02-08  
 
@@ -1456,7 +1456,7 @@ Total Starred Repositories: 373
   - 🏪 One component to pick them all
   - Created: 2016-07-11  Updated: 2024-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `component` `emoji` `emoji-picker`
 
-- [fiora](https://github.com/yinxin630/fiora) ★7102
+- [fiora](https://github.com/yinxin630/fiora) ★7103
   - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
   - Created: 2016-02-15  Updated: 2024-02-27  ![License](https://img.shields.io/badge/license-mit-blue) `chat` `chatroom` `fiora`
 
@@ -1490,7 +1490,7 @@ Total Starred Repositories: 373
   - Driver Store Explorer
   - Created: 2016-06-15  Updated: 2025-12-09  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
-- [Malware-Patch](https://github.com/the1812/Malware-Patch) ★5342
+- [Malware-Patch](https://github.com/the1812/Malware-Patch) ★5343
   - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
   - Created: 2018-05-16  Updated: 2024-12-21  ![License](https://img.shields.io/badge/license-mit-blue) `csharp` `malware-protection` `uac-authorization`
 
@@ -1646,7 +1646,7 @@ Total Starred Repositories: 373
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★36668
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★36670
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-12-27  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1694,7 +1694,7 @@ Total Starred Repositories: 373
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★160698
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★160702
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-12-12  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
