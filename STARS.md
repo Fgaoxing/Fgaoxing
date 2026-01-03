@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-01-03 08:35*
+*Last Updated: 2026-01-03 09:28*
 
 
 ## 🌟 Statistics
@@ -52,11 +52,11 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★379801
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★379807
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-01-01  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [dify](https://github.com/langgenius/dify) ★124431
+- [dify](https://github.com/langgenius/dify) ★124434
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-01-02  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -72,11 +72,11 @@ Total Starred Repositories: 372
   - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2025-11-13  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★22093
+- [sglang](https://github.com/sgl-project/sglang) ★22094
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-01-03  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★20727
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★20728
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
@@ -112,7 +112,7 @@ Total Starred Repositories: 372
   - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]
   - Created: 2024-08-12  Updated: 2025-10-06  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `d-fine` `detr` `object-detection`
 
-- [CS-Ebook](https://github.com/lining808/CS-Ebook) ★2413
+- [CS-Ebook](https://github.com/lining808/CS-Ebook) ★2414
   - 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
   - Created: 2023-03-25  Updated: 2025-10-24  `ai` `computer-science` `data-science`
 
@@ -124,7 +124,7 @@ Total Starred Repositories: 372
   - weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883
   - Created: 2020-01-15  Updated: 2023-11-24  `cve-2016-0638` `cve-2016-3510` `cve-2017-10271`
 
-- [LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) ★1635
+- [LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) ★1636
   - 针对 LiteLoaderQQNT 的安装脚本
   - Created: 2024-01-21  Updated: 2025-08-13  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -508,7 +508,7 @@ Total Starred Repositories: 372
   - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
   - Created: 2020-09-29  Updated: 2025-12-31  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `dev-sidecar` `dns-ip` `electron`
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★19998
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★19999
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-11-16  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
@@ -666,7 +666,7 @@ Total Starred Repositories: 372
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★254365
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★254369
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -808,15 +808,15 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★158690
+- [ollama](https://github.com/ollama/ollama) ★158692
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2026-01-03  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★131720
+- [go](https://github.com/golang/go) ★131722
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-01-03  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★24044
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★24046
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2025-12-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -828,7 +828,7 @@ Total Starred Repositories: 372
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-12-27  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9742
+- [pq](https://github.com/lib/pq) ★9743
   - Pure Go Postgres driver for database/sql
   - Created: 2012-03-12  Updated: 2026-01-03  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1044,7 +1044,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★180274
+- [vscode](https://github.com/microsoft/vscode) ★180275
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-01-03  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -1138,7 +1138,7 @@ Total Starred Repositories: 372
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
-- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★7154
+- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★7155
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-07-24  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
@@ -1196,7 +1196,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★212428
+- [linux](https://github.com/torvalds/linux) ★212429
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-01-02  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1282,7 +1282,7 @@ Total Starred Repositories: 372
   - 包含海量课程各类it学习视频教程，最新版，持续更新，java视频教程，python视频教程，go视频教程,C,C++,C#视频教程,前端，数据库，大数据，人工智能视频教程，AIGC视频教程，ChatGPT，软件测试视频教程，网络安全/逆向视频教程，鸿蒙应用开发，Android等学习课程分享。
   - Created: 2023-12-29  Updated: 2025-04-22  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [aibotgo](https://github.com/shengdingbox/aibotgo) ★365
+- [aibotgo](https://github.com/shengdingbox/aibotgo) ★366
   - 🚀 AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
   - Created: 2024-09-09  Updated: 2025-12-05  
 
@@ -1418,7 +1418,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32355
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32356
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2025-10-23  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1434,7 +1434,7 @@ Total Starred Repositories: 372
   - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
   - Created: 2020-05-24  Updated: 2025-12-02  ![License](https://img.shields.io/badge/license-mit-blue) `cloudbase` `comment` `comment-system`
 
-- [Ech0](https://github.com/lin-snow/Ech0) ★1668
+- [Ech0](https://github.com/lin-snow/Ech0) ★1669
   - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
   - Created: 2025-03-21  Updated: 2025-12-28  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `ech0` `fediverse` `go`
 
@@ -1474,7 +1474,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★127010
+- [PowerToys](https://github.com/microsoft/PowerToys) ★127013
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2025-12-31  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1600,7 +1600,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★96783
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★96782
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2025-12-09  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1642,7 +1642,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★37018
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★37021
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2025-12-29  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1690,7 +1690,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★161222
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★161226
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-12-12  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1700,7 +1700,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★36219
+- [llvm-project](https://github.com/llvm/llvm-project) ★36222
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-01-03  ![License](https://img.shields.io/badge/license-other-blue)
 
