@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-01-08 21:29*
+*Last Updated: 2026-01-08 22:29*
 
 
 ## 🌟 Statistics
@@ -52,11 +52,11 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★380157
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★380158
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-01-05  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [dify](https://github.com/langgenius/dify) ★125218
+- [dify](https://github.com/langgenius/dify) ★125221
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-01-08  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -132,7 +132,7 @@ Total Starred Repositories: 372
   - 这个仓库有1426个star，不信你试试
   - Created: 2022-06-14  Updated: 2022-09-13  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) ★976
+- [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) ★978
   - :fire: The Python library for PDF forms.
   - Created: 2020-10-28  Updated: 2026-01-08  ![License](https://img.shields.io/badge/license-mit-blue) `pdf` `pdf-document` `pdf-document-processor`
 
@@ -588,7 +588,7 @@ Total Starred Repositories: 372
   - 这是一个追求轻量的面向浏览器开发的富文本编辑器！
   - Created: 2023-09-24  Updated: 2024-05-08  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `broswer` `editor` `rich-text`
 
-- [pandown-js](https://github.com/Fgaoxing/pandown-js) ★17
+- [pandown-js](https://github.com/Fgaoxing/pandown-js) ★16
   - 为网盘提供下载链接按钮
   - Created: 2022-05-04  Updated: 2024-04-17  
 
@@ -666,7 +666,7 @@ Total Starred Repositories: 372
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★255057
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★255068
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -808,7 +808,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★159043
+- [ollama](https://github.com/ollama/ollama) ★159044
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2026-01-08  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -824,7 +824,7 @@ Total Starred Repositories: 372
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-11-05  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★11030
+- [gnet](https://github.com/panjf2000/gnet) ★11029
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2025-12-27  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
@@ -1044,11 +1044,11 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★180465
+- [vscode](https://github.com/microsoft/vscode) ★180463
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-01-08  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★28858
+- [dokploy](https://github.com/Dokploy/dokploy) ★28860
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-01-06  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1134,7 +1134,7 @@ Total Starred Repositories: 372
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12791
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12790
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1196,7 +1196,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★212877
+- [linux](https://github.com/torvalds/linux) ★212878
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-01-08  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1642,7 +1642,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★37369
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★37372
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-01-04  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
