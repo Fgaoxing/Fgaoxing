@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-01-09 18:42*
+*Last Updated: 2026-01-09 19:26*
 
 
 ## 🌟 Statistics
@@ -51,11 +51,11 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★380170
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★380172
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-01-05  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [dify](https://github.com/langgenius/dify) ★125317
+- [dify](https://github.com/langgenius/dify) ★125318
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-01-09  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -67,7 +67,7 @@ Total Starred Repositories: 372
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-12-14  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
-- [MockingBird](https://github.com/babysor/MockingBird) ★36841
+- [MockingBird](https://github.com/babysor/MockingBird) ★36842
   - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-01-07  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
@@ -511,7 +511,7 @@ Total Starred Repositories: 372
   - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
   - Created: 2020-09-29  Updated: 2026-01-06  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `dev-sidecar` `dns-ip` `electron`
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★20072
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★20073
   - 哔哩哔哩-API收集整理【不断更新中....】
   - Created: 2020-03-04  Updated: 2025-11-16  ![License](https://img.shields.io/badge/license-other-blue) `api` `bilibili` `bilibili-api`
 
@@ -669,7 +669,7 @@ Total Starred Repositories: 372
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★255135
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★255140
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -815,7 +815,7 @@ Total Starred Repositories: 372
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2026-01-09  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★131847
+- [go](https://github.com/golang/go) ★131849
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-01-09  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -823,7 +823,7 @@ Total Starred Repositories: 372
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2025-12-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★19997
+- [SafeLine](https://github.com/chaitin/SafeLine) ★19998
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-11-05  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -1047,11 +1047,11 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★180483
+- [vscode](https://github.com/microsoft/vscode) ★180484
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-01-09  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★28879
+- [dokploy](https://github.com/Dokploy/dokploy) ★28880
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-01-06  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1199,7 +1199,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★212945
+- [linux](https://github.com/torvalds/linux) ★212946
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-01-09  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1277,7 +1277,7 @@ Total Starred Repositories: 372
   - 【脚手架】基于 SpringCloud Alibaba Dubbo 二开封装
   - Created: 2019-08-15  Updated: 2024-09-17  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [online-exam-system-backend](https://github.com/Alanosy/online-exam-system-backend) ★840
+- [online-exam-system-backend](https://github.com/Alanosy/online-exam-system-backend) ★841
   - 在线考试系统,springboot+vue
   - Created: 2024-06-01  Updated: 2025-10-04  ![License](https://img.shields.io/badge/license-mit-blue) `java` `springboot`
 
@@ -1315,7 +1315,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4536
+- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4537
   - Incomplete Redis client and server implementation using Tokio - for learning purposes only
   - Created: 2019-12-04  Updated: 2024-08-03  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1395,7 +1395,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32401
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32402
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2025-10-23  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1451,7 +1451,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★127754
+- [PowerToys](https://github.com/microsoft/PowerToys) ★127756
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2026-01-09  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1603,7 +1603,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★96959
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★96961
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2026-01-05  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1645,7 +1645,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★37410
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★37411
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-01-04  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1693,7 +1693,7 @@ Total Starred Repositories: 372
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★161903
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★161902
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2025-12-12  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
