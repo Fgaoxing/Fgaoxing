@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-01-15 19:31*
+*Last Updated: 2026-01-15 20:34*
 
 
 ## 🌟 Statistics
@@ -59,7 +59,7 @@ Total Starred Repositories: 370
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-01-15  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101109
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101110
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -131,7 +131,7 @@ Total Starred Repositories: 370
   - 这个仓库有1426个star，不信你试试
   - Created: 2022-06-14  Updated: 2022-09-13  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) ★1071
+- [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) ★1073
   - :fire: The Python library for PDF forms.
   - Created: 2020-10-28  Updated: 2026-01-13  ![License](https://img.shields.io/badge/license-mit-blue) `pdf` `pdf-document` `pdf-document-processor`
 
@@ -665,7 +665,7 @@ Total Starred Repositories: 370
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★255739
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★255744
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -811,11 +811,11 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★159514
+- [ollama](https://github.com/ollama/ollama) ★159520
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2026-01-15  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★131964
+- [go](https://github.com/golang/go) ★131965
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-01-15  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1047,11 +1047,11 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★180694
+- [vscode](https://github.com/microsoft/vscode) ★180697
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-01-15  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★29065
+- [dokploy](https://github.com/Dokploy/dokploy) ★29068
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-01-15  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1199,9 +1199,9 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★214275
+- [linux](https://github.com/torvalds/linux) ★214281
   - Linux kernel source tree
-  - Created: 2011-09-04  Updated: 2026-01-14  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2011-09-04  Updated: 2026-01-15  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [btrfs](https://github.com/maharmstone/btrfs) ★7113
   - WinBtrfs - an open-source btrfs driver for Windows
@@ -1443,7 +1443,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★127956
+- [PowerToys](https://github.com/microsoft/PowerToys) ★127958
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2026-01-15  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1595,7 +1595,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★97064
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★97063
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2026-01-05  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1637,7 +1637,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★37872
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★37873
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-01-04  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1685,7 +1685,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★162692
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★162695
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-01-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
