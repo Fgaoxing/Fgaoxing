@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-01-22 22:31*
+*Last Updated: 2026-01-22 23:28*
 
 
 ## 🌟 Statistics
@@ -51,15 +51,15 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★380918
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★380917
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-01-05  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101258
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101260
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★49100
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★49101
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-12-14  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -661,7 +661,7 @@ Total Starred Repositories: 370
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★256354
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★256359
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -673,7 +673,7 @@ Total Starred Repositories: 370
   - :books: 极客时间电子书
   - Created: 2023-01-26  Updated: 2023-01-26  
 
-- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★12719
+- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★12720
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2026-01-20  
 
@@ -929,11 +929,11 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★160247
+- [ollama](https://github.com/ollama/ollama) ★160250
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2026-01-22  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★132063
+- [go](https://github.com/golang/go) ★132064
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-01-22  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -965,7 +965,7 @@ Total Starred Repositories: 370
   - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
   - Created: 2018-07-04  Updated: 2026-01-20  ![License](https://img.shields.io/badge/license-mit-blue) `go` `golang` `middleware`
 
-- [nosurf](https://github.com/justinas/nosurf) ★1724
+- [nosurf](https://github.com/justinas/nosurf) ★1725
   - CSRF protection middleware for Go.
   - Created: 2013-08-22  Updated: 2025-05-13  ![License](https://img.shields.io/badge/license-mit-blue) `csrf` `go` `middleware`
 
@@ -1051,7 +1051,7 @@ Total Starred Repositories: 370
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-01-22  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★126893
+- [dify](https://github.com/langgenius/dify) ★126894
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-01-22  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1203,11 +1203,11 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★214955
+- [linux](https://github.com/torvalds/linux) ★214957
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-01-22  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [btrfs](https://github.com/maharmstone/btrfs) ★7144
+- [btrfs](https://github.com/maharmstone/btrfs) ★7145
   - WinBtrfs - an open-source btrfs driver for Windows
   - Created: 2016-02-21  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-lgpl-3.0-blue) `btrfs` `windows`
 
@@ -1447,7 +1447,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★128234
+- [PowerToys](https://github.com/microsoft/PowerToys) ★128236
   - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
   - Created: 2019-05-01  Updated: 2026-01-22  ![License](https://img.shields.io/badge/license-mit-blue) `color-picker` `command-palette` `desktop`
 
@@ -1629,7 +1629,7 @@ Total Starred Repositories: 370
 
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★38217
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-  - Created: 2020-10-27  Updated: 2026-01-18  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
+  - Created: 2020-10-27  Updated: 2026-01-22  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
 - [NinjaCopy](https://github.com/3gstudent/NinjaCopy) ★62
   - Powershell to copy ntds.dit
@@ -1675,7 +1675,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★163451
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★163453
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-01-16  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1685,7 +1685,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★97269
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★97270
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2026-01-19  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
