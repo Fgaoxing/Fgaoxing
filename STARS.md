@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-01-23 22:26*
+*Last Updated: 2026-01-23 23:28*
 
 
 ## 🌟 Statistics
@@ -55,11 +55,11 @@ Total Starred Repositories: 370
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-01-05  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101277
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101278
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★49128
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★49129
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-12-14  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -661,7 +661,7 @@ Total Starred Repositories: 370
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★256447
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★256449
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -811,7 +811,7 @@ Total Starred Repositories: 370
   - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
   - Created: 2022-11-11  Updated: 2024-12-10  ![License](https://img.shields.io/badge/license-ofl-1.1-blue) `cjk` `cjk-font` `font`
 
-- [cve](https://github.com/trickest/cve) ★7505
+- [cve](https://github.com/trickest/cve) ★7506
   - Gather and update all available and newest CVEs with their PoC.
   - Created: 2022-01-31  Updated: 2026-01-23  ![License](https://img.shields.io/badge/license-mit-blue) `cve` `cve-poc` `exploit`
 
@@ -929,7 +929,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★160353
+- [ollama](https://github.com/ollama/ollama) ★160357
   - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
   - Created: 2023-06-26  Updated: 2026-01-23  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -941,7 +941,7 @@ Total Starred Repositories: 370
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2025-12-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★20233
+- [SafeLine](https://github.com/chaitin/SafeLine) ★20234
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-11-05  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -1047,7 +1047,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★180959
+- [vscode](https://github.com/microsoft/vscode) ★180958
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-01-23  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -1055,7 +1055,7 @@ Total Starred Repositories: 370
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-01-23  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★29387
+- [dokploy](https://github.com/Dokploy/dokploy) ★29388
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-01-21  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1141,7 +1141,7 @@ Total Starred Repositories: 370
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12820
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12821
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1203,11 +1203,11 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★215040
+- [linux](https://github.com/torvalds/linux) ★215041
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-01-23  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [btrfs](https://github.com/maharmstone/btrfs) ★7151
+- [btrfs](https://github.com/maharmstone/btrfs) ★7152
   - WinBtrfs - an open-source btrfs driver for Windows
   - Created: 2016-02-21  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-lgpl-3.0-blue) `btrfs` `windows`
 
@@ -1391,7 +1391,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32500
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32501
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2026-01-18  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1539,7 +1539,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★116203
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★116201
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1627,7 +1627,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★38272
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★38276
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-01-22  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1675,7 +1675,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★163546
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★163549
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-01-16  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1695,7 +1695,7 @@ Total Starred Repositories: 370
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★36601
+- [llvm-project](https://github.com/llvm/llvm-project) ★36602
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-01-23  ![License](https://img.shields.io/badge/license-other-blue)
 
