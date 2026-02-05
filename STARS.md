@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-02-05 16:59*
+*Last Updated: 2026-02-05 17:57*
 
 
 ## 🌟 Statistics
@@ -51,11 +51,11 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★382159
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★382160
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-02-01  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101457
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101458
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -67,7 +67,7 @@ Total Starred Repositories: 374
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-01-07  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★23325
+- [sglang](https://github.com/sgl-project/sglang) ★23330
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
@@ -103,7 +103,7 @@ Total Starred Repositories: 374
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-07-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [D-FINE](https://github.com/Peterande/D-FINE) ★3004
+- [D-FINE](https://github.com/Peterande/D-FINE) ★3005
   - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]
   - Created: 2024-08-12  Updated: 2026-01-05  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `d-fine` `detr` `object-detection`
 
@@ -507,7 +507,7 @@ Total Starred Repositories: 374
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2026-01-24  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
-- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★7067
+- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★7068
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
   - Created: 2023-05-27  Updated: 2025-12-04  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -657,7 +657,7 @@ Total Starred Repositories: 374
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★257665
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★257672
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -803,11 +803,11 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★161817
+- [ollama](https://github.com/ollama/ollama) ★161822
   - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★132296
+- [go](https://github.com/golang/go) ★132297
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -827,7 +827,7 @@ Total Starred Repositories: 374
   - Go PostgreSQL driver for database/sql
   - Created: 2012-03-12  Updated: 2026-01-29  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★8063
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★8064
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2026-02-01  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
@@ -1047,15 +1047,15 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★181417
+- [vscode](https://github.com/microsoft/vscode) ★181423
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★128804
+- [dify](https://github.com/langgenius/dify) ★128806
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★29892
+- [dokploy](https://github.com/Dokploy/dokploy) ★29894
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1219,19 +1219,19 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★216368
+- [linux](https://github.com/torvalds/linux) ★216372
   - Linux kernel source tree
-  - Created: 2011-09-04  Updated: 2026-02-04  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2011-09-04  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [btrfs](https://github.com/maharmstone/btrfs) ★7188
   - WinBtrfs - an open-source btrfs driver for Windows
   - Created: 2016-02-21  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-lgpl-3.0-blue) `btrfs` `windows`
 
-- [tinycc](https://github.com/TinyCC/tinycc) ★2718
+- [tinycc](https://github.com/TinyCC/tinycc) ★2719
   - Unofficial mirror of mob development branch
   - Created: 2016-04-03  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `c` `compiler` `jit`
 
-- [cmark](https://github.com/commonmark/cmark) ★1918
+- [cmark](https://github.com/commonmark/cmark) ★1919
   - CommonMark parsing and rendering library and program in C
   - Created: 2015-01-25  Updated: 2025-12-21  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1433,7 +1433,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★129043
+- [PowerToys](https://github.com/microsoft/PowerToys) ★129045
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1537,7 +1537,7 @@ Total Starred Repositories: 374
   - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
   - Created: 2018-05-26  Updated: 2026-02-03  `deep-web` `digital-certificate` `fq-book`
 
-- [Trellis](https://github.com/mindfold-ai/Trellis) ★1823
+- [Trellis](https://github.com/mindfold-ai/Trellis) ★1826
   - All-in-one AI framework & toolkit for Claude Code & Cursor
   - Created: 2026-01-26  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `ai-agent` `ai-coding` `claude-code`
 
@@ -1643,7 +1643,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★38954
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★38955
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-02-04  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1691,7 +1691,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★165009
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★165014
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-02-01  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1701,7 +1701,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★97692
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★97691
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2026-01-19  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1711,7 +1711,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★36796
+- [llvm-project](https://github.com/llvm/llvm-project) ★36795
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-other-blue)
 
