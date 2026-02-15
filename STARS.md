@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-02-15 16:40*
+*Last Updated: 2026-02-15 17:32*
 
 
 ## 🌟 Statistics
@@ -67,7 +67,7 @@ Total Starred Repositories: 374
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-01-07  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★23533
+- [sglang](https://github.com/sgl-project/sglang) ★23534
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-02-15  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
@@ -75,7 +75,7 @@ Total Starred Repositories: 374
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [stock](https://github.com/myhhub/stock) ★11580
+- [stock](https://github.com/myhhub/stock) ★11581
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
@@ -305,7 +305,7 @@ Total Starred Repositories: 374
 
 ### 🍴 Forked repositories
 
-- [supermium](https://github.com/win32ss/supermium) ★4076
+- [supermium](https://github.com/win32ss/supermium) ★4077
   - Chromium fork for Windows XP/2003 and up
   - Created: 2023-05-09  Updated: 2026-02-14  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -523,7 +523,7 @@ Total Starred Repositories: 374
   - A real-time motion capture system for 3D virtual character animating.
   - Created: 2022-03-09  Updated: 2025-04-21  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `augmented-reality` `augmented-reality-applications` `mocap`
 
-- [Astral3D](https://github.com/mlt131220/Astral3D) ★2134
+- [Astral3D](https://github.com/mlt131220/Astral3D) ★2135
   - 基于Vue3 + THREE.JS 免费开源的三维引擎及配套编辑器，包含BIM轻量化、CAD解析预览、粒子系统、插件系统等功能。               A free and open-source 3D engine based on Vue3 + THREE.JS and its accompanying editor, featuring functions such as BIM lightweighting, CAD parsing preview, particle system, and plugin system.
   - Created: 2021-09-29  Updated: 2026-02-05  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `3d` `bim` `cad`
 
@@ -661,7 +661,7 @@ Total Starred Repositories: 374
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★258362
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★258364
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -807,11 +807,11 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★162648
+- [ollama](https://github.com/ollama/ollama) ★162649
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-02-14  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★132479
+- [go](https://github.com/golang/go) ★132480
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-02-15  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1055,15 +1055,15 @@ Total Starred Repositories: 374
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-02-15  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★129643
+- [dify](https://github.com/langgenius/dify) ★129646
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-02-15  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★30424
+- [dokploy](https://github.com/Dokploy/dokploy) ★30428
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-02-13  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★26479
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★26480
   - The most advanced free and open-source browser fingerprinting library
   - Created: 2015-02-11  Updated: 2026-02-07  ![License](https://img.shields.io/badge/license-mit-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
@@ -1153,7 +1153,7 @@ Total Starred Repositories: 374
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★20404
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★20403
   - No description
   - Created: 2020-03-04  Updated: 2026-01-30  ![Archived](https://img.shields.io/badge/-Archived-red)
 
@@ -1223,9 +1223,9 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★217425
+- [linux](https://github.com/torvalds/linux) ★217428
   - Linux kernel source tree
-  - Created: 2011-09-04  Updated: 2026-02-14  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2011-09-04  Updated: 2026-02-15  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [btrfs](https://github.com/maharmstone/btrfs) ★7225
   - WinBtrfs - an open-source btrfs driver for Windows
@@ -1289,7 +1289,7 @@ Total Starred Repositories: 374
   - A server software reimplementation for a certain anime game.
   - Created: 2022-04-17  Updated: 2025-04-27  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `java` `kcp` `private-server`
 
-- [Awesome-POC](https://github.com/Threekiii/Awesome-POC) ★4801
+- [Awesome-POC](https://github.com/Threekiii/Awesome-POC) ★4802
   - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
   - Created: 2022-02-20  Updated: 2026-02-02  `poc`
 
@@ -1653,7 +1653,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★39541
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★39547
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-02-15  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1701,7 +1701,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★97956
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★97957
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2026-02-12  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1711,7 +1711,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★36935
+- [llvm-project](https://github.com/llvm/llvm-project) ★36936
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-02-15  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1721,7 +1721,7 @@ Total Starred Repositories: 374
 
 ### GitHub官方语言分类
 
-- [Slab](https://github.com/flamendless/Slab) ★365
+- [Slab](https://github.com/flamendless/Slab) ★366
   - An immediate mode GUI for the Love2D framework.
   - Created: 2019-02-15  Updated: 2026-02-10  ![License](https://img.shields.io/badge/license-mit-blue) `gamedev` `imgui` `love2d`
 
