@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-02-22 18:47*
+*Last Updated: 2026-02-22 19:32*
 
 
 ## 🌟 Statistics
@@ -19,7 +19,7 @@ Total Starred Repositories: 375
 | 📚 HTML | 29 |
 | 📘 TypeScript | 23 |
 | Archived | 17 |
-| 🖥️ C/C++ | 14 |
+| 🖥️ C/C++ | 15 |
 | ☕ Java | 12 |
 | 🦀 Rust | 9 |
 | 🖖 Vue.js | 6 |
@@ -44,7 +44,6 @@ Total Starred Repositories: 375
 | 📚 LLVM | 1 |
 | 📚 Lua | 1 |
 | 📚 MATLAB | 1 |
-| 📚 Makefile | 1 |
 | 📚 Markdown | 1 |
 
 
@@ -52,7 +51,7 @@ Total Starred Repositories: 375
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★382937
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★382938
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -60,7 +59,7 @@ Total Starred Repositories: 375
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★49571
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★49572
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-12-14  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -108,7 +107,7 @@ Total Starred Repositories: 375
   - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]
   - Created: 2024-08-12  Updated: 2026-01-05  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `d-fine` `detr` `object-detection`
 
-- [Trellis](https://github.com/mindfold-ai/Trellis) ★2448
+- [Trellis](https://github.com/mindfold-ai/Trellis) ★2449
   - All-in-one AI framework & toolkit
   - Created: 2026-01-26  Updated: 2026-02-21  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `ai-agent` `ai-coding` `claude-code`
 
@@ -188,7 +187,7 @@ Total Starred Repositories: 375
   - TPC-DS for PostgreSQL
   - Created: 2023-09-13  Updated: 2026-01-09  
 
-- [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) ★251
+- [ArchOrgSearch](https://github.com/Micheliliuv87/ArchOrgSearch) ★252
   - This is for getting data from public organizations/platforms
   - Created: 2025-01-23  Updated: 2025-10-26  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -666,7 +665,7 @@ Total Starred Repositories: 375
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★258899
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★258906
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -812,7 +811,7 @@ Total Starred Repositories: 375
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★163132
+- [ollama](https://github.com/ollama/ollama) ★163138
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -1060,7 +1059,7 @@ Total Starred Repositories: 375
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★181999
+- [vscode](https://github.com/microsoft/vscode) ★181998
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -1068,7 +1067,7 @@ Total Starred Repositories: 375
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-02-21  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★30772
+- [dokploy](https://github.com/Dokploy/dokploy) ★30776
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1232,7 +1231,7 @@ Total Starred Repositories: 375
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★218245
+- [linux](https://github.com/torvalds/linux) ★218255
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1288,6 +1287,10 @@ Total Starred Repositories: 375
   - Provides a BigInteger class that can be used like a basic data type
   - Created: 2022-03-26  Updated: 2022-04-05  
 
+- [Addfuck](https://github.com/Fgaoxing/Addfuck) ★3
+  - No description
+  - Created: 2026-02-22  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-mit-blue)
+
 
 
 ## ☕ Java
@@ -1298,7 +1301,7 @@ Total Starred Repositories: 375
   - A server software reimplementation for a certain anime game.
   - Created: 2022-04-17  Updated: 2025-04-27  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `java` `kcp` `private-server`
 
-- [Awesome-POC](https://github.com/Threekiii/Awesome-POC) ★4807
+- [Awesome-POC](https://github.com/Threekiii/Awesome-POC) ★4808
   - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
   - Created: 2022-02-20  Updated: 2026-02-02  `poc`
 
@@ -1398,7 +1401,7 @@ Total Starred Repositories: 375
   - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
   - Created: 2022-05-12  Updated: 2024-01-17  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `ant-design` `bigdata` `hive`
 
-- [yuindex](https://github.com/liyupi/yuindex) ★2121
+- [yuindex](https://github.com/liyupi/yuindex) ★2120
   - ✨ 鱼皮的新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统，很适合想进阶前端的朋友学习
   - Created: 2022-07-16  Updated: 2024-03-23  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backend` `css` `frontend`
 
@@ -1446,7 +1449,7 @@ Total Starred Repositories: 375
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★130004
+- [PowerToys](https://github.com/microsoft/PowerToys) ★130005
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1644,7 +1647,7 @@ Total Starred Repositories: 375
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★40006
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★40007
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-02-19  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1692,7 +1695,7 @@ Total Starred Repositories: 375
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★166653
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★166657
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1712,7 +1715,7 @@ Total Starred Repositories: 375
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★37062
+- [llvm-project](https://github.com/llvm/llvm-project) ★37063
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1735,16 +1738,6 @@ Total Starred Repositories: 375
 - [pufC2D2](https://github.com/TechnologyAiGroup/pufC2D2) ★130
   - No description
   - Created: 2021-11-17  Updated: 2022-04-15  
-
-
-
-## 📚 Makefile
-
-### GitHub官方语言分类
-
-- [Addfuck](https://github.com/Fgaoxing/Addfuck) ★3
-  - No description
-  - Created: 2026-02-22  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-mit-blue)
 
 
 
