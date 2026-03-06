@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-03-06 22:36*
+*Last Updated: 2026-03-06 23:34*
 
 
 ## 🌟 Statistics
@@ -55,7 +55,7 @@ Total Starred Repositories: 377
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-03-06  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101914
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101915
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -87,7 +87,7 @@ Total Starred Repositories: 377
   - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
   - Created: 2018-02-15  Updated: 2026-03-06  `archive` `chatgpt` `cnki`
 
-- [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ★7681
+- [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ★7682
   - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
   - Created: 2021-07-29  Updated: 2026-02-24  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `custom` `fluent` `fluent-design`
 
@@ -305,7 +305,7 @@ Total Starred Repositories: 377
 
 ### 🍴 Forked repositories
 
-- [supermium](https://github.com/win32ss/supermium) ★4137
+- [supermium](https://github.com/win32ss/supermium) ★4138
   - Chromium fork for Windows XP/2003 and up
   - Created: 2023-05-09  Updated: 2026-03-04  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -499,7 +499,7 @@ Total Starred Repositories: 377
 
 ### GitHub官方语言分类
 
-- [dev-sidecar](https://github.com/docmirror/dev-sidecar) ★21161
+- [dev-sidecar](https://github.com/docmirror/dev-sidecar) ★21162
   - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
   - Created: 2020-09-29  Updated: 2026-03-05  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `dev-sidecar` `dns-ip` `electron`
 
@@ -665,7 +665,7 @@ Total Starred Repositories: 377
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★260387
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★260389
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -937,11 +937,11 @@ Total Starred Repositories: 377
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★164290
+- [ollama](https://github.com/ollama/ollama) ★164292
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-03-06  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★132923
+- [go](https://github.com/golang/go) ★132924
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-03-06  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1067,11 +1067,11 @@ Total Starred Repositories: 377
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-03-06  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★131477
+- [dify](https://github.com/langgenius/dify) ★131479
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-03-06  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★31368
+- [dokploy](https://github.com/Dokploy/dokploy) ★31370
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-03-06  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1235,7 +1235,7 @@ Total Starred Repositories: 377
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★221220
+- [linux](https://github.com/torvalds/linux) ★221221
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-03-06  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1359,7 +1359,7 @@ Total Starred Repositories: 377
   - Incomplete Redis client and server implementation using Tokio - for learning purposes only
   - Created: 2019-12-04  Updated: 2024-08-03  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [tracker](https://github.com/adysec/tracker) ★1109
+- [tracker](https://github.com/adysec/tracker) ★1110
   - BT tracker 服务器列表与自建集成 tracker 入口，提供全网最全的 tracker 列表，每日聚合并测试存活服务器，trackers_all.txt 为全量列表（2902 行），trackers_best.txt 为可用列表（1137 行）
   - Created: 2024-08-14  Updated: 2026-03-06  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `bt` `daily` `tracker`
 
@@ -1457,7 +1457,7 @@ Total Starred Repositories: 377
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★130266
+- [PowerToys](https://github.com/microsoft/PowerToys) ★130265
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-03-06  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1655,7 +1655,7 @@ Total Starred Repositories: 377
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★40715
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★40716
   - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-03-05  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1703,7 +1703,7 @@ Total Starred Repositories: 377
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★167902
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★167905
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-02-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1723,7 +1723,7 @@ Total Starred Repositories: 377
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★37248
+- [llvm-project](https://github.com/llvm/llvm-project) ★37249
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-03-06  ![License](https://img.shields.io/badge/license-other-blue)
 
