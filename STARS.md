@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-03-09 22:37*
+*Last Updated: 2026-03-09 23:35*
 
 
 ## 🌟 Statistics
@@ -51,11 +51,11 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★383876
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★383880
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101981
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★101984
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -67,7 +67,7 @@ Total Starred Repositories: 378
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-03-03  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★24236
+- [sglang](https://github.com/sgl-project/sglang) ★24237
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
@@ -103,7 +103,7 @@ Total Starred Repositories: 378
   - Sky-T1: Train your own O1 preview model within $450
   - Created: 2025-01-09  Updated: 2025-07-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue)
 
-- [Trellis](https://github.com/mindfold-ai/Trellis) ★3340
+- [Trellis](https://github.com/mindfold-ai/Trellis) ★3341
   - All-in-one AI framework & toolkit
   - Created: 2026-01-26  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `ai-agent` `ai-coding` `claude-code`
 
@@ -171,7 +171,7 @@ Total Starred Repositories: 378
   - VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model
   - Created: 2025-01-21  Updated: 2025-04-17  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `mllm` `unified-model`
 
-- [Document-Parser-Agent](https://github.com/Micheliliuv87/Document-Parser-Agent) ★318
+- [Document-Parser-Agent](https://github.com/Micheliliuv87/Document-Parser-Agent) ★319
   - Document Parser AI-Agent Using OpenAI ChatGPT 4-o Model
   - Created: 2025-01-25  Updated: 2025-04-14  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -523,7 +523,7 @@ Total Starred Repositories: 378
   - A real-time motion capture system for 3D virtual character animating.
   - Created: 2022-03-09  Updated: 2025-04-21  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `augmented-reality` `augmented-reality-applications` `mocap`
 
-- [Astral3D](https://github.com/mlt131220/Astral3D) ★2179
+- [Astral3D](https://github.com/mlt131220/Astral3D) ★2180
   - 基于Vue3 + THREE.JS 免费开源的三维引擎及配套编辑器，包含BIM轻量化、CAD解析预览、粒子系统、插件系统等功能。               A free and open-source 3D engine based on Vue3 + THREE.JS and its accompanying editor, featuring functions such as BIM lightweighting, CAD parsing preview, particle system, and plugin system.
   - Created: 2021-09-29  Updated: 2026-03-05  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `3d` `bim` `cad`
 
@@ -665,7 +665,7 @@ Total Starred Repositories: 378
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★260682
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★260684
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -681,7 +681,7 @@ Total Starred Repositories: 378
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2026-02-28  
 
-- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4608
+- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4609
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2026-03-09  
 
@@ -807,11 +807,11 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★164652
+- [ollama](https://github.com/ollama/ollama) ★164658
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★133030
+- [go](https://github.com/golang/go) ★133035
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1067,15 +1067,15 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★182529
+- [vscode](https://github.com/microsoft/vscode) ★182533
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★131785
+- [dify](https://github.com/langgenius/dify) ★131794
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★31468
+- [dokploy](https://github.com/Dokploy/dokploy) ★31471
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1239,7 +1239,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★221794
+- [linux](https://github.com/torvalds/linux) ★221804
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1461,7 +1461,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★130353
+- [PowerToys](https://github.com/microsoft/PowerToys) ★130354
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1659,7 +1659,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★41168
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★41179
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1687,7 +1687,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [ReerCodable](https://github.com/reers/ReerCodable) ★441
+- [ReerCodable](https://github.com/reers/ReerCodable) ★442
   - Codable extensions using Swift Macro
   - Created: 2024-10-15  Updated: 2026-03-02  ![License](https://img.shields.io/badge/license-mit-blue) `ananda` `bettercodable` `codable`
 
@@ -1727,7 +1727,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★37287
+- [llvm-project](https://github.com/llvm/llvm-project) ★37288
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-other-blue)
 
