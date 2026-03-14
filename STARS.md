@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-03-14 18:51*
+*Last Updated: 2026-03-14 19:34*
 
 
 ## 🌟 Statistics
@@ -50,7 +50,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★383987
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★383988
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-03-12  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -146,7 +146,7 @@ Total Starred Repositories: 378
   - 增强版WeblogicScan、检测结果更精确、插件化、添加CVE-2019-2618，CVE-2019-2729检测，Python3支持
   - Created: 2019-06-21  Updated: 2024-06-16  
 
-- [sese-engine](https://github.com/RimoChan/sese-engine) ★945
+- [sese-engine](https://github.com/RimoChan/sese-engine) ★946
   - 【sese-engine】新时代的搜索引擎！
   - Created: 2022-01-09  Updated: 2025-05-10  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -518,7 +518,7 @@ Total Starred Repositories: 378
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
   - Created: 2023-05-27  Updated: 2025-12-04  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [free-font](https://github.com/wordshub/free-font) ★6130
+- [free-font](https://github.com/wordshub/free-font) ★6131
   - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
   - Created: 2020-01-08  Updated: 2025-02-27  `cjk` `font` `free`
 
@@ -688,7 +688,7 @@ Total Starred Repositories: 378
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2026-02-28  
 
-- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4621
+- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4622
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2026-03-14  
 
@@ -732,7 +732,7 @@ Total Starred Repositories: 378
   - POC集合，框架nday漏洞利用
   - Created: 2022-04-04  Updated: 2025-02-18  
 
-- [script](https://github.com/adysec/script) ★434
+- [script](https://github.com/adysec/script) ★435
   - VPS测试脚本 | VPS性能测试（VPS基本信息、IO性能、全球测速、ping、回程路由测试）、BBR加速脚本（一种加速TCP的拥堵算法技术）、三网测速脚本（三网测速、流媒体检测）、线路路由测试（Linux VPS回程路由一键测试脚本）
   - Created: 2023-06-16  Updated: 2025-11-06  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `bbr` `bench` `benchmark`
 
@@ -810,15 +810,15 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★165049
+- [ollama](https://github.com/ollama/ollama) ★165048
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-03-14  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★133043
+- [go](https://github.com/golang/go) ★133044
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-03-14  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★24986
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★24988
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2026-03-02  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -1078,7 +1078,7 @@ Total Starred Repositories: 378
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-03-14  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★31637
+- [dokploy](https://github.com/Dokploy/dokploy) ★31638
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-03-10  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1246,7 +1246,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★222690
+- [linux](https://github.com/torvalds/linux) ★222696
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-03-14  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1468,7 +1468,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★130502
+- [PowerToys](https://github.com/microsoft/PowerToys) ★130503
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-03-13  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1476,7 +1476,7 @@ Total Starred Repositories: 378
   - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
   - Created: 2018-05-27  Updated: 2025-07-02  ![License](https://img.shields.io/badge/license-other-blue) `activation-toolkit` `activator` `digital-license`
 
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★9713
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) ★9714
   - Driver Store Explorer
   - Created: 2016-06-15  Updated: 2026-03-14  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
@@ -1648,7 +1648,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★41779
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★41782
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-03-12  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1700,7 +1700,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★168750
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★168751
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1710,7 +1710,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★98788
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★98789
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2026-03-07  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
