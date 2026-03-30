@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-03-30 22:46*
+*Last Updated: 2026-03-30 23:42*
 
 
 ## 🌟 Statistics
@@ -50,7 +50,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★384721
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★384722
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -58,7 +58,7 @@ Total Starred Repositories: 379
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★54147
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★54151
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2025-12-14  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -66,7 +66,7 @@ Total Starred Repositories: 379
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-03-03  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★25239
+- [sglang](https://github.com/sgl-project/sglang) ★25241
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
@@ -526,7 +526,7 @@ Total Starred Repositories: 379
   - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
   - Created: 2018-09-22  Updated: 2026-03-30  `article` `blog` `collection`
 
-- [SysMocap](https://github.com/xianfei/SysMocap) ★2809
+- [SysMocap](https://github.com/xianfei/SysMocap) ★2807
   - A real-time motion capture system for 3D virtual character animating.
   - Created: 2022-03-09  Updated: 2025-04-21  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `augmented-reality` `augmented-reality-applications` `mocap`
 
@@ -810,11 +810,11 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★166507
+- [ollama](https://github.com/ollama/ollama) ★166508
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★133205
+- [go](https://github.com/golang/go) ★133206
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -944,7 +944,7 @@ Total Starred Repositories: 379
   - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
   - Created: 2022-11-11  Updated: 2024-12-10  ![License](https://img.shields.io/badge/license-ofl-1.1-blue) `cjk` `cjk-font` `font`
 
-- [cve](https://github.com/trickest/cve) ★7649
+- [cve](https://github.com/trickest/cve) ★7647
   - Gather and update all available and newest CVEs with their PoC.
   - Created: 2022-01-31  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-mit-blue) `cve` `cve-poc` `exploit`
 
@@ -1062,15 +1062,15 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★183201
+- [vscode](https://github.com/microsoft/vscode) ★183200
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★135043
+- [dify](https://github.com/langgenius/dify) ★135046
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★32485
+- [dokploy](https://github.com/Dokploy/dokploy) ★32487
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1078,7 +1078,7 @@ Total Starred Repositories: 379
   - The most advanced free and open-source browser fingerprinting library
   - Created: 2015-02-11  Updated: 2026-03-29  ![License](https://img.shields.io/badge/license-mit-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [unpkg](https://github.com/unpkg/unpkg) ★3377
+- [unpkg](https://github.com/unpkg/unpkg) ★3378
   - The CDN for everything on npm
   - Created: 2016-02-22  Updated: 2025-04-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1238,7 +1238,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★225738
+- [linux](https://github.com/torvalds/linux) ★225745
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1494,7 +1494,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★131158
+- [PowerToys](https://github.com/microsoft/PowerToys) ★131156
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1652,7 +1652,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★42991
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★42992
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-03-28  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1714,7 +1714,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★99072
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★99070
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2026-03-21  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -1724,7 +1724,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★37656
+- [llvm-project](https://github.com/llvm/llvm-project) ★37655
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-03-30  ![License](https://img.shields.io/badge/license-other-blue)
 
