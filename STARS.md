@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-04-03 20:46*
+*Last Updated: 2026-04-03 21:41*
 
 
 ## 🌟 Statistics
@@ -50,7 +50,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★384965
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★384966
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-03-31  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -66,7 +66,7 @@ Total Starred Repositories: 379
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-03-03  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★25389
+- [sglang](https://github.com/sgl-project/sglang) ★25392
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-04-03  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
@@ -806,11 +806,11 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★167002
+- [ollama](https://github.com/ollama/ollama) ★167009
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-04-03  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★133276
+- [go](https://github.com/golang/go) ★133280
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-04-03  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1066,11 +1066,11 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★183380
+- [vscode](https://github.com/microsoft/vscode) ★183385
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-04-03  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★135658
+- [dify](https://github.com/langgenius/dify) ★135659
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-04-03  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1168,7 +1168,7 @@ Total Starred Repositories: 379
   - No description
   - Created: 2020-03-04  Updated: 2026-01-30  ![Archived](https://img.shields.io/badge/-Archived-red)
 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12930
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ★12931
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1242,11 +1242,11 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★226817
+- [linux](https://github.com/torvalds/linux) ★226825
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-04-03  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [btrfs](https://github.com/maharmstone/btrfs) ★7322
+- [btrfs](https://github.com/maharmstone/btrfs) ★7323
   - WinBtrfs - an open-source btrfs driver for Windows
   - Created: 2016-02-21  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-lgpl-3.0-blue) `btrfs` `windows`
 
@@ -1494,7 +1494,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★131295
+- [PowerToys](https://github.com/microsoft/PowerToys) ★131297
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-04-03  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1652,7 +1652,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★43186
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★43188
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-04-01  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1704,7 +1704,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★170733
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★170740
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1724,7 +1724,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★37700
+- [llvm-project](https://github.com/llvm/llvm-project) ★37699
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-04-03  ![License](https://img.shields.io/badge/license-other-blue)
 
