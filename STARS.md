@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-04-04 21:38*
+*Last Updated: 2026-04-04 22:38*
 
 
 ## 🌟 Statistics
@@ -50,11 +50,11 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★385001
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★385000
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-03-31  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★102475
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★102476
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -538,7 +538,7 @@ Total Starred Repositories: 379
   - 基于Vue3 + THREE.JS 免费开源的三维引擎及配套编辑器，包含BIM轻量化、CAD解析预览、粒子系统、插件系统等功能。               A free and open-source 3D engine based on Vue3 + THREE.JS and its accompanying editor, featuring functions such as BIM lightweighting, CAD parsing preview, particle system, and plugin system.
   - Created: 2021-09-29  Updated: 2026-03-23  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `3d` `bim` `cad`
 
-- [hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) ★1940
+- [hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) ★1941
   - 综合型hexo主题：博客+知识库+专栏+笔记，内置海量的标签组件和动态数据组件。
   - Created: 2021-02-19  Updated: 2026-03-12  ![License](https://img.shields.io/badge/license-mit-blue) `beaudar` `hexo` `hexo-site`
 
@@ -672,7 +672,7 @@ Total Starred Repositories: 379
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★262357
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★262359
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -810,11 +810,11 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★167156
+- [ollama](https://github.com/ollama/ollama) ★167157
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-04-04  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★133285
+- [go](https://github.com/golang/go) ★133284
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-04-04  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1066,15 +1066,15 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★183429
+- [vscode](https://github.com/microsoft/vscode) ★183428
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-04-04  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★135886
+- [dify](https://github.com/langgenius/dify) ★135898
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-04-03  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★32700
+- [dokploy](https://github.com/Dokploy/dokploy) ★32702
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-04-04  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1242,11 +1242,11 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★226961
+- [linux](https://github.com/torvalds/linux) ★226967
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-04-04  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [btrfs](https://github.com/maharmstone/btrfs) ★7327
+- [btrfs](https://github.com/maharmstone/btrfs) ★7326
   - WinBtrfs - an open-source btrfs driver for Windows
   - Created: 2016-02-21  Updated: 2025-09-24  ![License](https://img.shields.io/badge/license-lgpl-3.0-blue) `btrfs` `windows`
 
@@ -1412,7 +1412,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32715
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★32716
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2026-01-18  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1494,7 +1494,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★131327
+- [PowerToys](https://github.com/microsoft/PowerToys) ★131328
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-04-04  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1652,7 +1652,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★43229
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★43231
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-04-04  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1704,7 +1704,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★170807
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★170808
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1714,7 +1714,7 @@ Total Starred Repositories: 379
 
 ### GitHub官方语言分类
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★99171
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★99172
   - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
   - Created: 2020-02-29  Updated: 2026-03-21  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
