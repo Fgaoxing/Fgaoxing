@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-04-10 22:47*
+*Last Updated: 2026-04-10 23:43*
 
 
 ## 🌟 Statistics
@@ -50,11 +50,11 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★385301
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★385304
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-04-07  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★102549
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★102550
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -534,7 +534,7 @@ Total Starred Repositories: 378
   - A real-time motion capture system for 3D virtual character animating.
   - Created: 2022-03-09  Updated: 2025-04-21  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `augmented-reality` `augmented-reality-applications` `mocap`
 
-- [Astral3D](https://github.com/mlt131220/Astral3D) ★2239
+- [Astral3D](https://github.com/mlt131220/Astral3D) ★2238
   - 基于Vue3 + THREE.JS 免费开源的三维引擎及配套编辑器，包含BIM轻量化、CAD解析预览、粒子系统、插件系统等功能。               A free and open-source 3D engine based on Vue3 + THREE.JS and its accompanying editor, featuring functions such as BIM lightweighting, CAD parsing preview, particle system, and plugin system.
   - Created: 2021-09-29  Updated: 2026-04-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `3d` `bim` `cad`
 
@@ -672,7 +672,7 @@ Total Starred Repositories: 378
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★262776
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★262779
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -810,15 +810,15 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★168484
+- [ollama](https://github.com/ollama/ollama) ★168486
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-04-10  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★133399
+- [go](https://github.com/golang/go) ★133400
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-04-10  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★25674
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★25675
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2026-04-04  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -826,7 +826,7 @@ Total Starred Repositories: 378
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2025-11-05  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
-- [gnet](https://github.com/panjf2000/gnet) ★11123
+- [gnet](https://github.com/panjf2000/gnet) ★11124
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2026-04-01  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
@@ -838,7 +838,7 @@ Total Starred Repositories: 378
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2026-04-08  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
-- [goldmark](https://github.com/yuin/goldmark) ★4708
+- [goldmark](https://github.com/yuin/goldmark) ★4709
   - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
   - Created: 2019-04-26  Updated: 2026-03-25  ![License](https://img.shields.io/badge/license-mit-blue) `commonmark` `go` `golang`
 
@@ -892,7 +892,7 @@ Total Starred Repositories: 378
 
 - [go-premailer](https://github.com/vanng822/go-premailer) ★196
   - Inline styling for html mail in golang
-  - Created: 2015-02-16  Updated: 2026-03-27  ![License](https://img.shields.io/badge/license-mit-blue) `email` `golang` `html`
+  - Created: 2015-02-16  Updated: 2026-04-10  ![License](https://img.shields.io/badge/license-mit-blue) `email` `golang` `html`
 
 - [gody](https://github.com/guiferpa/gody) ★182
   - :balloon: A lightweight struct validator for Go
@@ -940,7 +940,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [smiley-sans](https://github.com/atelier-anchor/smiley-sans) ★14351
+- [smiley-sans](https://github.com/atelier-anchor/smiley-sans) ★14352
   - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
   - Created: 2022-11-11  Updated: 2024-12-10  ![License](https://img.shields.io/badge/license-ofl-1.1-blue) `cjk` `cjk-font` `font`
 
@@ -1070,15 +1070,15 @@ Total Starred Repositories: 378
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-04-10  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★137128
+- [dify](https://github.com/langgenius/dify) ★137132
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-04-10  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★32898
+- [dokploy](https://github.com/Dokploy/dokploy) ★32899
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-04-09  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★26907
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★26905
   - The most advanced free and open-source browser fingerprinting library
   - Created: 2015-02-11  Updated: 2026-04-07  ![License](https://img.shields.io/badge/license-mit-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
@@ -1242,7 +1242,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★227875
+- [linux](https://github.com/torvalds/linux) ★227885
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-04-10  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1502,7 +1502,7 @@ Total Starred Repositories: 378
   - Driver Store Explorer
   - Created: 2016-06-15  Updated: 2026-04-09  ![License](https://img.shields.io/badge/license-gpl-2.0-blue) `driver` `driver-store` `driverstore`
 
-- [Malware-Patch](https://github.com/the1812/Malware-Patch) ★5439
+- [Malware-Patch](https://github.com/the1812/Malware-Patch) ★5438
   - 通过 UAC 阻止流氓软件的管理员授权. / Prevent UAC authorization of malware.
   - Created: 2018-05-16  Updated: 2024-12-21  ![License](https://img.shields.io/badge/license-mit-blue) `csharp` `malware-protection` `uac-authorization`
 
@@ -1560,7 +1560,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★116557
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★116558
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1648,7 +1648,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★43757
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★43758
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-04-05  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1700,7 +1700,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★171500
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★171504
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1720,7 +1720,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★37799
+- [llvm-project](https://github.com/llvm/llvm-project) ★37800
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-04-10  ![License](https://img.shields.io/badge/license-other-blue)
 
