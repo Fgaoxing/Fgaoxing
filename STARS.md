@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-04-15 19:38*
+*Last Updated: 2026-04-15 21:00*
 
 
 ## 🌟 Statistics
@@ -58,7 +58,7 @@ Total Starred Repositories: 378
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★55754
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★55755
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2026-04-11  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
@@ -66,7 +66,7 @@ Total Starred Repositories: 378
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-03-03  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★25852
+- [sglang](https://github.com/sgl-project/sglang) ★25853
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-04-15  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
@@ -672,7 +672,7 @@ Total Starred Repositories: 378
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★263282
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★263293
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -810,11 +810,11 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★169101
+- [ollama](https://github.com/ollama/ollama) ★169105
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-04-15  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★133486
+- [go](https://github.com/golang/go) ★133487
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-04-15  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1070,11 +1070,11 @@ Total Starred Repositories: 378
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-04-15  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★137890
+- [dify](https://github.com/langgenius/dify) ★137893
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-04-15  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★33058
+- [dokploy](https://github.com/Dokploy/dokploy) ★33065
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-04-15  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1160,7 +1160,7 @@ Total Starred Repositories: 378
 
 ### 🚧 Archived repositories
 
-- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) ★30292
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) ★30293
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
@@ -1242,7 +1242,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★229105
+- [linux](https://github.com/torvalds/linux) ★229119
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-04-15  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1362,7 +1362,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4638
+- [mini-redis](https://github.com/tokio-rs/mini-redis) ★4639
   - Incomplete Redis client and server implementation using Tokio - for learning purposes only
   - Created: 2019-12-04  Updated: 2026-04-15  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1490,7 +1490,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★131694
+- [PowerToys](https://github.com/microsoft/PowerToys) ★131698
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-04-15  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1560,7 +1560,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★116595
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★116596
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1648,7 +1648,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★44679
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★44683
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-04-05  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1700,7 +1700,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★172094
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★172102
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-03-09  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1720,7 +1720,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★37875
+- [llvm-project](https://github.com/llvm/llvm-project) ★37876
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-04-15  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1750,7 +1750,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [kinokobooks](https://github.com/yoshi389111/kinokobooks) ★124
+- [kinokobooks](https://github.com/yoshi389111/kinokobooks) ★122
   - 「きのこ本」を勝手に電子書籍化
   - Created: 2019-02-15  Updated: 2025-05-24  ![License](https://img.shields.io/badge/license-other-blue) `epub`
 
