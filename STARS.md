@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-05-02 20:52*
+*Last Updated: 2026-05-02 21:51*
 
 
 ## 🌟 Statistics
@@ -50,7 +50,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★387522
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★387526
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-04-24  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -66,7 +66,7 @@ Total Starred Repositories: 378
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-03-03  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★26966
+- [sglang](https://github.com/sgl-project/sglang) ★26967
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-05-02  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
@@ -78,7 +78,7 @@ Total Starred Repositories: 378
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2026-04-02  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
-- [falcon](https://github.com/falconry/falcon) ★9797
+- [falcon](https://github.com/falconry/falcon) ★9798
   - The no-magic web API and microservices framework for Python developers, with a focus on reliability and performance at scale.
   - Created: 2012-12-06  Updated: 2026-04-26  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `api` `api-rest` `asgi`
 
@@ -668,7 +668,7 @@ Total Starred Repositories: 378
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★264654
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★264656
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -684,7 +684,7 @@ Total Starred Repositories: 378
   - :books: 极客时间电子书
   - Created: 2023-01-26  Updated: 2023-01-26  
 
-- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4728
+- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4729
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2026-05-02  
 
@@ -806,11 +806,11 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★170571
+- [ollama](https://github.com/ollama/ollama) ★170572
   - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-05-01  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★133712
+- [go](https://github.com/golang/go) ★133713
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-05-02  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -834,7 +834,7 @@ Total Starred Repositories: 378
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2026-04-30  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
-- [goldmark](https://github.com/yuin/goldmark) ★4736
+- [goldmark](https://github.com/yuin/goldmark) ★4737
   - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
   - Created: 2019-04-26  Updated: 2026-03-25  ![License](https://img.shields.io/badge/license-mit-blue) `commonmark` `go` `golang`
 
@@ -1062,11 +1062,11 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★184480
+- [vscode](https://github.com/microsoft/vscode) ★184482
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-05-02  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★139880
+- [dify](https://github.com/langgenius/dify) ★139883
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-05-02  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1078,7 +1078,7 @@ Total Starred Repositories: 378
   - The most advanced free and open-source browser fingerprinting library
   - Created: 2015-02-11  Updated: 2026-04-14  ![License](https://img.shields.io/badge/license-mit-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [Trellis](https://github.com/mindfold-ai/Trellis) ★7019
+- [Trellis](https://github.com/mindfold-ai/Trellis) ★7022
   - The best agent harness.
   - Created: 2026-01-26  Updated: 2026-05-02  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `agentic-coding` `ai-workflow` `claudecode`
 
@@ -1242,7 +1242,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★231705
+- [linux](https://github.com/torvalds/linux) ★231709
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-05-02  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1446,7 +1446,7 @@ Total Starred Repositories: 378
   - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
   - Created: 2016-02-15  Updated: 2024-02-27  ![License](https://img.shields.io/badge/license-mit-blue) `chat` `chatroom` `fiora`
 
-- [easy-email-editor](https://github.com/zalify/easy-email-editor) ★2404
+- [easy-email-editor](https://github.com/zalify/easy-email-editor) ★2405
   - Easy Email Editor is a feature-rich, top open-source SaaS email editor based on React and MJML.
   - Created: 2021-03-26  Updated: 2026-04-28  ![License](https://img.shields.io/badge/license-mit-blue) `email-builder` `email-editor` `email-template-editor`
 
@@ -1490,7 +1490,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★132741
+- [PowerToys](https://github.com/microsoft/PowerToys) ★132740
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-05-01  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1648,7 +1648,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★45697
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★45699
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-05-02  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1700,7 +1700,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★173816
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★173817
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-05-02  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1720,7 +1720,7 @@ Total Starred Repositories: 378
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★38147
+- [llvm-project](https://github.com/llvm/llvm-project) ★38148
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-05-02  ![License](https://img.shields.io/badge/license-other-blue)
 
