@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-06-04 21:48*
+*Last Updated: 2026-06-04 23:15*
 
 
 ## 🌟 Statistics
@@ -49,7 +49,7 @@ Total Starred Repositories: 382
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★389677
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★389683
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-06-04  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
@@ -57,11 +57,11 @@ Total Starred Repositories: 382
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★79406
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★79427
   - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
   - Created: 2024-03-11  Updated: 2026-06-04  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `automation` `chatgpt`
 
-- [MockingBird](https://github.com/babysor/MockingBird) ★36899
+- [MockingBird](https://github.com/babysor/MockingBird) ★36898
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-03-03  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
@@ -659,7 +659,7 @@ Total Starred Repositories: 382
 
 ### 🗂️ Other languages
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★267605
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★267618
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2024-08-15  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -703,7 +703,7 @@ Total Starred Repositories: 382
   - shiro 反序列 命令执行辅助检测工具
   - Created: 2020-01-07  Updated: 2024-05-21  
 
-- [PotatoTool](https://github.com/HotBoy-java/PotatoTool) ★1243
+- [PotatoTool](https://github.com/HotBoy-java/PotatoTool) ★1242
   - 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts. With features like decryption, analysis, scanning, and traceability, it provides a user-friendly interface and diverse functionality.
   - Created: 2024-05-07  Updated: 2025-02-19  
 
@@ -801,11 +801,11 @@ Total Starred Repositories: 382
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★173184
+- [ollama](https://github.com/ollama/ollama) ★173189
   - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-06-04  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★134271
+- [go](https://github.com/golang/go) ★134273
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-06-04  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -1053,7 +1053,7 @@ Total Starred Repositories: 382
   - 网易云音乐 Node.js API service
   - Created: 2016-06-22  Updated: 2024-02-28  ![Archived](https://img.shields.io/badge/-Archived-red) `api` `apis` `cloudmusic`
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★20299
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) ★20297
   - No description
   - Created: 2020-03-04  Updated: 2026-01-30  ![Archived](https://img.shields.io/badge/-Archived-red)
 
@@ -1065,7 +1065,7 @@ Total Starred Repositories: 382
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-07-24  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
-- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★7121
+- [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) ★7120
   - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
   - Created: 2023-05-27  Updated: 2026-05-09  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1077,7 +1077,7 @@ Total Starred Repositories: 382
   - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
   - Created: 2019-07-21  Updated: 2026-02-03  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-apache-2.0-blue) `beautiful` `blog` `gallery`
 
-- [LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) ★1650
+- [LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) ★1649
   - 针对 LiteLoaderQQNT 的安装脚本
   - Created: 2024-01-21  Updated: 2026-02-04  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -1147,7 +1147,7 @@ Total Starred Repositories: 382
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★185802
+- [vscode](https://github.com/microsoft/vscode) ★185803
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-06-04  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
@@ -1155,7 +1155,7 @@ Total Starred Repositories: 382
   - Production-ready platform for agentic workflow development.
   - Created: 2023-04-12  Updated: 2026-06-04  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★34509
+- [dokploy](https://github.com/Dokploy/dokploy) ★34510
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-06-02  ![License](https://img.shields.io/badge/license-other-blue) `backend` `backups` `databases`
 
@@ -1245,7 +1245,7 @@ Total Starred Repositories: 382
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★235330
+- [linux](https://github.com/torvalds/linux) ★235339
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-06-04  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1423,7 +1423,7 @@ Total Starred Repositories: 382
 
 ### GitHub官方主题分类
 
-- [emoji-mart](https://github.com/missive/emoji-mart) ★9386
+- [emoji-mart](https://github.com/missive/emoji-mart) ★9385
   - 🏪 One component to pick them all
   - Created: 2016-07-11  Updated: 2024-08-12  ![License](https://img.shields.io/badge/license-mit-blue) `component` `emoji` `emoji-picker`
 
@@ -1483,7 +1483,7 @@ Total Starred Repositories: 382
 
 ### GitHub官方语言分类
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★133775
+- [PowerToys](https://github.com/microsoft/PowerToys) ★133776
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-06-04  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1557,11 +1557,11 @@ Total Starred Repositories: 382
 
 ### GitHub官方语言分类
 
-- [skills](https://github.com/mattpocock/skills) ★117553
+- [skills](https://github.com/mattpocock/skills) ★117589
   - Skills for Real Engineers. Straight from my .claude directory.
   - Created: 2026-02-03  Updated: 2026-06-03  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [fq-book](https://github.com/hoochanlon/fq-book) ★4220
+- [fq-book](https://github.com/hoochanlon/fq-book) ★4219
   - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
   - Created: 2018-05-26  Updated: 2026-02-03  `deep-web` `digital-certificate` `fq-book`
 
@@ -1579,7 +1579,7 @@ Total Starred Repositories: 382
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★117082
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★117083
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1667,7 +1667,7 @@ Total Starred Repositories: 382
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★47108
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★47110
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-06-03  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1719,7 +1719,7 @@ Total Starred Repositories: 382
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★177380
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★177383
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-05-07  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
