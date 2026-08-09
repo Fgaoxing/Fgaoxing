@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-08-09 22:38*
+*Last Updated: 2026-08-09 23:37*
 
 
 ## 🌟 Statistics
@@ -51,11 +51,11 @@ Total Starred Repositories: 390
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★394036
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★394038
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-08-07  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★277592
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★277596
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2026-08-03  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
@@ -63,7 +63,7 @@ Total Starred Repositories: 390
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★102328
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★102330
   - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
   - Created: 2024-03-11  Updated: 2026-08-07  ![License](https://img.shields.io/badge/license-mit-blue) `ai-video-generator` `content-creation` `ffmpeg`
 
@@ -123,7 +123,7 @@ Total Starred Repositories: 390
   - Weblogic一键漏洞检测工具，V1.5，更新时间：20200730
   - Created: 2019-03-05  Updated: 2023-05-22  ![License](https://img.shields.io/badge/license-mit-blue) `weblogicscan`
 
-- [weblogicScanner](https://github.com/0xn0ne/weblogicScanner) ★2072
+- [weblogicScanner](https://github.com/0xn0ne/weblogicScanner) ★2073
   - weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883
   - Created: 2020-01-15  Updated: 2023-11-24  `cve-2016-0638` `cve-2016-3510` `cve-2017-10271`
 
@@ -507,7 +507,7 @@ Total Starred Repositories: 390
 
 ### GitHub官方语言分类
 
-- [up](https://github.com/byoungd/up) ★58209
+- [up](https://github.com/byoungd/up) ★58212
   - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
   - Created: 2017-05-30  Updated: 2026-06-30  `chinese` `english-learning` `tutorial`
 
@@ -665,7 +665,7 @@ Total Starred Repositories: 390
 
 ### 🗂️ Other languages
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★101650
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★101651
   - Programmer's guide about how to cook at home.
   - Created: 2020-02-29  Updated: 2026-08-09  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -807,11 +807,11 @@ Total Starred Repositories: 390
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★178136
+- [ollama](https://github.com/ollama/ollama) ★178137
   - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-08-09  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★135685
+- [go](https://github.com/golang/go) ★135684
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-08-09  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -941,7 +941,7 @@ Total Starred Repositories: 390
   - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
   - Created: 2022-11-11  Updated: 2024-12-10  ![License](https://img.shields.io/badge/license-ofl-1.1-blue) `cjk` `cjk-font` `font`
 
-- [cve](https://github.com/trickest/cve) ★7983
+- [cve](https://github.com/trickest/cve) ★7984
   - Gather and update all available and newest CVEs with their PoC.
   - Created: 2022-01-31  Updated: 2026-08-09  ![License](https://img.shields.io/badge/license-mit-blue) `cve` `cve-poc` `exploit`
 
@@ -1067,11 +1067,11 @@ Total Starred Repositories: 390
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-08-09  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★151865
+- [dify](https://github.com/langgenius/dify) ★151866
   - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
   - Created: 2023-04-12  Updated: 2026-08-09  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★36469
+- [dokploy](https://github.com/Dokploy/dokploy) ★36472
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-08-09  ![License](https://img.shields.io/badge/license-other-blue) `agents` `ai` `backend`
 
@@ -1181,7 +1181,7 @@ Total Starred Repositories: 390
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
-- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★7576
+- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★7577
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-07-24  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
@@ -1267,7 +1267,7 @@ Total Starred Repositories: 390
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★242273
+- [linux](https://github.com/torvalds/linux) ★242276
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-08-09  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1583,7 +1583,7 @@ Total Starred Repositories: 390
 
 ### GitHub官方语言分类
 
-- [skills](https://github.com/mattpocock/skills) ★211057
+- [skills](https://github.com/mattpocock/skills) ★211080
   - Skills for Real Engineers. Straight from my .agents directory.
   - Created: 2026-02-03  Updated: 2026-08-07  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1697,7 +1697,7 @@ Total Starred Repositories: 390
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★55078
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★55077
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-08-08  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1735,7 +1735,7 @@ Total Starred Repositories: 390
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★186480
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★186481
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-07-04  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1745,7 +1745,7 @@ Total Starred Repositories: 390
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★39708
+- [llvm-project](https://github.com/llvm/llvm-project) ★39709
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-08-09  ![License](https://img.shields.io/badge/license-other-blue)
 
