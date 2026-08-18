@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-08-18 19:32*
+*Last Updated: 2026-08-18 20:31*
 
 
 ## 🌟 Statistics
@@ -51,15 +51,15 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★394697
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★394699
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★279769
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★279781
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2026-08-17  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★108323
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★108365
   - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
   - Created: 2024-03-11  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-mit-blue) `ai-video-generator` `content-creation` `ffmpeg`
 
@@ -71,7 +71,7 @@ Total Starred Repositories: 392
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-03-03  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★32044
+- [sglang](https://github.com/sgl-project/sglang) ★32049
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
@@ -127,7 +127,7 @@ Total Starred Repositories: 392
   - weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883
   - Created: 2020-01-15  Updated: 2023-11-24  `cve-2016-0638` `cve-2016-3510` `cve-2017-10271`
 
-- [Qexo](https://github.com/Qexo/Qexo) ★1952
+- [Qexo](https://github.com/Qexo/Qexo) ★1953
   - A fast, powerful and beautiful online manager for all static blog frameworks. 
   - Created: 2021-11-08  Updated: 2026-07-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `blog` `hexo` `vercel`
 
@@ -535,7 +535,7 @@ Total Starred Repositories: 392
   - 基于Vue3 + THREE.JS 免费开源的三维引擎及配套编辑器，包含BIM轻量化、CAD解析预览、粒子系统、插件系统等功能。               A free and open-source 3D engine based on Vue3 + THREE.JS and its accompanying editor, featuring functions such as BIM lightweighting, CAD parsing preview, particle system, and plugin system.
   - Created: 2021-09-29  Updated: 2026-08-12  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `3d` `bim` `cad`
 
-- [hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) ★2015
+- [hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) ★2014
   - 基于 Hexo 的全能个人知识库，开箱即用，内置海量标签和动态数据组件。可用于个人博客、项目文档、知识库、专栏、笔记等。
   - Created: 2021-02-19  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-mit-blue) `hexo` `hexo-theme` `hexo-theme-stellar`
 
@@ -685,7 +685,7 @@ Total Starred Repositories: 392
   - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
   - Created: 2019-12-08  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `cve` `exploit` `poc`
 
-- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4873
+- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4874
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2026-08-18  
 
@@ -807,7 +807,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★178893
+- [ollama](https://github.com/ollama/ollama) ★178897
   - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
@@ -831,9 +831,9 @@ Total Starred Repositories: 392
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2026-07-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9932
+- [pq](https://github.com/lib/pq) ★9933
   - Go PostgreSQL driver for database/sql
-  - Created: 2012-03-12  Updated: 2026-08-16  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2012-03-12  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★8663
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
@@ -1071,11 +1071,11 @@ Total Starred Repositories: 392
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★152831
+- [dify](https://github.com/langgenius/dify) ★152833
   - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
   - Created: 2023-04-12  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★36689
+- [dokploy](https://github.com/Dokploy/dokploy) ★36690
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-other-blue) `agents` `ai` `backend`
 
@@ -1271,11 +1271,11 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★243196
+- [linux](https://github.com/torvalds/linux) ★243204
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★137848
+- [PowerToys](https://github.com/microsoft/PowerToys) ★137851
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1499,7 +1499,7 @@ Total Starred Repositories: 392
   - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
   - Created: 2016-02-15  Updated: 2024-02-27  ![License](https://img.shields.io/badge/license-mit-blue) `chat` `chatroom` `fiora`
 
-- [bbs-go](https://github.com/mlogclub/bbs-go) ★3466
+- [bbs-go](https://github.com/mlogclub/bbs-go) ★3467
   - A lightweight community and Q&A platform for forums, knowledge bases, and discussions.一个轻量级社区和问答平台。
   - Created: 2019-06-24  Updated: 2026-08-17  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `ask` `bbs` `community`
 
@@ -1591,7 +1591,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [skills](https://github.com/mattpocock/skills) ★221349
+- [skills](https://github.com/mattpocock/skills) ★221380
   - Skills for Real Engineers. Straight from my .agents directory.
   - Created: 2026-02-03  Updated: 2026-08-17  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1705,7 +1705,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★55661
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★55663
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-08-16  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1743,7 +1743,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★187460
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★187465
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-07-04  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1753,7 +1753,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★39810
+- [llvm-project](https://github.com/llvm/llvm-project) ★39811
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1813,7 +1813,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方主题分类
 
-- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ★47100
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ★47104
   - Learn it. Build it. Ship it for others.
   - Created: 2026-03-18  Updated: 2026-08-10  ![License](https://img.shields.io/badge/license-mit-blue) `agents` `ai` `ai-agents`
 
