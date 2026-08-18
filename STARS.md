@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-08-18 21:30*
+*Last Updated: 2026-08-18 22:30*
 
 
 ## 🌟 Statistics
@@ -51,15 +51,15 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★394699
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★394701
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★279790
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★279792
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2026-08-17  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★108407
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★108444
   - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
   - Created: 2024-03-11  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-mit-blue) `ai-video-generator` `content-creation` `ffmpeg`
 
@@ -71,7 +71,7 @@ Total Starred Repositories: 392
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-03-03  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★32054
+- [sglang](https://github.com/sgl-project/sglang) ★32057
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
@@ -313,7 +313,7 @@ Total Starred Repositories: 392
 
 ### 🍴 Forked repositories
 
-- [supermium](https://github.com/win32ss/supermium) ★4662
+- [supermium](https://github.com/win32ss/supermium) ★4663
   - Chromium fork for Windows XP/2003 and up
   - Created: 2023-05-09  Updated: 2026-07-14  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue)
 
@@ -507,7 +507,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [up](https://github.com/byoungd/up) ★59227
+- [up](https://github.com/byoungd/up) ★59232
   - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
   - Created: 2017-05-30  Updated: 2026-08-17  ![License](https://img.shields.io/badge/license-other-blue) `chinese` `english-learning` `tutorial`
 
@@ -665,7 +665,7 @@ Total Starred Repositories: 392
 
 ### 🗂️ Other languages
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★101878
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★101879
   - Programmer's guide about how to cook at home.
   - Created: 2020-02-29  Updated: 2026-08-17  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -673,7 +673,7 @@ Total Starred Repositories: 392
   - The one and only one gfwlist here
   - Created: 2015-03-13  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-lgpl-2.1-blue) `anticensorship` `censorship` `censorship-circumvention`
 
-- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★15097
+- [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ★15099
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2026-06-30  
 
@@ -697,7 +697,7 @@ Total Starred Repositories: 392
   - CVE cache of the official CVE List in CVE JSON 5 format
   - Created: 2022-02-08  Updated: 2026-08-18  
 
-- [nuclei_poc](https://github.com/adysec/nuclei_poc) ★2139
+- [nuclei_poc](https://github.com/adysec/nuclei_poc) ★2140
   - Nuclei POC，每日更新 | 每日自动采集、验证、去重并发布 25 万+ 漏洞 PoC，保存已被删除的POC | 通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现。
   - Created: 2024-05-07  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `daily` `exploit` `exploits`
 
@@ -807,11 +807,11 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★178898
+- [ollama](https://github.com/ollama/ollama) ★178900
   - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★135889
+- [go](https://github.com/golang/go) ★135892
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
@@ -831,7 +831,7 @@ Total Starred Repositories: 392
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2026-07-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9933
+- [pq](https://github.com/lib/pq) ★9934
   - Go PostgreSQL driver for database/sql
   - Created: 2012-03-12  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1071,7 +1071,7 @@ Total Starred Repositories: 392
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★152835
+- [dify](https://github.com/langgenius/dify) ★152839
   - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
   - Created: 2023-04-12  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1271,7 +1271,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★243209
+- [linux](https://github.com/torvalds/linux) ★243215
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1481,7 +1481,7 @@ Total Starred Repositories: 392
   - ✨ 专为 VitePress 打造的主题美化与 Vue 扩展组件库
   - Created: 2024-05-10  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-mit-blue) `analytics` `card` `footer`
 
-- [Axolotl](https://github.com/Mystic-Stars/Axolotl) ★314
+- [Axolotl](https://github.com/Mystic-Stars/Axolotl) ★315
   - 开源，跨平台的下一代启动器
   - Created: 2026-07-13  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-other-blue) `minecraft` `minecraft-launcher` `rust`
 
@@ -1591,7 +1591,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [skills](https://github.com/mattpocock/skills) ★221413
+- [skills](https://github.com/mattpocock/skills) ★221438
   - Skills for Real Engineers. Straight from my .agents directory.
   - Created: 2026-02-03  Updated: 2026-08-17  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1743,7 +1743,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★187469
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★187470
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-07-04  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1813,7 +1813,7 @@ Total Starred Repositories: 392
 
 ### GitHub官方主题分类
 
-- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ★47107
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ★47110
   - Learn it. Build it. Ship it for others.
   - Created: 2026-03-18  Updated: 2026-08-10  ![License](https://img.shields.io/badge/license-mit-blue) `agents` `ai` `ai-agents`
 
