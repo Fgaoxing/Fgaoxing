@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-08-25 16:45*
+*Last Updated: 2026-08-25 17:37*
 
 
 ## 🌟 Statistics
@@ -13,7 +13,7 @@ Total Starred Repositories: 387
 |----------|------:|
 | 🐍 Python | 62 |
 | Forks | 47 |
-| 🌐 JavaScript | 38 |
+| 🌐 JavaScript | 39 |
 | Others | 32 |
 | 🐹 Go | 32 |
 | 📚 HTML | 30 |
@@ -33,11 +33,11 @@ Total Starred Repositories: 387
 | Templates | 2 |
 |  iOS | 2 |
 | 📚 Assembly | 2 |
-| 📚 EJS | 2 |
 | 📚 PowerShell | 2 |
 | 📚 SCSS | 2 |
 | 🍎 Swift | 1 |
 | 📚 Batchfile | 1 |
+| 📚 EJS | 1 |
 | 📚 LLVM | 1 |
 | 📚 Lua | 1 |
 | 📚 MATLAB | 1 |
@@ -51,15 +51,15 @@ Total Starred Repositories: 387
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★395202
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★395203
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-08-18  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★280798
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★280802
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2026-08-24  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★116337
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★116352
   - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
   - Created: 2024-03-11  Updated: 2026-08-25  ![License](https://img.shields.io/badge/license-mit-blue) `ai-video-generator` `content-creation` `ffmpeg`
 
@@ -71,7 +71,7 @@ Total Starred Repositories: 387
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-03-03  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [sglang](https://github.com/sgl-project/sglang) ★32430
+- [sglang](https://github.com/sgl-project/sglang) ★32433
   - SGLang is a high-performance serving framework for large language models and multimodal models.
   - Created: 2024-01-08  Updated: 2026-08-25  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
@@ -79,7 +79,7 @@ Total Starred Repositories: 387
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [stock](https://github.com/myhhub/stock) ★14130
+- [stock](https://github.com/myhhub/stock) ★14131
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2026-04-02  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
@@ -499,7 +499,7 @@ Total Starred Repositories: 387
 
 ### GitHub官方语言分类
 
-- [up](https://github.com/byoungd/up) ★61487
+- [up](https://github.com/byoungd/up) ★61490
   - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
   - Created: 2017-05-30  Updated: 2026-08-24  ![License](https://img.shields.io/badge/license-other-blue) `chinese` `english-learning` `tutorial`
 
@@ -646,6 +646,10 @@ Total Starred Repositories: 387
 - [github-readme-stats](https://github.com/Fgaoxing/github-readme-stats) ★1
   - No description
   - Created: 2024-04-21  Updated: 2024-07-15  ![License](https://img.shields.io/badge/license-mit-blue)
+
+- [hexo](https://github.com/Fgaoxing/hexo) ★1
+  - No description
+  - Created: 2021-11-04  Updated: 2026-08-25  ![License](https://img.shields.io/badge/license-other-blue)
 
 - [waline](https://github.com/Fgaoxing/waline) ★1
   - No description
@@ -795,11 +799,11 @@ Total Starred Repositories: 387
   - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-08-25  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `gemma3`
 
-- [go](https://github.com/golang/go) ★136452
+- [go](https://github.com/golang/go) ★136453
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-08-25  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★28732
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★28733
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2026-08-23  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
@@ -1051,11 +1055,11 @@ Total Starred Repositories: 387
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★189594
+- [vscode](https://github.com/microsoft/vscode) ★189595
   - Visual Studio Code
   - Created: 2015-09-03  Updated: 2026-08-25  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dify](https://github.com/langgenius/dify) ★153476
+- [dify](https://github.com/langgenius/dify) ★153480
   - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
   - Created: 2023-04-12  Updated: 2026-08-25  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
@@ -1067,7 +1071,7 @@ Total Starred Repositories: 387
   - The most advanced free and open-source browser fingerprinting library
   - Created: 2015-02-11  Updated: 2026-08-09  ![License](https://img.shields.io/badge/license-mit-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [Trellis](https://github.com/mindfold-ai/Trellis) ★14216
+- [Trellis](https://github.com/mindfold-ai/Trellis) ★14217
   - The best agent harness.
   - Created: 2026-01-26  Updated: 2026-08-21  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `agentic-coding` `ai-workflow` `claudecode`
 
@@ -1255,11 +1259,11 @@ Total Starred Repositories: 387
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★244365
+- [linux](https://github.com/torvalds/linux) ★244372
   - Linux kernel source tree
   - Created: 2011-09-04  Updated: 2026-08-24  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★138092
+- [PowerToys](https://github.com/microsoft/PowerToys) ★138095
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-08-25  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1571,7 +1575,7 @@ Total Starred Repositories: 387
 
 ### GitHub官方语言分类
 
-- [skills](https://github.com/mattpocock/skills) ★236422
+- [skills](https://github.com/mattpocock/skills) ★236458
   - Skills for Real Engineers. Straight from my .agents directory.
   - Created: 2026-02-03  Updated: 2026-08-24  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1611,7 +1615,7 @@ Total Starred Repositories: 387
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★118517
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★118518
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2026-07-29  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1667,25 +1671,11 @@ Total Starred Repositories: 387
 
 
 
-## 📚 EJS
-
-### GitHub官方语言分类
-
-- [Hexo-theme-InterKnot](https://github.com/Hexo-ZZZ/Hexo-theme-InterKnot) ★14
-  - 「绳网」深度定制Hexo主题🔗「InterKnot」deeply customizes Hexo theme
-  - Created: 2024-08-23  Updated: 2024-08-24  
-
-- [hexo](https://github.com/Fgaoxing/hexo) ★1
-  - No description
-  - Created: 2021-11-04  Updated: 2026-08-23  ![License](https://img.shields.io/badge/license-other-blue)
-
-
-
 ## 📚 PowerShell
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★56209
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★56214
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-08-24  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1723,9 +1713,19 @@ Total Starred Repositories: 387
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★188231
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★188240
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-07-04  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
+
+
+
+## 📚 EJS
+
+### GitHub官方语言分类
+
+- [Hexo-theme-InterKnot](https://github.com/Hexo-ZZZ/Hexo-theme-InterKnot) ★14
+  - 「绳网」深度定制Hexo主题🔗「InterKnot」deeply customizes Hexo theme
+  - Created: 2024-08-23  Updated: 2024-08-24  
 
 
 
@@ -1733,7 +1733,7 @@ Total Starred Repositories: 387
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★39929
+- [llvm-project](https://github.com/llvm/llvm-project) ★39931
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   - Created: 2016-12-07  Updated: 2026-08-25  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -1793,7 +1793,7 @@ Total Starred Repositories: 387
 
 ### GitHub官方主题分类
 
-- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ★48773
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ★48793
   - Learn it. Build it. Ship it for others.
   - Created: 2026-03-18  Updated: 2026-08-23  ![License](https://img.shields.io/badge/license-mit-blue) `agents` `ai` `ai-agents`
 
