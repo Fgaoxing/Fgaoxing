@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-10-29 20:09*
+*Last Updated: 2026-10-30 00:44*
 
 
 ## 🌟 Statistics
@@ -51,39 +51,39 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★400487
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★400489
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-10-27  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★288392
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★288408
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2026-10-26  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [dify](https://github.com/langgenius/dify) ★159918
+- [dify](https://github.com/langgenius/dify) ★159932
   - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
-  - Created: 2023-04-12  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
+  - Created: 2023-04-12  Updated: 2026-10-30  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★136283
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★136309
   - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
   - Created: 2024-03-11  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-mit-blue) `ai-video-generator` `content-creation` `ffmpeg`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★104671
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★104670
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [sglang](https://github.com/sgl-project/sglang) ★38355
+- [sglang](https://github.com/sgl-project/sglang) ★38365
   - SGLang is a high-performance serving framework for large language models and multimodal models.
-  - Created: 2024-01-08  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
+  - Created: 2024-01-08  Updated: 2026-10-30  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
 - [MockingBird](https://github.com/babysor/MockingBird) ★36880
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
   - Created: 2021-08-07  Updated: 2026-03-03  ![License](https://img.shields.io/badge/license-other-blue) `ai` `deep-learning` `pytorch`
 
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★21343
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ★21344
   - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
   - Created: 2023-03-09  Updated: 2025-06-23  ![License](https://img.shields.io/badge/license-mit-blue) `awesome` `awesome-list` `chat`
 
-- [stock](https://github.com/myhhub/stock) ★14901
+- [stock](https://github.com/myhhub/stock) ★14902
   - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
   - Created: 2023-03-21  Updated: 2026-04-02  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `backtest` `backtesting` `broker-trading-platform`
 
@@ -301,7 +301,7 @@ Total Starred Repositories: 389
 
 ### 🍴 Forked repositories
 
-- [supermium](https://github.com/win32ss/supermium) ★4863
+- [supermium](https://github.com/win32ss/supermium) ★4864
   - Chromium fork for Windows XP/2003 and up
   - Created: 2023-05-09  Updated: 2026-10-21  
 
@@ -495,11 +495,11 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [up](https://github.com/byoungd/up) ★69690
+- [up](https://github.com/byoungd/up) ★69692
   - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
   - Created: 2017-05-30  Updated: 2026-10-26  ![License](https://img.shields.io/badge/license-other-blue) `ai-literacy` `chinese` `english-learning`
 
-- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★12945
+- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★12948
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2026-10-25  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
@@ -653,7 +653,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★185236
+- [ollama](https://github.com/ollama/ollama) ★185254
   - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `glm`
 
@@ -661,11 +661,11 @@ Total Starred Repositories: 389
   - The Go programming language
   - Created: 2014-08-19  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★29692
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★29694
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2026-09-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★23092
+- [SafeLine](https://github.com/chaitin/SafeLine) ★23095
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2026-10-22  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -677,7 +677,7 @@ Total Starred Repositories: 389
   - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
   - Created: 2019-02-24  Updated: 2026-07-09  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `async` `asynchronous` `epoll`
 
-- [pq](https://github.com/lib/pq) ★9970
+- [pq](https://github.com/lib/pq) ★9969
   - Go PostgreSQL driver for database/sql
   - Created: 2012-03-12  Updated: 2026-08-20  ![License](https://img.shields.io/badge/license-other-blue)
 
@@ -701,7 +701,7 @@ Total Starred Repositories: 389
   - Generate type-safe Go converters by defining function signatures.
   - Created: 2021-03-09  Updated: 2026-10-10  ![License](https://img.shields.io/badge/license-mit-blue) `code-generation` `converter` `copy`
 
-- [goraven](https://github.com/8treenet/goraven) ★827
+- [goraven](https://github.com/8treenet/goraven) ★828
   - Open-source AI Agent platform for teams. Your agents don't just chat — they read files, run code, call APIs, and deliver results.
   - Created: 2026-06-15  Updated: 2026-10-16  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `agent` `ai-agent` `deepseek`
 
@@ -791,7 +791,7 @@ Total Starred Repositories: 389
 
 ### 🗂️ Other languages
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★103362
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★103364
   - Programmer's guide about how to cook at home.
   - Created: 2020-02-29  Updated: 2026-10-26  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -803,15 +803,15 @@ Total Starred Repositories: 389
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2026-10-13  
 
-- [geektime-books](https://github.com/CyberCommy/geektime-books) ★13430
+- [geektime-books](https://github.com/CyberCommy/geektime-books) ★13429
   - :books: 极客时间电子书
   - Created: 2023-01-26  Updated: 2023-01-26  
 
 - [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) ★8164
   - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-  - Created: 2019-12-08  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `cve` `exploit` `poc`
+  - Created: 2019-12-08  Updated: 2026-10-30  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `cve` `exploit` `poc`
 
-- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4956
+- [top-github-users](https://github.com/gayanvoice/top-github-users) ★4957
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2026-10-29  
 
@@ -819,9 +819,9 @@ Total Starred Repositories: 389
   - stable-diffusion-webui 的汉化扩展
   - Created: 2022-10-10  Updated: 2024-05-14  ![License](https://img.shields.io/badge/license-gpl-3.0-blue)
 
-- [cvelistV5](https://github.com/CVEProject/cvelistV5) ★3179
+- [cvelistV5](https://github.com/CVEProject/cvelistV5) ★3180
   - CVE cache of the official CVE List in CVE JSON 5 format
-  - Created: 2022-02-08  Updated: 2026-10-29  
+  - Created: 2022-02-08  Updated: 2026-10-30  
 
 - [sourcery](https://github.com/sourcery-ai/sourcery) ★1877
   - Instant AI code reviews
@@ -1055,7 +1055,7 @@ Total Starred Repositories: 389
   - PowerSploit - A PowerShell Post-Exploitation Framework
   - Created: 2012-05-26  Updated: 2020-08-17  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-other-blue)
 
-- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★7534
+- [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) ★7535
   - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
   - Created: 2021-10-19  Updated: 2025-07-24  ![Archived](https://img.shields.io/badge/-Archived-red) ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `hotkeys` `legion` `lenovo`
 
@@ -1149,15 +1149,15 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★194347
+- [vscode](https://github.com/microsoft/vscode) ★194353
   - Visual Studio Code
-  - Created: 2015-09-03  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
+  - Created: 2015-09-03  Updated: 2026-10-30  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★38112
+- [dokploy](https://github.com/Dokploy/dokploy) ★38116
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-other-blue) `agents` `ai` `backend`
 
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★28655
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) ★28657
   - The most advanced free and open-source browser fingerprinting library
   - Created: 2015-02-11  Updated: 2026-10-21  ![License](https://img.shields.io/badge/license-mit-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
@@ -1169,7 +1169,7 @@ Total Starred Repositories: 389
   - The CDN for everything on npm
   - Created: 2016-02-22  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [ai-trend-publish](https://github.com/liyown/ai-trend-publish) ★3221
+- [ai-trend-publish](https://github.com/liyown/ai-trend-publish) ★3222
   - TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具
   - Created: 2025-01-13  Updated: 2026-08-04  ![License](https://img.shields.io/badge/license-mit-blue) `ai` `weixin`
 
@@ -1247,11 +1247,11 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★253766
+- [linux](https://github.com/torvalds/linux) ★253781
   - Linux kernel source tree
-  - Created: 2011-09-04  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2011-09-04  Updated: 2026-10-30  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★140222
+- [PowerToys](https://github.com/microsoft/PowerToys) ★140232
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
   - Created: 2019-05-01  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
@@ -1259,7 +1259,7 @@ Total Starred Repositories: 389
   - A small C compiler
   - Created: 2019-08-03  Updated: 2023-10-30  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [btrfs](https://github.com/maharmstone/btrfs) ★7870
+- [btrfs](https://github.com/maharmstone/btrfs) ★7871
   - WinBtrfs - an open-source btrfs driver for Windows
   - Created: 2016-02-21  Updated: 2026-09-14  ![License](https://img.shields.io/badge/license-lgpl-3.0-blue) `btrfs` `windows`
 
@@ -1455,7 +1455,7 @@ Total Starred Repositories: 389
 
 - [Axolotl](https://github.com/Axolotl-Launcher/Axolotl) ★746
   - 开源，跨平台的下一代启动器
-  - Created: 2026-07-13  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-other-blue) `minecraft` `minecraft-launcher` `rust`
+  - Created: 2026-07-13  Updated: 2026-10-30  ![License](https://img.shields.io/badge/license-other-blue) `minecraft` `minecraft-launcher` `rust`
 
 - [lumen](https://github.com/s-theo/lumen) ★455
   - ✨ 专为 VitePress 打造的主题美化与 Vue 扩展组件库
@@ -1497,7 +1497,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [skills](https://github.com/mattpocock/skills) ★306496
+- [skills](https://github.com/mattpocock/skills) ★306616
   - Skills for Real Engineers. Straight from my .agents directory.
   - Created: 2026-02-03  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1505,7 +1505,7 @@ Total Starred Repositories: 389
   - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
   - Created: 2021-01-25  Updated: 2026-10-21  ![License](https://img.shields.io/badge/license-mit-blue) `almalinux` `alpine` `archlinux`
 
-- [fq-book](https://github.com/hoochanlon/fq-book) ★7100
+- [fq-book](https://github.com/hoochanlon/fq-book) ★7102
   - 📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
   - Created: 2018-05-26  Updated: 2026-09-19  `deep-web` `digital-certificate` `fq-book`
 
@@ -1693,9 +1693,9 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★61233
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★61242
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-  - Created: 2020-10-27  Updated: 2026-10-28  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
+  - Created: 2020-10-27  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
 - [NinjaCopy](https://github.com/3gstudent/NinjaCopy) ★62
   - Powershell to copy ntds.dit
@@ -1731,7 +1731,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★196837
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★196869
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-10-17  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1751,9 +1751,9 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★41246
+- [llvm-project](https://github.com/llvm/llvm-project) ★41249
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-  - Created: 2016-12-07  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2016-12-07  Updated: 2026-10-30  ![License](https://img.shields.io/badge/license-other-blue)
 
 
 
@@ -1801,7 +1801,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方主题分类
 
-- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ★75568
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ★75595
   - Learn AI Engineering! Learn it. Build it. Ship it for others.
   - Created: 2026-03-18  Updated: 2026-10-29  ![License](https://img.shields.io/badge/license-mit-blue) `agents` `ai` `ai-agents`
 
