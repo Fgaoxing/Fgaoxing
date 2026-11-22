@@ -1,6 +1,6 @@
 # GitHub Star Catalog
 
-*Last Updated: 2026-11-21 22:59*
+*Last Updated: 2026-11-22 03:00*
 
 
 ## 🌟 Statistics
@@ -51,29 +51,29 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★402031
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ★402042
   - :books: Freely available programming books
   - Created: 2013-10-11  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-cc-by-4.0-blue) `books` `education` `hacktoberfest`
 
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★290207
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ★290218
   - Curated list of project-based tutorials
   - Created: 2017-04-12  Updated: 2026-11-16  ![License](https://img.shields.io/badge/license-mit-blue) `beginner-project` `cpp` `golang`
 
-- [dify](https://github.com/langgenius/dify) ★161625
+- [dify](https://github.com/langgenius/dify) ★161634
   - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
-  - Created: 2023-04-12  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
+  - Created: 2023-04-12  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-other-blue) `agent` `agentic-ai` `agentic-framework`
 
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★144983
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ★144996
   - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-  - Created: 2024-03-11  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-mit-blue) `ai-video-generator` `content-creation` `ffmpeg`
+  - Created: 2024-03-11  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-mit-blue) `ai-video-generator` `content-creation` `ffmpeg`
 
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★104890
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ★104891
   - No description
   - Created: 2024-12-26  Updated: 2025-08-28  ![License](https://img.shields.io/badge/license-mit-blue)
 
-- [sglang](https://github.com/sgl-project/sglang) ★38905
+- [sglang](https://github.com/sgl-project/sglang) ★38909
   - SGLang is a high-performance serving framework for large language models and multimodal models.
-  - Created: 2024-01-08  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
+  - Created: 2024-01-08  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `attention` `blackwell` `cuda`
 
 - [MockingBird](https://github.com/babysor/MockingBird) ★36856
   - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -141,7 +141,7 @@ Total Starred Repositories: 389
 
 - [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) ★1247
   - 🔥 The Python library & CLI for PDF forms.
-  - Created: 2020-10-28  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-mit-blue) `cli` `cli-app` `command-line-interface`
+  - Created: 2020-10-28  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-mit-blue) `cli` `cli-app` `command-line-interface`
 
 - [WeblogicScan](https://github.com/dr0op/WeblogicScan) ★962
   - 增强版WeblogicScan、检测结果更精确、插件化、添加CVE-2019-2618，CVE-2019-2729检测，Python3支持
@@ -237,7 +237,7 @@ Total Starred Repositories: 389
 
 - [Moonlark](https://github.com/Moonlark-Dev/Moonlark) ★21
   - 集实用工具和娱乐玩法于一体的多功能的开源聊天机器人
-  - Created: 2024-03-31  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `chatbot` `nonebot2` `python3`
+  - Created: 2024-03-31  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `chatbot` `nonebot2` `python3`
 
 - [nonebot_plugin_everyfurry](https://github.com/cheezhi/nonebot_plugin_everyfurry) ★17
   - 今日兽兽-福瑞bot插件
@@ -503,7 +503,7 @@ Total Starred Repositories: 389
   - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
   - Created: 2017-05-30  Updated: 2026-11-14  ![License](https://img.shields.io/badge/license-other-blue) `ai-literacy` `chinese` `english-learning`
 
-- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★13066
+- [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ★13067
   - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
   - Created: 2017-06-30  Updated: 2026-10-25  ![License](https://img.shields.io/badge/license-other-blue) `font` `typeface`
 
@@ -565,7 +565,7 @@ Total Starred Repositories: 389
 
 - [ZChat_v1](https://github.com/Zhengfu200/ZChat_v1) ★63
   - A simple Public Chatroom build with Node.js + Vue.js +QuasarUI
-  - Created: 2025-01-27  Updated: 2025-02-28  ![License](https://img.shields.io/badge/license-mit-blue) `backend` `chat-application` `frontend`
+  - Created: 2025-01-27  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-mit-blue) `backend` `chat-application` `frontend`
 
 - [ToReduce](https://github.com/lazycce/ToReduce) ★62
   - moyu、摸鱼神器，摸鱼也能如此高端
@@ -657,19 +657,19 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [ollama](https://github.com/ollama/ollama) ★187842
+- [ollama](https://github.com/ollama/ollama) ★187799
   - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   - Created: 2023-06-26  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-mit-blue) `deepseek` `gemma` `glm`
 
-- [go](https://github.com/golang/go) ★140132
+- [go](https://github.com/golang/go) ★140087
   - The Go programming language
-  - Created: 2014-08-19  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
+  - Created: 2014-08-19  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-bsd-3-clause-blue) `go` `golang` `language`
 
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★30120
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ★30122
   - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
   - Created: 2020-08-30  Updated: 2026-09-15  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `cdn` `cloudflare` `go`
 
-- [SafeLine](https://github.com/chaitin/SafeLine) ★23376
+- [SafeLine](https://github.com/chaitin/SafeLine) ★23383
   - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
   - Created: 2023-04-12  Updated: 2026-11-20  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `api-gateway` `application-security` `appsec`
 
@@ -685,11 +685,11 @@ Total Starred Repositories: 389
   - Go PostgreSQL driver for database/sql
   - Created: 2012-03-12  Updated: 2026-11-16  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★8812
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) ★8813
   - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
   - Created: 2019-09-23  Updated: 2026-11-20  ![License](https://img.shields.io/badge/license-mit-blue) `acm-icpc` `algorithm` `algorithms`
 
-- [goldmark](https://github.com/yuin/goldmark) ★5111
+- [goldmark](https://github.com/yuin/goldmark) ★5112
   - :trophy: The Golden Swiss Army Knife for markdown processing. 100% CommonMark compliant, AST w/ CST, Extensible, Fast, CJK-friendly.
   - Created: 2019-04-26  Updated: 2026-11-19  ![License](https://img.shields.io/badge/license-mit-blue) `commonmark` `go` `golang`
 
@@ -795,7 +795,7 @@ Total Starred Repositories: 389
 
 ### 🗂️ Other languages
 
-- [HowToCook](https://github.com/Anduin2017/HowToCook) ★104171
+- [HowToCook](https://github.com/Anduin2017/HowToCook) ★104173
   - Programmer's guide about how to cook at home.
   - Created: 2020-02-29  Updated: 2026-11-17  ![License](https://img.shields.io/badge/license-unlicense-blue) `chinese` `cookbook` `cooking`
 
@@ -807,21 +807,21 @@ Total Starred Repositories: 389
   - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
   - Created: 2024-04-07  Updated: 2026-11-18  
 
-- [geektime-books](https://github.com/CyberCommy/geektime-books) ★13463
+- [geektime-books](https://github.com/CyberCommy/geektime-books) ★13462
   - :books: 极客时间电子书
   - Created: 2023-01-26  Updated: 2023-01-26  
 
-- [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) ★8219
+- [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) ★8220
   - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-  - Created: 2019-12-08  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `cve` `exploit` `poc`
+  - Created: 2019-12-08  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-cc0-1.0-blue) `cve` `exploit` `poc`
 
 - [top-github-users](https://github.com/gayanvoice/top-github-users) ★4991
   - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
   - Created: 2021-06-03  Updated: 2026-11-21  
 
-- [cvelistV5](https://github.com/CVEProject/cvelistV5) ★3301
+- [cvelistV5](https://github.com/CVEProject/cvelistV5) ★3302
   - CVE cache of the official CVE List in CVE JSON 5 format
-  - Created: 2022-02-08  Updated: 2026-11-21  
+  - Created: 2022-02-08  Updated: 2026-11-22  
 
 - [stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese) ★3187
   - stable-diffusion-webui 的汉化扩展
@@ -1153,11 +1153,11 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [vscode](https://github.com/microsoft/vscode) ★195717
+- [vscode](https://github.com/microsoft/vscode) ★195669
   - Visual Studio Code
-  - Created: 2015-09-03  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
+  - Created: 2015-09-03  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-mit-blue) `editor` `electron` `microsoft`
 
-- [dokploy](https://github.com/Dokploy/dokploy) ★38637
+- [dokploy](https://github.com/Dokploy/dokploy) ★38640
   - Open Source Alternative to Vercel, Netlify and Heroku.
   - Created: 2024-04-19  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-other-blue) `agents` `ai` `backend`
 
@@ -1165,7 +1165,7 @@ Total Starred Repositories: 389
   - The most advanced free and open-source browser fingerprinting library
   - Created: 2015-02-11  Updated: 2026-11-05  ![License](https://img.shields.io/badge/license-mit-blue) `audio-fingerprinting` `browser` `browser-fingerprint`
 
-- [Trellis](https://github.com/mindfold-ai/Trellis) ★15162
+- [Trellis](https://github.com/mindfold-ai/Trellis) ★15163
   - The best agent harness.
   - Created: 2026-01-26  Updated: 2026-09-29  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `agentic-coding` `ai-workflow` `claudecode`
 
@@ -1239,13 +1239,13 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [linux](https://github.com/torvalds/linux) ★256334
+- [linux](https://github.com/torvalds/linux) ★256314
   - Linux kernel source tree
-  - Created: 2011-09-04  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2011-09-04  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-other-blue)
 
-- [PowerToys](https://github.com/microsoft/PowerToys) ★141265
+- [PowerToys](https://github.com/microsoft/PowerToys) ★141273
   - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-  - Created: 2019-05-01  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
+  - Created: 2019-05-01  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-mit-blue) `advanced-paste` `color-picker` `command-palette`
 
 - [chibicc](https://github.com/rui314/chibicc) ★11996
   - A small C compiler
@@ -1335,7 +1335,7 @@ Total Starred Repositories: 389
 
 - [maozi-cloud](https://github.com/1095071913/maozi-cloud) ★1568
   - 一款微服务一站式解决方案，内置分布式应用开发所需全套组件，统一团队代码风格，保障代码质量，让开发者专注业务逻辑，实现高效快速开发。
-  - Created: 2019-08-15  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `devops` `k8s` `serverless`
+  - Created: 2019-08-15  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-apache-2.0-blue) `devops` `k8s` `serverless`
 
 - [CyberController](https://github.com/KikiLetGo/CyberController) ★1281
   - CyberController
@@ -1433,7 +1433,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方主题分类
 
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★33662
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ★33664
   - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
   - Created: 2020-10-09  Updated: 2026-10-10  ![License](https://img.shields.io/badge/license-mit-blue) `electron` `javascript` `linux`
 
@@ -1445,7 +1445,7 @@ Total Starred Repositories: 389
   - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
   - Created: 2020-05-24  Updated: 2026-11-18  ![License](https://img.shields.io/badge/license-mit-blue) `cloudbase` `comment` `comment-system`
 
-- [Ech0](https://github.com/lin-snow/Ech0) ★2122
+- [Ech0](https://github.com/lin-snow/Ech0) ★2123
   - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
   - Created: 2025-03-21  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-agpl-3.0-blue) `ech0` `go` `golang`
 
@@ -1455,7 +1455,7 @@ Total Starred Repositories: 389
 
 - [valaxy](https://github.com/YunYouJun/valaxy) ★1127
   - 🌌 为表达而生的静态博客框架 · A static blog framework for your voice. Vue 3 + Vite, AI-ready (Skills / MCP / llms.txt)
-  - Created: 2022-03-08  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-mit-blue) `agent-skills` `blog` `blog-framework`
+  - Created: 2022-03-08  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-mit-blue) `agent-skills` `blog` `blog-framework`
 
 - [Axolotl](https://github.com/Axolotl-Launcher/Axolotl) ★878
   - 开源，跨平台的下一代启动器
@@ -1527,7 +1527,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [skills](https://github.com/mattpocock/skills) ★329737
+- [skills](https://github.com/mattpocock/skills) ★329817
   - Skills for Real Engineers. Straight from my .agents directory.
   - Created: 2026-02-03  Updated: 2026-11-19  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1539,7 +1539,7 @@ Total Starred Repositories: 389
   - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
   - Created: 2021-01-25  Updated: 2026-11-19  ![License](https://img.shields.io/badge/license-mit-blue) `almalinux` `alpine` `archlinux`
 
-- [EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) ★2018
+- [EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) ★2019
   - Collection of PulseEffects presets
   - Created: 2018-01-11  Updated: 2026-09-29  ![License](https://img.shields.io/badge/license-mit-blue)
 
@@ -1615,7 +1615,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [dev-sidecar](https://github.com/docmirror/dev-sidecar) ★25159
+- [dev-sidecar](https://github.com/docmirror/dev-sidecar) ★25162
   - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
   - Created: 2020-09-29  Updated: 2026-11-08  ![License](https://img.shields.io/badge/license-mpl-2.0-blue) `dev-sidecar` `dns-ip` `electron`
 
@@ -1633,7 +1633,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方主题分类
 
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★119679
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) ★119681
   - :books: 免费的计算机编程类中文书籍，欢迎投稿
   - Created: 2013-11-04  Updated: 2026-07-29  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `android` `angular` `books`
 
@@ -1693,7 +1693,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★63473
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) ★63489
   - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
   - Created: 2020-10-27  Updated: 2026-11-15  ![License](https://img.shields.io/badge/license-mit-blue) `automated` `bloatware` `bloatware-removal`
 
@@ -1731,7 +1731,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★200417
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ★200435
   - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
   - Created: 2020-01-12  Updated: 2026-11-11  ![License](https://img.shields.io/badge/license-gpl-3.0-blue) `activator` `hwid` `kms`
 
@@ -1751,9 +1751,9 @@ Total Starred Repositories: 389
 
 ### GitHub官方语言分类
 
-- [llvm-project](https://github.com/llvm/llvm-project) ★41549
+- [llvm-project](https://github.com/llvm/llvm-project) ★41552
   - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-  - Created: 2016-12-07  Updated: 2026-11-21  ![License](https://img.shields.io/badge/license-other-blue)
+  - Created: 2016-12-07  Updated: 2026-11-22  ![License](https://img.shields.io/badge/license-other-blue)
 
 
 
@@ -1801,7 +1801,7 @@ Total Starred Repositories: 389
 
 ### GitHub官方主题分类
 
-- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ★79760
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ★79774
   - Learn AI Engineering! Learn it. Build it. Ship it for others.
   - Created: 2026-03-18  Updated: 2026-11-18  ![License](https://img.shields.io/badge/license-mit-blue) `agents` `ai` `ai-agents`
 
